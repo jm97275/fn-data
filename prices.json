@@ -1,0 +1,282 @@
+{
+  "updated": "2026-03-19T07:58:14.320839",
+  "asOf": "Mar 18, 2026",
+  "live": true,
+  "futures": {
+    "feeder_cattle": {
+      "name": "Feeder Cattle",
+      "price": 358.73,
+      "change": -1.07,
+      "fmt": "cwt",
+      "avg5": 245.6,
+      "source": "CME via Yahoo Finance",
+      "asOf": "Mar 18, 2026"
+    },
+    "live_cattle": {
+      "name": "Live Cattle",
+      "price": 235.4,
+      "change": 0.17,
+      "fmt": "cwt",
+      "avg5": 172.8,
+      "source": "CME via Yahoo Finance",
+      "asOf": "Mar 18, 2026"
+    },
+    "corn": {
+      "name": "Corn",
+      "price": 4.64,
+      "change": 0.01,
+      "fmt": "bu",
+      "avg5": 4.85,
+      "source": "CME via Yahoo Finance",
+      "asOf": "Mar 19, 2026"
+    },
+    "soybeans": {
+      "name": "Soybeans",
+      "price": 11.61,
+      "change": -0.01,
+      "fmt": "bu",
+      "avg5": 11.4,
+      "source": "CME via Yahoo Finance",
+      "asOf": "Mar 19, 2026"
+    },
+    "wheat": {
+      "name": "Wheat",
+      "price": 6.07,
+      "change": 0.02,
+      "fmt": "bu",
+      "avg5": 5.87,
+      "source": "CME via Yahoo Finance",
+      "asOf": "Mar 19, 2026"
+    },
+    "class3_milk": {
+      "name": "Class III Milk",
+      "price": 16.15,
+      "change": -0.01,
+      "fmt": "cwt",
+      "avg5": 18.2,
+      "source": "CME via Yahoo Finance",
+      "asOf": "Mar 19, 2026"
+    }
+  },
+  "hay": {
+    "hay_alfalfa": {
+      "name": "Alfalfa (premium)",
+      "price": 285,
+      "change": 5,
+      "unit": "/ton",
+      "avg5": 255
+    },
+    "hay_orchard": {
+      "name": "Orchard Grass",
+      "price": 240,
+      "change": -10,
+      "unit": "/ton",
+      "avg5": 220
+    },
+    "hay_grass": {
+      "name": "Grass Hay (good)",
+      "price": 195,
+      "change": 0,
+      "unit": "/ton",
+      "avg5": 180
+    },
+    "hay_straw": {
+      "name": "Straw",
+      "price": 110,
+      "change": 0,
+      "unit": "/ton",
+      "avg5": 100
+    }
+  },
+  "derived": {
+    "cash_corn": {
+      "name": "Cash (est.)",
+      "price": 4.39,
+      "change": 0.01,
+      "fmt": "bu",
+      "derived": true,
+      "avg5": 4.6,
+      "note": "Futures + est. Oregon basis"
+    },
+    "milk_feed_margin": {
+      "name": "Milk-Feed Margin",
+      "price": 5.22,
+      "change": -0.02,
+      "fmt": "cwt",
+      "derived": true,
+      "trigger": 9.5,
+      "avg5": 8.9,
+      "note": "Milk $16.15 - Feed $10.93 (corn $4.98 + meal $2.05 + hay $3.90)"
+    }
+  },
+  "archetypes": {
+    "cattle": {
+      "prices": [
+        {
+          "n": "Feeder Cattle",
+          "v": 358.73,
+          "c": -1.07,
+          "fmt": "cwt",
+          "avg5": 245.6
+        },
+        {
+          "n": "Live Cattle",
+          "v": 235.4,
+          "c": 0.17,
+          "fmt": "cwt",
+          "avg5": 172.8
+        },
+        {
+          "n": "Hay (Alfalfa)",
+          "v": 285,
+          "c": 5,
+          "fmt": "ton",
+          "avg5": 255
+        }
+      ],
+      "priceDate": "Mar 18, 2026",
+      "priceNote": "CME settlement + USDA AMS hay"
+    },
+    "grain": {
+      "prices": [
+        {
+          "n": "Corn",
+          "v": 4.64,
+          "c": 0.01,
+          "fmt": "bu",
+          "avg5": 4.85
+        },
+        {
+          "n": "Soybeans",
+          "v": 11.61,
+          "c": -0.01,
+          "fmt": "bu",
+          "avg5": 11.4
+        },
+        {
+          "n": "Cash (est.)",
+          "v": 4.39,
+          "c": 0.01,
+          "fmt": "bu",
+          "avg5": 4.6,
+          "derived": true
+        }
+      ],
+      "priceDate": "Mar 18, 2026",
+      "priceNote": "CME settlement + est. basis"
+    },
+    "dairy": {
+      "prices": [
+        {
+          "n": "Class III Milk",
+          "v": 16.15,
+          "c": -0.01,
+          "fmt": "cwt",
+          "avg5": 18.2
+        },
+        {
+          "n": "Corn (feed)",
+          "v": 4.64,
+          "c": 0.01,
+          "fmt": "bu",
+          "avg5": 4.85
+        },
+        {
+          "n": "Milk-Feed Margin",
+          "v": 5.22,
+          "c": -0.02,
+          "fmt": "cwt",
+          "avg5": 8.9,
+          "derived": true,
+          "trigger": 9.5
+        }
+      ],
+      "priceDate": "Mar 18, 2026",
+      "priceNote": "USDA AMS / CME"
+    },
+    "mixed": {
+      "prices": [
+        {
+          "n": "Feeder Cattle",
+          "v": 358.73,
+          "c": -1.07,
+          "fmt": "cwt",
+          "avg5": 245.6
+        },
+        {
+          "n": "Corn",
+          "v": 4.64,
+          "c": 0.01,
+          "fmt": "bu",
+          "avg5": 4.85
+        },
+        {
+          "n": "Live Cattle",
+          "v": 235.4,
+          "c": 0.17,
+          "fmt": "cwt",
+          "avg5": 172.8
+        },
+        {
+          "n": "Hay (Alfalfa)",
+          "v": 285,
+          "c": 5,
+          "fmt": "ton",
+          "avg5": 255
+        }
+      ],
+      "priceDate": "Mar 18, 2026",
+      "priceNote": "CME settlement + USDA AMS hay"
+    }
+  },
+  "hayMarket": {
+    "items": [
+      {
+        "type": "Alfalfa",
+        "price": 176,
+        "chg": 0,
+        "unit": "/ton"
+      },
+      {
+        "type": "Grass",
+        "price": 87,
+        "chg": 0,
+        "unit": "/ton"
+      },
+      {
+        "type": "Bermuda",
+        "price": 89,
+        "chg": 0,
+        "unit": "/ton"
+      }
+    ],
+    "note": "USDA AMS hay report \u00b7 As of Mar 09, 2026",
+    "date": "Mar 09, 2026",
+    "updated": "2026-03-19T07:58:25.116557",
+    "reports_used": 7
+  },
+  "history": [
+    {
+      "date": "Mar 17, 2026",
+      "feeder_cattle": 359.8,
+      "live_cattle": 235.23,
+      "corn": 4.53,
+      "soybeans": 11.53,
+      "wheat": 5.9,
+      "class3_milk": 17.16,
+      "cash_corn": 4.28,
+      "milk_feed_margin": 6.36
+    },
+    {
+      "date": "Mar 18, 2026",
+      "feeder_cattle": 358.73,
+      "live_cattle": 235.4,
+      "corn": 4.64,
+      "soybeans": 11.61,
+      "wheat": 6.07,
+      "class3_milk": 16.15,
+      "cash_corn": 4.39,
+      "milk_feed_margin": 5.22
+    }
+  ]
+}
