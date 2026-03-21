@@ -1,30 +1,30 @@
 {
-  "updated": "2026-03-20T05:39:32.924933",
-  "asOf": "Mar 19, 2026",
+  "updated": "2026-03-21T05:14:27.845231",
+  "asOf": "Mar 20, 2026",
   "live": true,
   "futures": {
     "feeder_cattle": {
       "name": "Feeder Cattle",
-      "price": 355.27,
-      "change": -3.45,
+      "price": 351.17,
+      "change": -4.1,
       "fmt": "cwt",
       "avg5": 245.6,
       "source": "CME via Yahoo Finance",
-      "asOf": "Mar 19, 2026"
+      "asOf": "Mar 20, 2026"
     },
     "live_cattle": {
       "name": "Live Cattle",
-      "price": 233.27,
-      "change": -2.12,
+      "price": 233.43,
+      "change": 0.15,
       "fmt": "cwt",
       "avg5": 172.8,
       "source": "CME via Yahoo Finance",
-      "asOf": "Mar 19, 2026"
+      "asOf": "Mar 20, 2026"
     },
     "corn": {
       "name": "Corn",
-      "price": 4.68,
-      "change": -0.01,
+      "price": 4.66,
+      "change": -0.04,
       "fmt": "bu",
       "avg5": 4.85,
       "source": "CME via Yahoo Finance",
@@ -32,8 +32,8 @@
     },
     "soybeans": {
       "name": "Soybeans",
-      "price": 11.74,
-      "change": 0.05,
+      "price": 11.61,
+      "change": -0.07,
       "fmt": "bu",
       "avg5": 11.4,
       "source": "CME via Yahoo Finance",
@@ -41,8 +41,8 @@
     },
     "wheat": {
       "name": "Wheat",
-      "price": 6.07,
-      "change": -0.01,
+      "price": 5.95,
+      "change": -0.13,
       "fmt": "bu",
       "avg5": 5.87,
       "source": "CME via Yahoo Finance",
@@ -50,12 +50,12 @@
     },
     "class3_milk": {
       "name": "Class III Milk",
-      "price": 16.12,
-      "change": -0.04,
+      "price": 17.24,
+      "change": 1.12,
       "fmt": "cwt",
       "avg5": 18.2,
       "source": "CME via Yahoo Finance",
-      "asOf": "Mar 19, 2026"
+      "asOf": "Mar 20, 2026"
     }
   },
   "hay": {
@@ -91,8 +91,8 @@
   "derived": {
     "cash_corn": {
       "name": "Cash (est.)",
-      "price": 4.43,
-      "change": -0.01,
+      "price": 4.41,
+      "change": -0.04,
       "fmt": "bu",
       "derived": true,
       "avg5": 4.6,
@@ -100,13 +100,13 @@
     },
     "milk_feed_margin": {
       "name": "Milk-Feed Margin",
-      "price": 5.12,
-      "change": -0.03,
+      "price": 6.29,
+      "change": 1.16,
       "fmt": "cwt",
       "derived": true,
       "trigger": 9.5,
       "avg5": 8.9,
-      "note": "Milk $16.12 - Feed $11.00 (corn $5.02 + meal $2.07 + hay $3.90)"
+      "note": "Milk $17.24 - Feed $10.95 (corn $5.00 + meal $2.05 + hay $3.90)"
     }
   },
   "archetypes": {
@@ -114,15 +114,15 @@
       "prices": [
         {
           "n": "Feeder Cattle",
-          "v": 355.27,
-          "c": -3.45,
+          "v": 351.17,
+          "c": -4.1,
           "fmt": "cwt",
           "avg5": 245.6
         },
         {
           "n": "Live Cattle",
-          "v": 233.27,
-          "c": -2.12,
+          "v": 233.43,
+          "c": 0.15,
           "fmt": "cwt",
           "avg5": 172.8
         },
@@ -134,86 +134,86 @@
           "avg5": 255
         }
       ],
-      "priceDate": "Mar 19, 2026",
+      "priceDate": "Mar 20, 2026",
       "priceNote": "CME settlement + USDA AMS hay"
     },
     "grain": {
       "prices": [
         {
           "n": "Corn",
-          "v": 4.68,
-          "c": -0.01,
+          "v": 4.66,
+          "c": -0.04,
           "fmt": "bu",
           "avg5": 4.85
         },
         {
           "n": "Soybeans",
-          "v": 11.74,
-          "c": 0.05,
+          "v": 11.61,
+          "c": -0.07,
           "fmt": "bu",
           "avg5": 11.4
         },
         {
           "n": "Cash (est.)",
-          "v": 4.43,
-          "c": -0.01,
+          "v": 4.41,
+          "c": -0.04,
           "fmt": "bu",
           "avg5": 4.6,
           "derived": true
         }
       ],
-      "priceDate": "Mar 19, 2026",
+      "priceDate": "Mar 20, 2026",
       "priceNote": "CME settlement + est. basis"
     },
     "dairy": {
       "prices": [
         {
           "n": "Class III Milk",
-          "v": 16.12,
-          "c": -0.04,
+          "v": 17.24,
+          "c": 1.12,
           "fmt": "cwt",
           "avg5": 18.2
         },
         {
           "n": "Corn (feed)",
-          "v": 4.68,
-          "c": -0.01,
+          "v": 4.66,
+          "c": -0.04,
           "fmt": "bu",
           "avg5": 4.85
         },
         {
           "n": "Milk-Feed Margin",
-          "v": 5.12,
-          "c": -0.03,
+          "v": 6.29,
+          "c": 1.16,
           "fmt": "cwt",
           "avg5": 8.9,
           "derived": true,
           "trigger": 9.5
         }
       ],
-      "priceDate": "Mar 19, 2026",
+      "priceDate": "Mar 20, 2026",
       "priceNote": "USDA AMS / CME"
     },
     "mixed": {
       "prices": [
         {
           "n": "Feeder Cattle",
-          "v": 355.27,
-          "c": -3.45,
+          "v": 351.17,
+          "c": -4.1,
           "fmt": "cwt",
           "avg5": 245.6
         },
         {
           "n": "Corn",
-          "v": 4.68,
-          "c": -0.01,
+          "v": 4.66,
+          "c": -0.04,
           "fmt": "bu",
           "avg5": 4.85
         },
         {
           "n": "Live Cattle",
-          "v": 233.27,
-          "c": -2.12,
+          "v": 233.43,
+          "c": 0.15,
           "fmt": "cwt",
           "avg5": 172.8
         },
@@ -225,7 +225,7 @@
           "avg5": 255
         }
       ],
-      "priceDate": "Mar 19, 2026",
+      "priceDate": "Mar 20, 2026",
       "priceNote": "CME settlement + USDA AMS hay"
     }
   },
@@ -250,9 +250,9 @@
         "unit": "/ton"
       }
     ],
-    "note": "USDA AMS hay report \u00b7 As of Mar 09, 2026",
-    "date": "Mar 09, 2026",
-    "updated": "2026-03-20T05:39:49.847667",
+    "note": "USDA AMS hay report \u00b7 As of Mar 16, 2026",
+    "date": "Mar 16, 2026",
+    "updated": "2026-03-21T05:14:34.577614",
     "reports_used": 7
   },
   "history": [
@@ -288,6 +288,17 @@
       "class3_milk": 16.12,
       "cash_corn": 4.43,
       "milk_feed_margin": 5.12
+    },
+    {
+      "date": "Mar 20, 2026",
+      "feeder_cattle": 351.17,
+      "live_cattle": 233.43,
+      "corn": 4.66,
+      "soybeans": 11.61,
+      "wheat": 5.95,
+      "class3_milk": 17.24,
+      "cash_corn": 4.41,
+      "milk_feed_margin": 6.29
     }
   ]
 }
