@@ -1,0 +1,23 @@
+{
+  "fetched": "2026-03-23T16:18:36Z",
+  "report_date": "2026-03-20",
+  "reference_date": "2026-03-01",
+  "on_feed": {
+    "head_1000": 11549,
+    "year_ago_1000": 11577,
+    "pct_of_year_ago": 99.8
+  },
+  "placements": {
+    "month": "February",
+    "head_1000": 1611,
+    "year_ago_1000": 1554,
+    "pct_of_year_ago": 103.7
+  },
+  "marketings": {
+    "month": "February",
+    "head_1000": 1611,
+    "year_ago_1000": 1554,
+    "pct_of_year_ago": 103.7
+  },
+  "next_report": "2026-04-17"
+}
