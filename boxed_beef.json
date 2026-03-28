@@ -1,0 +1,16 @@
+{
+  "report_date": "2026-03-27",
+  "fetched": "2026-03-28T01:52:19Z",
+  "choice": 392.97,
+  "select": 389.87,
+  "spread": 3.1,
+  "choice_change": -6.92,
+  "spread_change": -5.43,
+  "primals": {
+    "rib": 553.99,
+    "chuck": 332.05,
+    "round": 336.81,
+    "loin": 528.24,
+    "brisket": 336.93
+  }
+}

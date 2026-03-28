@@ -1,36 +1,36 @@
 {
-  "updated": "2026-03-27T06:19:02.313503",
-  "asOf": "Mar 26, 2026",
+  "updated": "2026-03-28T01:52:06.741412",
+  "asOf": "Mar 27, 2026",
   "live": true,
   "futures": {
     "feeder_cattle": {
       "name": "Feeder Cattle",
-      "price": 363.52,
-      "change": 1.65,
-      "volume": 1154,
-      "avgVolume": 1252,
+      "price": 360.12,
+      "change": -3.4,
+      "volume": 12896,
+      "avgVolume": 4280,
       "fmt": "cwt",
-      "avg5": 223.55,
+      "avg5": 224.6,
       "source": "CME via Yahoo Finance",
-      "asOf": "Mar 26, 2026"
+      "asOf": "Mar 27, 2026"
     },
     "live_cattle": {
       "name": "Live Cattle",
-      "price": 235.1,
-      "change": 0.68,
-      "volume": 13797,
-      "avgVolume": 11332,
+      "price": 238.82,
+      "change": 3.72,
+      "volume": 32180,
+      "avgVolume": 14364,
       "fmt": "cwt",
-      "avg5": 171.93,
+      "avg5": 172.44,
       "source": "CME via Yahoo Finance",
-      "asOf": "Mar 26, 2026"
+      "asOf": "Mar 27, 2026"
     },
     "corn": {
       "name": "Corn",
-      "price": 4.67,
-      "change": 0.01,
-      "volume": 4662,
-      "avgVolume": 150742,
+      "price": 4.62,
+      "change": -0.05,
+      "volume": 162031,
+      "avgVolume": 183857,
       "fmt": "bu",
       "avg5": 5.52,
       "source": "CME via Yahoo Finance",
@@ -38,21 +38,21 @@
     },
     "soybeans": {
       "name": "Soybeans",
-      "price": 11.75,
-      "change": 0.01,
-      "volume": 3510,
-      "avgVolume": 92314,
+      "price": 11.6,
+      "change": -0.14,
+      "volume": 104266,
+      "avgVolume": 108741,
       "fmt": "bu",
-      "avg5": 13.36,
+      "avg5": 13.35,
       "source": "CME via Yahoo Finance",
       "asOf": "Mar 27, 2026"
     },
     "wheat": {
       "name": "Wheat",
-      "price": 6.04,
-      "change": -0.01,
-      "volume": 2446,
-      "avgVolume": 60178,
+      "price": 6.06,
+      "change": 0.01,
+      "volume": 49967,
+      "avgVolume": 67611,
       "fmt": "bu",
       "avg5": 6.96,
       "source": "CME via Yahoo Finance",
@@ -60,10 +60,10 @@
     },
     "class3_milk": {
       "name": "Class III Milk",
-      "price": 17.94,
-      "change": 1.8,
-      "volume": 9,
-      "avgVolume": 67,
+      "price": 17.61,
+      "change": 1.47,
+      "volume": 554,
+      "avgVolume": 167,
       "fmt": "cwt",
       "avg5": 18.07,
       "source": "CME via Yahoo Finance",
@@ -72,32 +72,32 @@
   },
   "delivery_futures": {
     "feeder_oct": {
-      "price": 346.9,
-      "change": 1.05,
+      "price": 353.55,
+      "change": 6.65,
       "contract": "Oct 2026",
       "ticker": "GFV26.CME"
     },
     "corn_dec": {
-      "price": 4.95,
-      "change": 0.0,
+      "price": 4.9,
+      "change": -0.04,
       "contract": "Dec 2026",
       "ticker": "ZCZ26.CBT"
     },
     "soy_nov": {
-      "price": 11.54,
-      "change": 0.01,
+      "price": 11.44,
+      "change": -0.09,
       "contract": "Nov 2026",
       "ticker": "ZSX26.CBT"
     },
     "wheat_dec": {
-      "price": 6.45,
-      "change": -0.01,
+      "price": 6.46,
+      "change": 0.0,
       "contract": "Dec 2026",
       "ticker": "ZWZ26.CBT"
     },
     "soymeal_dec": {
-      "price": 313.5,
-      "change": 0.2,
+      "price": 308.9,
+      "change": -4.4,
       "contract": "Dec 2026",
       "ticker": "ZMZ26.CBT"
     }
@@ -135,8 +135,8 @@
   "derived": {
     "cash_corn": {
       "name": "Cash (est.)",
-      "price": 4.42,
-      "change": 0.01,
+      "price": 4.37,
+      "change": -0.05,
       "fmt": "bu",
       "derived": true,
       "avg5": 5.27,
@@ -148,17 +148,17 @@
       "prices": [
         {
           "n": "Feeder Cattle",
-          "v": 363.52,
-          "c": 1.65,
+          "v": 360.12,
+          "c": -3.4,
           "fmt": "cwt",
-          "avg5": 223.55
+          "avg5": 224.6
         },
         {
           "n": "Live Cattle",
-          "v": 235.1,
-          "c": 0.68,
+          "v": 238.82,
+          "c": 3.72,
           "fmt": "cwt",
-          "avg5": 171.93
+          "avg5": 172.44
         },
         {
           "n": "Hay (Alfalfa)",
@@ -168,50 +168,50 @@
           "avg5": 255
         }
       ],
-      "priceDate": "Mar 26, 2026",
+      "priceDate": "Mar 27, 2026",
       "priceNote": "CME settlement + USDA AMS hay"
     },
     "grain": {
       "prices": [
         {
           "n": "Corn",
-          "v": 4.67,
-          "c": 0.01,
+          "v": 4.62,
+          "c": -0.05,
           "fmt": "bu",
           "avg5": 5.52
         },
         {
           "n": "Soybeans",
-          "v": 11.75,
-          "c": 0.01,
+          "v": 11.6,
+          "c": -0.14,
           "fmt": "bu",
-          "avg5": 13.36
+          "avg5": 13.35
         },
         {
           "n": "Cash (est.)",
-          "v": 4.42,
-          "c": 0.01,
+          "v": 4.37,
+          "c": -0.05,
           "fmt": "bu",
           "avg5": 5.27,
           "derived": true
         }
       ],
-      "priceDate": "Mar 26, 2026",
+      "priceDate": "Mar 27, 2026",
       "priceNote": "CME settlement + est. basis"
     },
     "dairy": {
       "prices": [
         {
           "n": "Class III Milk",
-          "v": 17.94,
-          "c": 1.8,
+          "v": 17.61,
+          "c": 1.47,
           "fmt": "cwt",
           "avg5": 18.07
         },
         {
           "n": "Corn (feed)",
-          "v": 4.67,
-          "c": 0.01,
+          "v": 4.62,
+          "c": -0.05,
           "fmt": "bu",
           "avg5": 5.52
         },
@@ -224,31 +224,31 @@
           "stale": true
         }
       ],
-      "priceDate": "Mar 26, 2026",
+      "priceDate": "Mar 27, 2026",
       "priceNote": "USDA AMS / CME"
     },
     "mixed": {
       "prices": [
         {
           "n": "Feeder Cattle",
-          "v": 363.52,
-          "c": 1.65,
+          "v": 360.12,
+          "c": -3.4,
           "fmt": "cwt",
-          "avg5": 223.55
+          "avg5": 224.6
         },
         {
           "n": "Corn",
-          "v": 4.67,
-          "c": 0.01,
+          "v": 4.62,
+          "c": -0.05,
           "fmt": "bu",
           "avg5": 5.52
         },
         {
           "n": "Live Cattle",
-          "v": 235.1,
-          "c": 0.68,
+          "v": 238.82,
+          "c": 3.72,
           "fmt": "cwt",
-          "avg5": 171.93
+          "avg5": 172.44
         },
         {
           "n": "Hay (Alfalfa)",
@@ -258,7 +258,7 @@
           "avg5": 255
         }
       ],
-      "priceDate": "Mar 26, 2026",
+      "priceDate": "Mar 27, 2026",
       "priceNote": "CME settlement + USDA AMS hay"
     }
   },
@@ -283,9 +283,9 @@
         "unit": "/ton"
       }
     ],
-    "note": "USDA AMS hay report \u00b7 As of Mar 16, 2026",
-    "date": "Mar 16, 2026",
-    "updated": "2026-03-27T06:19:14.184500",
+    "note": "USDA AMS hay report \u00b7 As of Mar 23, 2026",
+    "date": "Mar 23, 2026",
+    "updated": "2026-03-28T01:52:17.625055",
     "reports_used": 7
   },
   "history": [
@@ -384,13 +384,29 @@
       "class3_milk": 17.94,
       "class3_milk_vol": 9,
       "cash_corn": 4.42
+    },
+    {
+      "date": "Mar 27, 2026",
+      "feeder_cattle": 360.12,
+      "feeder_cattle_vol": 12896,
+      "live_cattle": 238.82,
+      "live_cattle_vol": 32180,
+      "corn": 4.62,
+      "corn_vol": 162031,
+      "soybeans": 11.6,
+      "soybeans_vol": 104266,
+      "wheat": 6.06,
+      "wheat_vol": 49967,
+      "class3_milk": 17.61,
+      "class3_milk_vol": 554,
+      "cash_corn": 4.37
     }
   ],
   "monthly_averages": {
     "feeder_cattle": {
       "01": 242.21,
-      "02": 246.2,
-      "03": 223.55,
+      "02": 247.32,
+      "03": 224.6,
       "04": 206.58,
       "05": 210.9,
       "06": 223.83,
@@ -403,8 +419,8 @@
     },
     "live_cattle": {
       "01": 180.77,
-      "02": 185.3,
-      "03": 171.93,
+      "02": 186.05,
+      "03": 172.44,
       "04": 164.91,
       "05": 162.07,
       "06": 167.38,
@@ -417,7 +433,7 @@
     },
     "corn": {
       "01": 5.26,
-      "02": 5.32,
+      "02": 5.31,
       "03": 5.52,
       "04": 5.88,
       "05": 5.98,
@@ -431,8 +447,8 @@
     },
     "soybeans": {
       "01": 12.42,
-      "02": 12.9,
-      "03": 13.36,
+      "02": 12.89,
+      "03": 13.35,
       "04": 13.58,
       "05": 13.77,
       "06": 13.69,
@@ -459,7 +475,7 @@
     },
     "class3_milk": {
       "01": 18.03,
-      "02": 18.01,
+      "02": 18.03,
       "03": 18.07,
       "04": 18.59,
       "05": 19.45,
@@ -474,44 +490,82 @@
   },
   "diesel_history": [],
   "diesel_context": {},
+  "wasde": {
+    "report_date": "2026-03-10",
+    "fetched_at": "2026-03-10T17:00:00Z",
+    "cattle": {
+      "beef_production": -110,
+      "beef_production_note": "decreased 110M lbs from February \u2014 processing speeds lower than anticipated, carcass weights heavier",
+      "beef_production_direction": "lowered",
+      "steer_prices_q1": 240,
+      "steer_prices_q2": 241,
+      "steer_prices_q3": 242,
+      "steer_prices_q4": 245,
+      "beef_imports_change": 100,
+      "beef_imports_direction": "raised",
+      "beef_exports_change": -30,
+      "beef_exports_direction": "lowered"
+    },
+    "grain": {
+      "corn_ending_stocks": 1540,
+      "corn_ending_stocks_unit": "million_bu",
+      "corn_ending_stocks_change": 0,
+      "corn_ending_stocks_direction": "unchanged",
+      "soy_ending_stocks": 380,
+      "soy_ending_stocks_unit": "million_bu",
+      "soy_ending_stocks_change": 0,
+      "soy_ending_stocks_direction": "unchanged",
+      "wheat_ending_stocks": 819,
+      "wheat_ending_stocks_unit": "million_bu",
+      "wheat_ending_stocks_change": 0,
+      "wheat_ending_stocks_direction": "unchanged",
+      "corn_season_avg_price": 4.1,
+      "soy_imports_change": 5,
+      "soy_crush_change": 5
+    },
+    "dairy": {
+      "milk_production_direction": "unchanged",
+      "milk_production_change": 0
+    }
+  },
   "hay_prices": {
     "idaho_montana": {
       "alfalfa": 135,
       "grass": 51,
-      "report_date": "03/16/2026"
+      "report_date": "03/23/2026"
     },
     "california": {
       "alfalfa": 201,
       "grass": 142,
-      "report_date": "03/09/2026"
+      "report_date": "03/23/2026"
     }
   },
   "cash_grain": {
-    "corn_pnw": 4.32,
+    "corn_pnw": 4.27,
     "basis_corn_pnw": -0.35,
-    "corn_gulf": 4.77,
+    "corn_gulf": 4.72,
     "basis_corn_gulf": 0.1,
-    "corn_central": 4.52,
+    "corn_central": 4.47,
     "basis_corn_central": -0.15,
-    "corn_southern": 4.62,
+    "corn_southern": 4.57,
     "basis_corn_southern": -0.05,
-    "soybeans_pnw": 11.3,
+    "soybeans_pnw": 11.15,
     "basis_soybeans_pnw": -0.45,
-    "soybeans_gulf": 11.9,
+    "soybeans_gulf": 11.75,
     "basis_soybeans_gulf": 0.15,
-    "soybeans_central": 11.65,
+    "soybeans_central": 11.5,
     "basis_soybeans_central": -0.1,
-    "soybeans_southern": 11.7,
+    "soybeans_southern": 11.55,
     "basis_soybeans_southern": -0.05,
-    "wheat_pnw": 6.24,
+    "wheat_pnw": 6.26,
     "basis_wheat_pnw": 0.2,
-    "wheat_gulf": 6.09,
+    "wheat_gulf": 6.11,
     "basis_wheat_gulf": 0.05,
-    "wheat_central": 5.84,
+    "wheat_central": 5.86,
     "basis_wheat_central": -0.2,
-    "wheat_southern": 5.94,
+    "wheat_southern": 5.96,
     "basis_wheat_southern": -0.1,
-    "report_date": "Mar 26, 2026",
+    "report_date": "Mar 27, 2026",
     "note": "Estimated from CME futures + typical regional basis. Not live cash quotes."
   }
 }
