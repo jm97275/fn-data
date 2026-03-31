@@ -1,0 +1,18 @@
+[
+  {
+    "date": "2026-03-31",
+    "prices": {
+      "alfalfa": 176,
+      "grass": 87,
+      "bermuda": 89
+    }
+  },
+  {
+    "date": "2026-03-23",
+    "prices": {
+      "alfalfa": 176,
+      "grass": 87,
+      "bermuda": 89
+    }
+  }
+]
