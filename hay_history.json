@@ -3,516 +3,592 @@
     "date": "2020-01-15",
     "prices": {
       "alfalfa": 169.0,
-      "grass": 155.0
+      "grass": 155.0,
+      "bermuda": 137.0
     }
   },
   {
     "date": "2020-02-15",
     "prices": {
       "alfalfa": 168.0,
-      "grass": 157.0
+      "grass": 157.0,
+      "bermuda": 140.0
     }
   },
   {
     "date": "2020-03-15",
     "prices": {
       "alfalfa": 172.0,
-      "grass": 156.0
+      "grass": 156.0,
+      "bermuda": 134.0
     }
   },
   {
     "date": "2020-04-15",
     "prices": {
       "alfalfa": 180.0,
-      "grass": 161.0
+      "grass": 161.0,
+      "bermuda": 127.0
     }
   },
   {
     "date": "2020-05-15",
     "prices": {
       "alfalfa": 179.0,
-      "grass": 159.0
+      "grass": 159.0,
+      "bermuda": 130.0
     }
   },
   {
     "date": "2020-06-15",
     "prices": {
       "alfalfa": 178.0,
-      "grass": 156.0
+      "grass": 156.0,
+      "bermuda": 123.0
     }
   },
   {
     "date": "2020-07-15",
     "prices": {
       "alfalfa": 172.0,
-      "grass": 156.0
+      "grass": 156.0,
+      "bermuda": 133.0
     }
   },
   {
     "date": "2020-08-15",
     "prices": {
       "alfalfa": 171.0,
-      "grass": 157.0
+      "grass": 157.0,
+      "bermuda": 134.0
     }
   },
   {
     "date": "2020-09-15",
     "prices": {
       "alfalfa": 168.0,
-      "grass": 151.0
+      "grass": 151.0,
+      "bermuda": 124.0
     }
   },
   {
     "date": "2020-10-15",
     "prices": {
       "alfalfa": 169.0,
-      "grass": 155.0
+      "grass": 155.0,
+      "bermuda": 133.0
     }
   },
   {
     "date": "2020-11-15",
     "prices": {
       "alfalfa": 164.0,
-      "grass": 153.0
+      "grass": 153.0,
+      "bermuda": 135.0
     }
   },
   {
     "date": "2020-12-15",
     "prices": {
       "alfalfa": 166.0,
-      "grass": 152.0
+      "grass": 152.0,
+      "bermuda": 133.0
     }
   },
   {
     "date": "2021-01-15",
     "prices": {
       "alfalfa": 168.0,
-      "grass": 152.0
+      "grass": 152.0,
+      "bermuda": 133.0
     }
   },
   {
     "date": "2021-02-15",
     "prices": {
       "alfalfa": 171.0,
-      "grass": 158.0
+      "grass": 158.0,
+      "bermuda": 139.0
     }
   },
   {
     "date": "2021-03-15",
     "prices": {
       "alfalfa": 177.0,
-      "grass": 163.0
+      "grass": 163.0,
+      "bermuda": 142.0
     }
   },
   {
     "date": "2021-04-15",
     "prices": {
       "alfalfa": 185.0,
-      "grass": 167.0
+      "grass": 167.0,
+      "bermuda": 139.0
     }
   },
   {
     "date": "2021-05-15",
     "prices": {
       "alfalfa": 207.0,
-      "grass": 189.0
+      "grass": 189.0,
+      "bermuda": 146.0
     }
   },
   {
     "date": "2021-06-15",
     "prices": {
       "alfalfa": 207.0,
-      "grass": 187.0
+      "grass": 187.0,
+      "bermuda": 146.0
     }
   },
   {
     "date": "2021-07-15",
     "prices": {
       "alfalfa": 206.0,
-      "grass": 186.0
+      "grass": 186.0,
+      "bermuda": 153.0
     }
   },
   {
     "date": "2021-08-15",
     "prices": {
       "alfalfa": 210.0,
-      "grass": 193.0
+      "grass": 193.0,
+      "bermuda": 158.0
     }
   },
   {
     "date": "2021-09-15",
     "prices": {
       "alfalfa": 214.0,
-      "grass": 193.0
+      "grass": 193.0,
+      "bermuda": 155.0
     }
   },
   {
     "date": "2021-10-15",
     "prices": {
       "alfalfa": 219.0,
-      "grass": 196.0
+      "grass": 196.0,
+      "bermuda": 155.0
     }
   },
   {
     "date": "2021-11-15",
     "prices": {
       "alfalfa": 213.0,
-      "grass": 192.0
+      "grass": 192.0,
+      "bermuda": 155.0
     }
   },
   {
     "date": "2021-12-15",
     "prices": {
       "alfalfa": 217.0,
-      "grass": 193.0
+      "grass": 193.0,
+      "bermuda": 155.0
     }
   },
   {
     "date": "2022-01-15",
     "prices": {
       "alfalfa": 215.0,
-      "grass": 188.0
+      "grass": 188.0,
+      "bermuda": 153.0
     }
   },
   {
     "date": "2022-02-15",
     "prices": {
       "alfalfa": 220.0,
-      "grass": 195.0
+      "grass": 195.0,
+      "bermuda": 155.0
     }
   },
   {
     "date": "2022-03-15",
     "prices": {
       "alfalfa": 228.0,
-      "grass": 198.0
+      "grass": 198.0,
+      "bermuda": 155.0
     }
   },
   {
     "date": "2022-04-15",
     "prices": {
       "alfalfa": 257.0,
-      "grass": 219.0
+      "grass": 219.0,
+      "bermuda": 152.0
     }
   },
   {
     "date": "2022-05-15",
     "prices": {
       "alfalfa": 268.0,
-      "grass": 235.0
+      "grass": 235.0,
+      "bermuda": 163.0
     }
   },
   {
     "date": "2022-06-15",
     "prices": {
       "alfalfa": 263.0,
-      "grass": 232.0
+      "grass": 232.0,
+      "bermuda": 165.0
     }
   },
   {
     "date": "2022-07-15",
     "prices": {
       "alfalfa": 278.0,
-      "grass": 240.0
+      "grass": 240.0,
+      "bermuda": 169.0
     }
   },
   {
     "date": "2022-08-15",
     "prices": {
       "alfalfa": 276.0,
-      "grass": 248.0
+      "grass": 248.0,
+      "bermuda": 186.0
     }
   },
   {
     "date": "2022-09-15",
     "prices": {
       "alfalfa": 280.0,
-      "grass": 248.0
+      "grass": 248.0,
+      "bermuda": 180.0
     }
   },
   {
     "date": "2022-10-15",
     "prices": {
       "alfalfa": 281.0,
-      "grass": 248.0
+      "grass": 248.0,
+      "bermuda": 183.0
     }
   },
   {
     "date": "2022-11-15",
     "prices": {
       "alfalfa": 267.0,
-      "grass": 238.0
+      "grass": 238.0,
+      "bermuda": 184.0
     }
   },
   {
     "date": "2022-12-15",
     "prices": {
       "alfalfa": 268.0,
-      "grass": 235.0
+      "grass": 235.0,
+      "bermuda": 180.0
     }
   },
   {
     "date": "2023-01-15",
     "prices": {
       "alfalfa": 263.0,
-      "grass": 228.0
+      "grass": 228.0,
+      "bermuda": 178.0
     }
   },
   {
     "date": "2023-02-15",
     "prices": {
       "alfalfa": 264.0,
-      "grass": 229.0
+      "grass": 229.0,
+      "bermuda": 175.0
     }
   },
   {
     "date": "2023-03-15",
     "prices": {
       "alfalfa": 266.0,
-      "grass": 231.0
+      "grass": 231.0,
+      "bermuda": 177.0
     }
   },
   {
     "date": "2023-04-15",
     "prices": {
       "alfalfa": 288.0,
-      "grass": 251.0
+      "grass": 251.0,
+      "bermuda": 171.0
     }
   },
   {
     "date": "2023-05-15",
     "prices": {
       "alfalfa": 278.0,
-      "grass": 249.0
+      "grass": 249.0,
+      "bermuda": 179.0
     }
   },
   {
     "date": "2023-06-15",
     "prices": {
       "alfalfa": 264.0,
-      "grass": 239.0
+      "grass": 239.0,
+      "bermuda": 178.0
     }
   },
   {
     "date": "2023-07-15",
     "prices": {
       "alfalfa": 246.0,
-      "grass": 223.0
+      "grass": 223.0,
+      "bermuda": 174.0
     }
   },
   {
     "date": "2023-08-15",
     "prices": {
       "alfalfa": 230.0,
-      "grass": 213.0
+      "grass": 213.0,
+      "bermuda": 174.0
     }
   },
   {
     "date": "2023-09-15",
     "prices": {
       "alfalfa": 225.0,
-      "grass": 207.0
+      "grass": 207.0,
+      "bermuda": 167.0
     }
   },
   {
     "date": "2023-10-15",
     "prices": {
       "alfalfa": 219.0,
-      "grass": 205.0
+      "grass": 205.0,
+      "bermuda": 172.0
     }
   },
   {
     "date": "2023-11-15",
     "prices": {
       "alfalfa": 209.0,
-      "grass": 198.0
+      "grass": 198.0,
+      "bermuda": 174.0
     }
   },
   {
     "date": "2023-12-15",
     "prices": {
       "alfalfa": 206.0,
-      "grass": 195.0
+      "grass": 195.0,
+      "bermuda": 174.0
     }
   },
   {
     "date": "2024-01-15",
     "prices": {
       "alfalfa": 202.0,
-      "grass": 191.0
+      "grass": 191.0,
+      "bermuda": 174.0
     }
   },
   {
     "date": "2024-02-15",
     "prices": {
       "alfalfa": 201.0,
-      "grass": 191.0
+      "grass": 191.0,
+      "bermuda": 172.0
     }
   },
   {
     "date": "2024-03-15",
     "prices": {
       "alfalfa": 196.0,
-      "grass": 185.0
+      "grass": 185.0,
+      "bermuda": 166.0
     }
   },
   {
     "date": "2024-04-15",
     "prices": {
       "alfalfa": 195.0,
-      "grass": 183.0
+      "grass": 183.0,
+      "bermuda": 156.0
     }
   },
   {
     "date": "2024-05-15",
     "prices": {
-      "alfalfa": 208
+      "alfalfa": 202.0,
+      "grass": 190.0,
+      "bermuda": 169.0
     }
   },
   {
     "date": "2024-06-15",
     "prices": {
       "alfalfa": 194.0,
-      "grass": 182.0
+      "grass": 182.0,
+      "bermuda": 159.0
     }
   },
   {
     "date": "2024-07-15",
     "prices": {
       "alfalfa": 183.0,
-      "grass": 172.0
+      "grass": 172.0,
+      "bermuda": 154.0
     }
   },
   {
     "date": "2024-08-15",
     "prices": {
       "alfalfa": 175.0,
-      "grass": 166.0
+      "grass": 166.0,
+      "bermuda": 150.0
     }
   },
   {
     "date": "2024-09-15",
     "prices": {
       "alfalfa": 171.0,
-      "grass": 163.0
+      "grass": 163.0,
+      "bermuda": 148.0
     }
   },
   {
     "date": "2024-10-15",
     "prices": {
       "alfalfa": 171.0,
-      "grass": 164.0
+      "grass": 164.0,
+      "bermuda": 150.0
     }
   },
   {
     "date": "2024-11-15",
     "prices": {
       "alfalfa": 164.0,
-      "grass": 159.0
+      "grass": 159.0,
+      "bermuda": 150.0
     }
   },
   {
     "date": "2024-12-15",
     "prices": {
       "alfalfa": 164.0,
-      "grass": 157.0
+      "grass": 157.0,
+      "bermuda": 148.0
     }
   },
   {
     "date": "2025-01-15",
     "prices": {
       "alfalfa": 161.0,
-      "grass": 154.0
+      "grass": 154.0,
+      "bermuda": 144.0
     }
   },
   {
     "date": "2025-02-15",
     "prices": {
       "alfalfa": 159.0,
-      "grass": 154.0
+      "grass": 154.0,
+      "bermuda": 147.0
     }
   },
   {
     "date": "2025-03-15",
     "prices": {
       "alfalfa": 168.0,
-      "grass": 158.0
+      "grass": 158.0,
+      "bermuda": 144.0
     }
   },
   {
     "date": "2025-04-15",
     "prices": {
       "alfalfa": 180.0,
-      "grass": 165.0
+      "grass": 165.0,
+      "bermuda": 140.0
     }
   },
   {
     "date": "2025-05-15",
     "prices": {
-      "alfalfa": 173
+      "alfalfa": 191.0,
+      "grass": 176.0,
+      "bermuda": 144.0
     }
   },
   {
     "date": "2025-06-15",
     "prices": {
       "alfalfa": 177.0,
-      "grass": 165.0
+      "grass": 165.0,
+      "bermuda": 141.0
     }
   },
   {
     "date": "2025-07-15",
     "prices": {
       "alfalfa": 173.0,
-      "grass": 163.0
+      "grass": 163.0,
+      "bermuda": 144.0
     }
   },
   {
     "date": "2025-08-15",
     "prices": {
       "alfalfa": 166.0,
-      "grass": 158.0
+      "grass": 158.0,
+      "bermuda": 138.0
     }
   },
   {
     "date": "2025-09-15",
     "prices": {
       "alfalfa": 171.0,
-      "grass": 160.0
+      "grass": 160.0,
+      "bermuda": 138.0
     }
   },
   {
     "date": "2025-10-15",
     "prices": {
       "alfalfa": 168.0,
-      "grass": 159.0
+      "grass": 159.0,
+      "bermuda": 140.0
     }
   },
   {
     "date": "2025-11-15",
     "prices": {
       "alfalfa": 159.0,
-      "grass": 151.0
+      "grass": 151.0,
+      "bermuda": 134.0
     }
   },
   {
     "date": "2025-12-15",
     "prices": {
       "alfalfa": 161.0,
-      "grass": 149.0
+      "grass": 149.0,
+      "bermuda": 128.0
     }
   },
   {
     "date": "2026-01-15",
     "prices": {
       "alfalfa": 160.0,
-      "grass": 149.0
+      "grass": 149.0,
+      "bermuda": 131.0
     }
   },
   {
     "date": "2026-02-15",
     "prices": {
       "alfalfa": 159.0,
-      "grass": 152.0
+      "grass": 152.0,
+      "bermuda": 139.0
     }
   },
   {
