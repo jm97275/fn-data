@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-01T10:43:30.843747",
+  "updated": "2026-04-01T10:48:25.166125",
   "asOf": "Mar 31, 2026",
   "live": true,
   "futures": {
@@ -29,8 +29,8 @@
       "name": "Corn",
       "price": 4.54,
       "change": -0.04,
-      "volume": 26478,
-      "avgVolume": 134423,
+      "volume": 26513,
+      "avgVolume": 134432,
       "fmt": "bu",
       "avg5": 5.88,
       "source": "CME via Yahoo Finance",
@@ -40,8 +40,8 @@
       "name": "Soybeans",
       "price": 11.66,
       "change": -0.05,
-      "volume": 11999,
-      "avgVolume": 73171,
+      "volume": 12018,
+      "avgVolume": 73176,
       "fmt": "bu",
       "avg5": 13.58,
       "source": "CME via Yahoo Finance",
@@ -51,8 +51,8 @@
       "name": "Wheat",
       "price": 6.04,
       "change": -0.12,
-      "volume": 17994,
-      "avgVolume": 47765,
+      "volume": 18020,
+      "avgVolume": 47771,
       "fmt": "bu",
       "avg5": 6.96,
       "source": "CME via Yahoo Finance",
@@ -71,10 +71,10 @@
     },
     "soy_meal": {
       "name": "Soy Meal",
-      "price": 317.4,
-      "change": 1.0,
-      "volume": 6368,
-      "avgVolume": 52761,
+      "price": 317.5,
+      "change": 1.1,
+      "volume": 6373,
+      "avgVolume": 52762,
       "fmt": "ton",
       "avg5": 387.71,
       "source": "CME via Yahoo Finance",
@@ -107,8 +107,8 @@
       "ticker": "ZWZ26.CBT"
     },
     "soymeal_dec": {
-      "price": 312.2,
-      "change": 0.7,
+      "price": 312.3,
+      "change": 0.8,
       "contract": "Dec 2026",
       "ticker": "ZMZ26.CBT"
     }
@@ -296,7 +296,7 @@
     ],
     "note": "USDA AMS hay report \u00b7 As of Mar 23, 2026",
     "date": "Mar 23, 2026",
-    "updated": "2026-04-01T10:43:35.594939",
+    "updated": "2026-04-01T10:48:28.556891",
     "reports_used": 7
   },
   "history": [
@@ -435,15 +435,15 @@
       "live_cattle": 243.02,
       "live_cattle_vol": 10043,
       "corn": 4.54,
-      "corn_vol": 26478,
+      "corn_vol": 26513,
       "soybeans": 11.66,
-      "soybeans_vol": 11999,
+      "soybeans_vol": 12018,
       "wheat": 6.04,
-      "wheat_vol": 17994,
+      "wheat_vol": 18020,
       "class3_milk": 17.8,
       "class3_milk_vol": 16,
-      "soy_meal": 317.4,
-      "soy_meal_vol": 6368,
+      "soy_meal": 317.5,
+      "soy_meal_vol": 6373,
       "cash_corn": 4.29
     }
   ],
