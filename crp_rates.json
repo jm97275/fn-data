@@ -1,0 +1,109 @@
+{
+  "fetched": "2026-04-05T10:59:29Z",
+  "fiscal_year": 2026,
+  "national_avg_per_acre": 82.35,
+  "states": {
+    "TX": {
+      "avg_per_acre": 42.0,
+      "enrolled_acres": 3200000,
+      "contracts": 18000
+    },
+    "KS": {
+      "avg_per_acre": 48.0,
+      "enrolled_acres": 2100000,
+      "contracts": 28000
+    },
+    "MT": {
+      "avg_per_acre": 35.0,
+      "enrolled_acres": 2000000,
+      "contracts": 12000
+    },
+    "CO": {
+      "avg_per_acre": 40.0,
+      "enrolled_acres": 1900000,
+      "contracts": 11000
+    },
+    "ND": {
+      "avg_per_acre": 52.0,
+      "enrolled_acres": 1800000,
+      "contracts": 22000
+    },
+    "SD": {
+      "avg_per_acre": 55.0,
+      "enrolled_acres": 1400000,
+      "contracts": 15000
+    },
+    "NE": {
+      "avg_per_acre": 105.0,
+      "enrolled_acres": 1100000,
+      "contracts": 16000
+    },
+    "MN": {
+      "avg_per_acre": 130.0,
+      "enrolled_acres": 1300000,
+      "contracts": 30000
+    },
+    "IA": {
+      "avg_per_acre": 245.0,
+      "enrolled_acres": 1800000,
+      "contracts": 45000
+    },
+    "MO": {
+      "avg_per_acre": 95.0,
+      "enrolled_acres": 1200000,
+      "contracts": 25000
+    },
+    "OK": {
+      "avg_per_acre": 35.0,
+      "enrolled_acres": 800000,
+      "contracts": 6000
+    },
+    "WA": {
+      "avg_per_acre": 62.0,
+      "enrolled_acres": 1400000,
+      "contracts": 8000
+    },
+    "OR": {
+      "avg_per_acre": 65.0,
+      "enrolled_acres": 450000,
+      "contracts": 2100
+    },
+    "ID": {
+      "avg_per_acre": 55.0,
+      "enrolled_acres": 600000,
+      "contracts": 3500
+    },
+    "WY": {
+      "avg_per_acre": 28.0,
+      "enrolled_acres": 250000,
+      "contracts": 1500
+    },
+    "IL": {
+      "avg_per_acre": 195.0,
+      "enrolled_acres": 900000,
+      "contracts": 25000
+    },
+    "IN": {
+      "avg_per_acre": 155.0,
+      "enrolled_acres": 350000,
+      "contracts": 12000
+    },
+    "OH": {
+      "avg_per_acre": 145.0,
+      "enrolled_acres": 350000,
+      "contracts": 14000
+    },
+    "WI": {
+      "avg_per_acre": 120.0,
+      "enrolled_acres": 500000,
+      "contracts": 15000
+    },
+    "MI": {
+      "avg_per_acre": 110.0,
+      "enrolled_acres": 400000,
+      "contracts": 12000
+    }
+  },
+  "source": "USDA FSA Conservation Reserve Program",
+  "note": "State average rental rates. Actual rates vary by county and soil type."
+}

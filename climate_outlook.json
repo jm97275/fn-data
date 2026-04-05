@@ -1,0 +1,417 @@
+{
+  "fetched": "2026-04-05T10:59:28Z",
+  "valid_period": "April 2026",
+  "lead": "month1",
+  "temperature": {
+    "national_tilt": "equal_chances",
+    "states": {
+      "AL": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "AK": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "AZ": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "AR": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "CA": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "CO": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "CT": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "DE": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "FL": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "GA": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "HI": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "ID": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "IL": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "IN": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "IA": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "KS": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "KY": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "LA": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "ME": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "MD": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "MA": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "MI": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "MN": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "MS": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "MO": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "MT": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "NE": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "NV": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "NH": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "NJ": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "NM": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "NY": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "NC": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "ND": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "OH": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "OK": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "OR": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "PA": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "RI": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "SC": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "SD": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "TN": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "TX": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "UT": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "VT": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "VA": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "WA": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "WV": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "WI": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "WY": {
+        "category": "equal_chances",
+        "probability": 33
+      }
+    }
+  },
+  "precipitation": {
+    "national_tilt": "equal_chances",
+    "states": {
+      "AL": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "AK": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "AZ": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "AR": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "CA": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "CO": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "CT": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "DE": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "FL": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "GA": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "HI": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "ID": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "IL": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "IN": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "IA": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "KS": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "KY": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "LA": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "ME": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "MD": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "MA": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "MI": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "MN": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "MS": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "MO": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "MT": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "NE": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "NV": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "NH": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "NJ": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "NM": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "NY": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "NC": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "ND": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "OH": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "OK": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "OR": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "PA": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "RI": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "SC": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "SD": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "TN": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "TX": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "UT": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "VT": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "VA": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "WA": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "WV": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "WI": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "WY": {
+        "category": "equal_chances",
+        "probability": 33
+      }
+    }
+  },
+  "discussion_url": "https://www.cpc.ncep.noaa.gov/products/predictions/long_range/fxus05.html",
+  "source": "NOAA Climate Prediction Center"
+}
