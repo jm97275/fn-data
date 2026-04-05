@@ -1,0 +1,39 @@
+{
+  "fetched": "2026-04-05T09:26:09Z",
+  "week_ending": "2026-04-02",
+  "commodities": {
+    "corn": {
+      "net_sales_mt": null,
+      "year_ago_mt": null,
+      "ytd_mt": null,
+      "ytd_year_ago_mt": null,
+      "pct_of_year_ago": null,
+      "top_buyer": null
+    },
+    "soybeans": {
+      "net_sales_mt": null,
+      "year_ago_mt": null,
+      "ytd_mt": null,
+      "ytd_year_ago_mt": null,
+      "pct_of_year_ago": null,
+      "top_buyer": null
+    },
+    "wheat": {
+      "net_sales_mt": null,
+      "year_ago_mt": null,
+      "ytd_mt": null,
+      "ytd_year_ago_mt": null,
+      "pct_of_year_ago": null,
+      "top_buyer": null
+    },
+    "beef": {
+      "net_sales_mt": null,
+      "year_ago_mt": null,
+      "ytd_mt": null,
+      "ytd_year_ago_mt": null,
+      "pct_of_year_ago": null,
+      "top_buyer": null
+    }
+  },
+  "marketing_year": "2025/26"
+}

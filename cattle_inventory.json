@@ -1,0 +1,25 @@
+{
+  "fetched": "2026-04-05T09:26:08Z",
+  "reference_date": "January 1, 2026",
+  "all_cattle": {
+    "head_1000": 86155,
+    "year_ago_1000": 86472,
+    "pct_of_year_ago": 99.6
+  },
+  "beef_cows": {
+    "head_1000": 207540308,
+    "year_ago_1000": 159818216,
+    "pct_of_year_ago": 129.9
+  },
+  "dairy_cows": {
+    "head_1000": 207540308,
+    "year_ago_1000": 159818216,
+    "pct_of_year_ago": 129.9
+  },
+  "calves": {
+    "head_1000": 207540308,
+    "year_ago_1000": 159818216,
+    "pct_of_year_ago": 129.9
+  },
+  "next_report": "2026-07-23"
+}
