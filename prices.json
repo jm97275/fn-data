@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-06T15:11:59.015054",
+  "updated": "2026-04-06T21:54:13.726244",
   "asOf": "Feb 2026",
   "live": true,
   "futures": {
@@ -71,14 +71,14 @@
     },
     "live_cattle": {
       "name": "Live Cattle",
-      "price": 235.76,
-      "change": 0.68,
-      "volume": 44634,
+      "price": 244.98,
+      "change": 9.22,
+      "volume": 63078,
       "avgVolume": 0,
       "fmt": "cwt",
       "avg5": 186.24,
       "source": "USDA 5-Area Weekly Cash",
-      "asOf": "Mar 30, 2026"
+      "asOf": "Apr 06, 2026"
     },
     "lean_hogs": {
       "name": "Lean Hogs",
@@ -199,8 +199,8 @@
         },
         {
           "n": "Live Cattle",
-          "v": 235.76,
-          "c": 0.68,
+          "v": 244.98,
+          "c": 9.22,
           "fmt": "cwt",
           "avg5": 186.24
         },
@@ -360,8 +360,8 @@
         },
         {
           "n": "Live Cattle",
-          "v": 235.76,
-          "c": 0.68,
+          "v": 244.98,
+          "c": 9.22,
           "fmt": "cwt",
           "avg5": 186.24
         },
@@ -617,8 +617,8 @@
       "wheat": 5.37,
       "class3_milk": 18.3,
       "rice": 19.0,
-      "live_cattle": 235.76,
-      "live_cattle_vol": 44634,
+      "live_cattle": 244.98,
+      "live_cattle_vol": 63078,
       "lean_hogs": 89.48,
       "soy_meal": 254.4,
       "class4_milk": 16.1,
