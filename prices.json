@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-07T02:07:21.666602",
+  "updated": "2026-04-07T22:02:32.205791",
   "asOf": "Feb 2026",
   "live": true,
   "futures": {
@@ -1771,14 +1771,18 @@
     {
       "date": "2026-03-30",
       "price": 5.401
+    },
+    {
+      "date": "2026-04-06",
+      "price": 5.643
     }
   ],
   "diesel_context": {
-    "current": 5.401,
-    "avg_5yr": 4.031,
+    "current": 5.643,
+    "avg_5yr": 4.038,
     "year_ago": 3.639,
-    "pct_vs_avg": 34.0,
-    "pct_vs_year_ago": 48.4
+    "pct_vs_avg": 39.7,
+    "pct_vs_year_ago": 55.1
   },
   "wasde": {
     "report_date": "2026-03-10",
