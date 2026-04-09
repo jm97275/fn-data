@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-08T22:07:31.122579",
+  "updated": "2026-04-09T22:01:59.810412",
   "asOf": "Feb 2026",
   "live": true,
   "futures": {
@@ -82,14 +82,14 @@
     },
     "lean_hogs": {
       "name": "Lean Hogs",
-      "price": 89.83,
-      "change": 0.04,
+      "price": 90.1,
+      "change": 0.64,
       "volume": 0,
       "avgVolume": 0,
       "fmt": "cwt",
       "avg5": null,
       "source": "USDA National Daily Cash",
-      "asOf": "Apr 07, 2026"
+      "asOf": "Apr 08, 2026"
     },
     "soy_meal": {
       "name": "Soy Meal",
@@ -179,12 +179,12 @@
     },
     "hog_crush_margin": {
       "name": "Hog Crush Margin",
-      "price": 132.17,
-      "change": -0.56,
+      "price": 132.75,
+      "change": 0.74,
       "fmt": "cwt",
       "derived": true,
       "avg5": 0,
-      "note": "Hog $194.03 - Feed $61.87"
+      "note": "Hog $194.62 - Feed $61.87"
     }
   },
   "archetypes": {
@@ -311,15 +311,15 @@
       "prices": [
         {
           "n": "Lean Hogs",
-          "v": 89.83,
-          "c": 0.04,
+          "v": 90.1,
+          "c": 0.64,
           "fmt": "cwt",
           "avg5": 0
         },
         {
           "n": "Hog Crush Margin",
-          "v": 132.17,
-          "c": -0.56,
+          "v": 132.75,
+          "c": 0.74,
           "fmt": "cwt",
           "avg5": 0,
           "derived": true
@@ -619,14 +619,14 @@
       "rice": 19.0,
       "live_cattle": 244.98,
       "live_cattle_vol": 63078,
-      "lean_hogs": 89.83,
+      "lean_hogs": 90.1,
       "soy_meal": 254.4,
       "class4_milk": 16.1,
       "cotton": 0.71,
       "cotton_vol": 28427,
       "cash_corn": 3.86,
       "sorghum": 3.76,
-      "hog_crush_margin": 132.17
+      "hog_crush_margin": 132.75
     }
   ],
   "monthly_averages": {
