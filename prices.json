@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-09T22:01:59.810412",
+  "updated": "2026-04-10T21:57:50.000484",
   "asOf": "Feb 2026",
   "live": true,
   "futures": {
@@ -89,7 +89,7 @@
       "fmt": "cwt",
       "avg5": null,
       "source": "USDA National Daily Cash",
-      "asOf": "Apr 08, 2026"
+      "asOf": "Apr 09, 2026"
     },
     "soy_meal": {
       "name": "Soy Meal",
