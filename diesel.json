@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-10T21:57:25Z",
+  "fetched": "2026-04-11T21:04:41Z",
   "region": "U.S. Average",
   "current": {
     "price": 5.643,
@@ -1069,5 +1069,5 @@
     }
   ],
   "avg5yr": 4.038,
-  "yearAgoPrice": 3.639
+  "yearAgoPrice": 3.579
 }

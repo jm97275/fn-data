@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-10T21:57:50.000484",
+  "updated": "2026-04-11T21:04:57.759615",
   "asOf": "Feb 2026",
   "live": true,
   "futures": {
@@ -82,14 +82,14 @@
     },
     "lean_hogs": {
       "name": "Lean Hogs",
-      "price": 90.1,
-      "change": 0.64,
+      "price": 89.9,
+      "change": 0.44,
       "volume": 0,
       "avgVolume": 0,
       "fmt": "cwt",
       "avg5": null,
       "source": "USDA National Daily Cash",
-      "asOf": "Apr 09, 2026"
+      "asOf": "Apr 10, 2026"
     },
     "soy_meal": {
       "name": "Soy Meal",
@@ -179,12 +179,12 @@
     },
     "hog_crush_margin": {
       "name": "Hog Crush Margin",
-      "price": 132.75,
-      "change": 0.74,
+      "price": 132.32,
+      "change": 0.31,
       "fmt": "cwt",
       "derived": true,
       "avg5": 0,
-      "note": "Hog $194.62 - Feed $61.87"
+      "note": "Hog $194.18 - Feed $61.87"
     }
   },
   "archetypes": {
@@ -311,15 +311,15 @@
       "prices": [
         {
           "n": "Lean Hogs",
-          "v": 90.1,
-          "c": 0.64,
+          "v": 89.9,
+          "c": 0.44,
           "fmt": "cwt",
           "avg5": 0
         },
         {
           "n": "Hog Crush Margin",
-          "v": 132.75,
-          "c": 0.74,
+          "v": 132.32,
+          "c": 0.31,
           "fmt": "cwt",
           "avg5": 0,
           "derived": true
@@ -619,14 +619,14 @@
       "rice": 19.0,
       "live_cattle": 244.98,
       "live_cattle_vol": 63078,
-      "lean_hogs": 90.1,
+      "lean_hogs": 89.9,
       "soy_meal": 254.4,
       "class4_milk": 16.1,
       "cotton": 0.71,
       "cotton_vol": 28427,
       "cash_corn": 3.86,
       "sorghum": 3.76,
-      "hog_crush_margin": 132.75
+      "hog_crush_margin": 132.32
     }
   ],
   "monthly_averages": {
@@ -1780,9 +1780,9 @@
   "diesel_context": {
     "current": 5.643,
     "avg_5yr": 4.038,
-    "year_ago": 3.639,
+    "year_ago": 3.579,
     "pct_vs_avg": 39.7,
-    "pct_vs_year_ago": 55.1
+    "pct_vs_year_ago": 57.7
   },
   "wasde": {
     "report_date": "2026-03-10",
