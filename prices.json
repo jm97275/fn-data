@@ -1,18 +1,18 @@
 {
-  "updated": "2026-04-13T16:13:02.842015",
-  "asOf": "Apr 11, 2026",
+  "updated": "2026-04-13T22:12:07.173066",
+  "asOf": "Apr 13, 2026",
   "live": true,
   "futures": {
     "feeder_cattle": {
       "name": "Feeder Cattle",
-      "price": 396.27,
+      "price": 394.74,
       "change": 0,
-      "volume": 7035,
+      "volume": 6660,
       "avgVolume": 0,
       "fmt": "cwt",
       "avg5": 186.24,
       "source": "USDA AMS Auctions (700-800lb steers, national avg)",
-      "asOf": "Apr 11, 2026"
+      "asOf": "Apr 13, 2026"
     },
     "corn": {
       "name": "Corn",
@@ -60,25 +60,25 @@
     },
     "live_cattle": {
       "name": "Live Cattle",
-      "price": 245.19,
-      "change": 0.21,
-      "volume": 894,
+      "price": 248.28,
+      "change": 3.09,
+      "volume": 25848,
       "avgVolume": 0,
       "fmt": "cwt",
       "avg5": 186.24,
       "source": "USDA 5-Area Weekly Cash",
-      "asOf": "Apr 10, 2026"
+      "asOf": "Apr 13, 2026"
     },
     "lean_hogs": {
       "name": "Lean Hogs",
-      "price": 89.9,
-      "change": 0.44,
+      "price": 90.11,
+      "change": 0.01,
       "volume": 0,
       "avgVolume": 0,
       "fmt": "cwt",
       "avg5": null,
       "source": "USDA National Daily Cash",
-      "asOf": "Apr 10, 2026"
+      "asOf": "Apr 13, 2026"
     },
     "class4_milk": {
       "name": "Class IV Milk",
@@ -174,12 +174,12 @@
     },
     "hog_crush_margin": {
       "name": "Hog Crush Margin",
-      "price": 125.99,
-      "change": 1.06,
+      "price": 126.45,
+      "change": 0.14,
       "fmt": "cwt",
       "derived": true,
       "avg5": 0,
-      "note": "Hog $194.18 - Feed $68.19"
+      "note": "Hog $194.64 - Feed $68.19"
     }
   },
   "archetypes": {
@@ -187,15 +187,15 @@
       "prices": [
         {
           "n": "Feeder Cattle",
-          "v": 396.27,
+          "v": 394.74,
           "c": 0,
           "fmt": "cwt",
           "avg5": 186.24
         },
         {
           "n": "Live Cattle",
-          "v": 245.19,
-          "c": 0.21,
+          "v": 248.28,
+          "c": 3.09,
           "fmt": "cwt",
           "avg5": 186.24
         },
@@ -207,7 +207,7 @@
           "avg5": 255
         }
       ],
-      "priceDate": "Apr 11, 2026",
+      "priceDate": "Apr 13, 2026",
       "priceNote": "USDA cash + USDA AMS hay"
     },
     "grain": {
@@ -264,7 +264,7 @@
           "derived": true
         }
       ],
-      "priceDate": "Apr 11, 2026",
+      "priceDate": "Apr 13, 2026",
       "priceNote": "USDA NASS price received + est. basis"
     },
     "dairy": {
@@ -300,22 +300,22 @@
           "trigger": 9.5
         }
       ],
-      "priceDate": "Apr 11, 2026",
+      "priceDate": "Apr 13, 2026",
       "priceNote": "USDA NASS / AMS"
     },
     "swine": {
       "prices": [
         {
           "n": "Lean Hogs",
-          "v": 89.9,
-          "c": 0.44,
+          "v": 90.11,
+          "c": 0.01,
           "fmt": "cwt",
           "avg5": 0
         },
         {
           "n": "Hog Crush Margin",
-          "v": 125.99,
-          "c": 1.06,
+          "v": 126.45,
+          "c": 0.14,
           "fmt": "cwt",
           "avg5": 0,
           "derived": true
@@ -335,14 +335,14 @@
           "avg5": 302.16
         }
       ],
-      "priceDate": "Apr 11, 2026",
+      "priceDate": "Apr 13, 2026",
       "priceNote": "USDA cash + NASS"
     },
     "mixed": {
       "prices": [
         {
           "n": "Feeder Cattle",
-          "v": 396.27,
+          "v": 394.74,
           "c": 0,
           "fmt": "cwt",
           "avg5": 186.24
@@ -356,8 +356,8 @@
         },
         {
           "n": "Live Cattle",
-          "v": 245.19,
-          "c": 0.21,
+          "v": 248.28,
+          "c": 3.09,
           "fmt": "cwt",
           "avg5": 186.24
         },
@@ -369,7 +369,7 @@
           "avg5": 255
         }
       ],
-      "priceDate": "Apr 11, 2026",
+      "priceDate": "Apr 13, 2026",
       "priceNote": "USDA cash + NASS + AMS hay"
     }
   },
@@ -400,7 +400,7 @@
         "chg": 0
       }
     ],
-    "asOf": "Apr 11, 2026"
+    "asOf": "Apr 13, 2026"
   },
   "history": [
     {
@@ -626,15 +626,15 @@
     },
     {
       "date": "Apr 13, 2026",
-      "feeder_cattle": 396.27,
-      "feeder_cattle_vol": 7035,
+      "feeder_cattle": 394.74,
+      "feeder_cattle_vol": 6660,
       "corn": 4.51,
       "soybeans": 11.8,
       "wheat": 6.05,
       "class3_milk": 16.16,
-      "live_cattle": 245.19,
-      "live_cattle_vol": 894,
-      "lean_hogs": 89.9,
+      "live_cattle": 248.28,
+      "live_cattle_vol": 25848,
+      "lean_hogs": 90.11,
       "class4_milk": 18.94,
       "cotton": 0.6994,
       "soy_meal": 283.2,
@@ -642,7 +642,7 @@
       "cash_corn": 4.26,
       "milk_feed_margin": 6.84,
       "sorghum": 4.16,
-      "hog_crush_margin": 125.99
+      "hog_crush_margin": 126.45
     }
   ],
   "monthly_averages": {
