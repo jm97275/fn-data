@@ -1,16 +1,16 @@
 {
-  "fetched": "2026-04-13T02:27:38Z",
+  "fetched": "2026-04-13T16:23:14Z",
   "fed_funds": {
     "rate": 3.64,
     "prior_rate": 3.64,
     "change": 0.0,
-    "as_of": "2026-03-01"
+    "as_of": "2026-04-09"
   },
   "prime": {
     "rate": 6.75,
     "prior_rate": 6.75,
     "change": 0.0,
-    "as_of": "2026-03-01"
+    "as_of": "2026-04-07"
   },
   "mortgage_30yr": {
     "rate": 6.37,
@@ -20,222 +20,42 @@
   },
   "history": [
     {
-      "date": "2021-12-01",
-      "fed_funds": 0.08,
-      "prime": 3.25
-    },
-    {
-      "date": "2022-01-01",
-      "fed_funds": 0.08,
-      "prime": 3.25
-    },
-    {
-      "date": "2022-02-01",
-      "fed_funds": 0.08,
-      "prime": 3.25
-    },
-    {
-      "date": "2022-03-01",
-      "fed_funds": 0.2,
-      "prime": 3.37
-    },
-    {
-      "date": "2022-04-01",
-      "fed_funds": 0.33,
-      "prime": 3.5
-    },
-    {
-      "date": "2022-05-01",
-      "fed_funds": 0.77,
-      "prime": 3.94
-    },
-    {
-      "date": "2022-06-01",
-      "fed_funds": 1.21,
-      "prime": 4.38
-    },
-    {
-      "date": "2022-07-01",
-      "fed_funds": 1.68,
-      "prime": 4.85
-    },
-    {
-      "date": "2022-08-01",
-      "fed_funds": 2.33,
-      "prime": 5.5
-    },
-    {
-      "date": "2022-09-01",
-      "fed_funds": 2.56,
-      "prime": 5.73
-    },
-    {
-      "date": "2022-10-01",
-      "fed_funds": 3.08,
-      "prime": 6.25
-    },
-    {
-      "date": "2022-11-01",
-      "fed_funds": 3.78,
-      "prime": 6.95
-    },
-    {
-      "date": "2022-12-01",
-      "fed_funds": 4.1,
-      "prime": 7.27
-    },
-    {
-      "date": "2023-01-01",
+      "date": "2025-07-24",
       "fed_funds": 4.33,
       "prime": 7.5
     },
     {
-      "date": "2023-02-01",
-      "fed_funds": 4.57,
-      "prime": 7.74
-    },
-    {
-      "date": "2023-03-01",
-      "fed_funds": 4.65,
-      "prime": 7.82
-    },
-    {
-      "date": "2023-04-01",
-      "fed_funds": 4.83,
-      "prime": 8.0
-    },
-    {
-      "date": "2023-05-01",
-      "fed_funds": 5.06,
-      "prime": 8.23
-    },
-    {
-      "date": "2023-06-01",
-      "fed_funds": 5.08,
-      "prime": 8.25
-    },
-    {
-      "date": "2023-07-01",
-      "fed_funds": 5.12,
-      "prime": 8.29
-    },
-    {
-      "date": "2023-08-01",
-      "fed_funds": 5.33,
-      "prime": 8.5
-    },
-    {
-      "date": "2023-09-01",
-      "fed_funds": 5.33,
-      "prime": 8.5
-    },
-    {
-      "date": "2023-10-01",
-      "fed_funds": 5.33,
-      "prime": 8.5
-    },
-    {
-      "date": "2023-11-01",
-      "fed_funds": 5.33,
-      "prime": 8.5
-    },
-    {
-      "date": "2023-12-01",
-      "fed_funds": 5.33,
-      "prime": 8.5
-    },
-    {
-      "date": "2024-01-01",
-      "fed_funds": 5.33,
-      "prime": 8.5
-    },
-    {
-      "date": "2024-02-01",
-      "fed_funds": 5.33,
-      "prime": 8.5
-    },
-    {
-      "date": "2024-03-01",
-      "fed_funds": 5.33,
-      "prime": 8.5
-    },
-    {
-      "date": "2024-04-01",
-      "fed_funds": 5.33,
-      "prime": 8.5
-    },
-    {
-      "date": "2024-05-01",
-      "fed_funds": 5.33,
-      "prime": 8.5
-    },
-    {
-      "date": "2024-06-01",
-      "fed_funds": 5.33,
-      "prime": 8.5
-    },
-    {
-      "date": "2024-07-01",
-      "fed_funds": 5.33,
-      "prime": 8.5
-    },
-    {
-      "date": "2024-08-01",
-      "fed_funds": 5.33,
-      "prime": 8.5
-    },
-    {
-      "date": "2024-09-01",
-      "fed_funds": 5.13,
-      "prime": 8.3
-    },
-    {
-      "date": "2024-10-01",
-      "fed_funds": 4.83,
-      "prime": 8.0
-    },
-    {
-      "date": "2024-11-01",
-      "fed_funds": 4.64,
-      "prime": 7.81
-    },
-    {
-      "date": "2024-12-01",
-      "fed_funds": 4.48,
-      "prime": 7.65
-    },
-    {
-      "date": "2025-01-01",
+      "date": "2025-07-25",
       "fed_funds": 4.33,
       "prime": 7.5
     },
     {
-      "date": "2025-02-01",
+      "date": "2025-07-26",
       "fed_funds": 4.33,
       "prime": 7.5
     },
     {
-      "date": "2025-03-01",
+      "date": "2025-07-27",
       "fed_funds": 4.33,
       "prime": 7.5
     },
     {
-      "date": "2025-04-01",
+      "date": "2025-07-28",
       "fed_funds": 4.33,
       "prime": 7.5
     },
     {
-      "date": "2025-05-01",
+      "date": "2025-07-29",
       "fed_funds": 4.33,
       "prime": 7.5
     },
     {
-      "date": "2025-06-01",
+      "date": "2025-07-30",
       "fed_funds": 4.33,
       "prime": 7.5
     },
     {
-      "date": "2025-07-01",
+      "date": "2025-07-31",
       "fed_funds": 4.33,
       "prime": 7.5
     },
@@ -245,27 +65,917 @@
       "prime": 7.5
     },
     {
+      "date": "2025-08-02",
+      "fed_funds": 4.33,
+      "prime": 7.5
+    },
+    {
+      "date": "2025-08-03",
+      "fed_funds": 4.33,
+      "prime": 7.5
+    },
+    {
+      "date": "2025-08-04",
+      "fed_funds": 4.33,
+      "prime": 7.5
+    },
+    {
+      "date": "2025-08-05",
+      "fed_funds": 4.33,
+      "prime": 7.5
+    },
+    {
+      "date": "2025-08-06",
+      "fed_funds": 4.33,
+      "prime": 7.5
+    },
+    {
+      "date": "2025-08-07",
+      "fed_funds": 4.33,
+      "prime": 7.5
+    },
+    {
+      "date": "2025-08-08",
+      "fed_funds": 4.33,
+      "prime": 7.5
+    },
+    {
+      "date": "2025-08-09",
+      "fed_funds": 4.33,
+      "prime": 7.5
+    },
+    {
+      "date": "2025-08-10",
+      "fed_funds": 4.33,
+      "prime": 7.5
+    },
+    {
+      "date": "2025-08-11",
+      "fed_funds": 4.33,
+      "prime": 7.5
+    },
+    {
+      "date": "2025-08-12",
+      "fed_funds": 4.33,
+      "prime": 7.5
+    },
+    {
+      "date": "2025-08-13",
+      "fed_funds": 4.33,
+      "prime": 7.5
+    },
+    {
+      "date": "2025-08-14",
+      "fed_funds": 4.33,
+      "prime": 7.5
+    },
+    {
+      "date": "2025-08-15",
+      "fed_funds": 4.33,
+      "prime": 7.5
+    },
+    {
+      "date": "2025-08-16",
+      "fed_funds": 4.33,
+      "prime": 7.5
+    },
+    {
+      "date": "2025-08-17",
+      "fed_funds": 4.33,
+      "prime": 7.5
+    },
+    {
+      "date": "2025-08-18",
+      "fed_funds": 4.33,
+      "prime": 7.5
+    },
+    {
+      "date": "2025-08-19",
+      "fed_funds": 4.33,
+      "prime": 7.5
+    },
+    {
+      "date": "2025-08-20",
+      "fed_funds": 4.33,
+      "prime": 7.5
+    },
+    {
+      "date": "2025-08-21",
+      "fed_funds": 4.33,
+      "prime": 7.5
+    },
+    {
+      "date": "2025-08-22",
+      "fed_funds": 4.33,
+      "prime": 7.5
+    },
+    {
+      "date": "2025-08-23",
+      "fed_funds": 4.33,
+      "prime": 7.5
+    },
+    {
+      "date": "2025-08-24",
+      "fed_funds": 4.33,
+      "prime": 7.5
+    },
+    {
+      "date": "2025-08-25",
+      "fed_funds": 4.33,
+      "prime": 7.5
+    },
+    {
+      "date": "2025-08-26",
+      "fed_funds": 4.33,
+      "prime": 7.5
+    },
+    {
+      "date": "2025-08-27",
+      "fed_funds": 4.33,
+      "prime": 7.5
+    },
+    {
+      "date": "2025-08-28",
+      "fed_funds": 4.33,
+      "prime": 7.5
+    },
+    {
+      "date": "2025-08-29",
+      "fed_funds": 4.33,
+      "prime": 7.5
+    },
+    {
+      "date": "2025-08-30",
+      "fed_funds": 4.33,
+      "prime": 7.5
+    },
+    {
+      "date": "2025-08-31",
+      "fed_funds": 4.33,
+      "prime": 7.5
+    },
+    {
       "date": "2025-09-01",
-      "fed_funds": 4.22,
-      "prime": 7.38
+      "fed_funds": 4.33,
+      "prime": 7.5
+    },
+    {
+      "date": "2025-09-02",
+      "fed_funds": 4.33,
+      "prime": 7.5
+    },
+    {
+      "date": "2025-09-03",
+      "fed_funds": 4.33,
+      "prime": 7.5
+    },
+    {
+      "date": "2025-09-04",
+      "fed_funds": 4.33,
+      "prime": 7.5
+    },
+    {
+      "date": "2025-09-05",
+      "fed_funds": 4.33,
+      "prime": 7.5
+    },
+    {
+      "date": "2025-09-06",
+      "fed_funds": 4.33,
+      "prime": 7.5
+    },
+    {
+      "date": "2025-09-07",
+      "fed_funds": 4.33,
+      "prime": 7.5
+    },
+    {
+      "date": "2025-09-08",
+      "fed_funds": 4.33,
+      "prime": 7.5
+    },
+    {
+      "date": "2025-09-09",
+      "fed_funds": 4.33,
+      "prime": 7.5
+    },
+    {
+      "date": "2025-09-10",
+      "fed_funds": 4.33,
+      "prime": 7.5
+    },
+    {
+      "date": "2025-09-11",
+      "fed_funds": 4.33,
+      "prime": 7.5
+    },
+    {
+      "date": "2025-09-12",
+      "fed_funds": 4.33,
+      "prime": 7.5
+    },
+    {
+      "date": "2025-09-13",
+      "fed_funds": 4.33,
+      "prime": 7.5
+    },
+    {
+      "date": "2025-09-14",
+      "fed_funds": 4.33,
+      "prime": 7.5
+    },
+    {
+      "date": "2025-09-15",
+      "fed_funds": 4.33,
+      "prime": 7.5
+    },
+    {
+      "date": "2025-09-16",
+      "fed_funds": 4.33,
+      "prime": 7.5
+    },
+    {
+      "date": "2025-09-17",
+      "fed_funds": 4.33,
+      "prime": 7.25
+    },
+    {
+      "date": "2025-09-18",
+      "fed_funds": 4.08,
+      "prime": 7.25
+    },
+    {
+      "date": "2025-09-19",
+      "fed_funds": 4.08,
+      "prime": 7.25
+    },
+    {
+      "date": "2025-09-20",
+      "fed_funds": 4.08,
+      "prime": 7.25
+    },
+    {
+      "date": "2025-09-21",
+      "fed_funds": 4.08,
+      "prime": 7.25
+    },
+    {
+      "date": "2025-09-22",
+      "fed_funds": 4.09,
+      "prime": 7.25
+    },
+    {
+      "date": "2025-09-23",
+      "fed_funds": 4.09,
+      "prime": 7.25
+    },
+    {
+      "date": "2025-09-24",
+      "fed_funds": 4.09,
+      "prime": 7.25
+    },
+    {
+      "date": "2025-09-25",
+      "fed_funds": 4.09,
+      "prime": 7.25
+    },
+    {
+      "date": "2025-09-26",
+      "fed_funds": 4.09,
+      "prime": 7.25
+    },
+    {
+      "date": "2025-09-27",
+      "fed_funds": 4.09,
+      "prime": 7.25
+    },
+    {
+      "date": "2025-09-28",
+      "fed_funds": 4.09,
+      "prime": 7.25
+    },
+    {
+      "date": "2025-09-29",
+      "fed_funds": 4.09,
+      "prime": 7.25
+    },
+    {
+      "date": "2025-09-30",
+      "fed_funds": 4.09,
+      "prime": 7.25
     },
     {
       "date": "2025-10-01",
       "fed_funds": 4.09,
-      "prime": 7.23
+      "prime": 7.25
+    },
+    {
+      "date": "2025-10-02",
+      "fed_funds": 4.09,
+      "prime": 7.25
+    },
+    {
+      "date": "2025-10-03",
+      "fed_funds": 4.09,
+      "prime": 7.25
+    },
+    {
+      "date": "2025-10-04",
+      "fed_funds": 4.09,
+      "prime": 7.25
+    },
+    {
+      "date": "2025-10-05",
+      "fed_funds": 4.09,
+      "prime": 7.25
+    },
+    {
+      "date": "2025-10-06",
+      "fed_funds": 4.09,
+      "prime": 7.25
+    },
+    {
+      "date": "2025-10-07",
+      "fed_funds": 4.09,
+      "prime": 7.25
+    },
+    {
+      "date": "2025-10-08",
+      "fed_funds": 4.1,
+      "prime": 7.25
+    },
+    {
+      "date": "2025-10-09",
+      "fed_funds": 4.1,
+      "prime": 7.25
+    },
+    {
+      "date": "2025-10-10",
+      "fed_funds": 4.1,
+      "prime": 7.25
+    },
+    {
+      "date": "2025-10-11",
+      "fed_funds": 4.1,
+      "prime": 7.25
+    },
+    {
+      "date": "2025-10-12",
+      "fed_funds": 4.1,
+      "prime": 7.25
+    },
+    {
+      "date": "2025-10-13",
+      "fed_funds": 4.1,
+      "prime": 7.25
+    },
+    {
+      "date": "2025-10-14",
+      "fed_funds": 4.1,
+      "prime": 7.25
+    },
+    {
+      "date": "2025-10-15",
+      "fed_funds": 4.1,
+      "prime": 7.25
+    },
+    {
+      "date": "2025-10-16",
+      "fed_funds": 4.11,
+      "prime": 7.25
+    },
+    {
+      "date": "2025-10-17",
+      "fed_funds": 4.11,
+      "prime": 7.25
+    },
+    {
+      "date": "2025-10-18",
+      "fed_funds": 4.11,
+      "prime": 7.25
+    },
+    {
+      "date": "2025-10-19",
+      "fed_funds": 4.11,
+      "prime": 7.25
+    },
+    {
+      "date": "2025-10-20",
+      "fed_funds": 4.11,
+      "prime": 7.25
+    },
+    {
+      "date": "2025-10-21",
+      "fed_funds": 4.11,
+      "prime": 7.25
+    },
+    {
+      "date": "2025-10-22",
+      "fed_funds": 4.11,
+      "prime": 7.25
+    },
+    {
+      "date": "2025-10-23",
+      "fed_funds": 4.11,
+      "prime": 7.25
+    },
+    {
+      "date": "2025-10-24",
+      "fed_funds": 4.11,
+      "prime": 7.25
+    },
+    {
+      "date": "2025-10-25",
+      "fed_funds": 4.11,
+      "prime": 7.25
+    },
+    {
+      "date": "2025-10-26",
+      "fed_funds": 4.11,
+      "prime": 7.25
+    },
+    {
+      "date": "2025-10-27",
+      "fed_funds": 4.12,
+      "prime": 7.25
+    },
+    {
+      "date": "2025-10-28",
+      "fed_funds": 4.12,
+      "prime": 7.25
+    },
+    {
+      "date": "2025-10-29",
+      "fed_funds": 4.12,
+      "prime": 7.25
+    },
+    {
+      "date": "2025-10-30",
+      "fed_funds": 3.87,
+      "prime": 7.0
+    },
+    {
+      "date": "2025-10-31",
+      "fed_funds": 3.86,
+      "prime": 7.0
     },
     {
       "date": "2025-11-01",
+      "fed_funds": 3.86,
+      "prime": 7.0
+    },
+    {
+      "date": "2025-11-02",
+      "fed_funds": 3.86,
+      "prime": 7.0
+    },
+    {
+      "date": "2025-11-03",
+      "fed_funds": 3.87,
+      "prime": 7.0
+    },
+    {
+      "date": "2025-11-04",
+      "fed_funds": 3.87,
+      "prime": 7.0
+    },
+    {
+      "date": "2025-11-05",
+      "fed_funds": 3.87,
+      "prime": 7.0
+    },
+    {
+      "date": "2025-11-06",
+      "fed_funds": 3.87,
+      "prime": 7.0
+    },
+    {
+      "date": "2025-11-07",
+      "fed_funds": 3.87,
+      "prime": 7.0
+    },
+    {
+      "date": "2025-11-08",
+      "fed_funds": 3.87,
+      "prime": 7.0
+    },
+    {
+      "date": "2025-11-09",
+      "fed_funds": 3.87,
+      "prime": 7.0
+    },
+    {
+      "date": "2025-11-10",
+      "fed_funds": 3.87,
+      "prime": 7.0
+    },
+    {
+      "date": "2025-11-11",
+      "fed_funds": 3.87,
+      "prime": 7.0
+    },
+    {
+      "date": "2025-11-12",
+      "fed_funds": 3.87,
+      "prime": 7.0
+    },
+    {
+      "date": "2025-11-13",
       "fed_funds": 3.88,
       "prime": 7.0
     },
     {
+      "date": "2025-11-14",
+      "fed_funds": 3.88,
+      "prime": 7.0
+    },
+    {
+      "date": "2025-11-15",
+      "fed_funds": 3.88,
+      "prime": 7.0
+    },
+    {
+      "date": "2025-11-16",
+      "fed_funds": 3.88,
+      "prime": 7.0
+    },
+    {
+      "date": "2025-11-17",
+      "fed_funds": 3.88,
+      "prime": 7.0
+    },
+    {
+      "date": "2025-11-18",
+      "fed_funds": 3.88,
+      "prime": 7.0
+    },
+    {
+      "date": "2025-11-19",
+      "fed_funds": 3.88,
+      "prime": 7.0
+    },
+    {
+      "date": "2025-11-20",
+      "fed_funds": 3.88,
+      "prime": 7.0
+    },
+    {
+      "date": "2025-11-21",
+      "fed_funds": 3.88,
+      "prime": 7.0
+    },
+    {
+      "date": "2025-11-22",
+      "fed_funds": 3.88,
+      "prime": 7.0
+    },
+    {
+      "date": "2025-11-23",
+      "fed_funds": 3.88,
+      "prime": 7.0
+    },
+    {
+      "date": "2025-11-24",
+      "fed_funds": 3.88,
+      "prime": 7.0
+    },
+    {
+      "date": "2025-11-25",
+      "fed_funds": 3.88,
+      "prime": 7.0
+    },
+    {
+      "date": "2025-11-26",
+      "fed_funds": 3.88,
+      "prime": 7.0
+    },
+    {
+      "date": "2025-11-27",
+      "fed_funds": 3.88,
+      "prime": 7.0
+    },
+    {
+      "date": "2025-11-28",
+      "fed_funds": 3.89,
+      "prime": 7.0
+    },
+    {
+      "date": "2025-11-29",
+      "fed_funds": 3.89,
+      "prime": 7.0
+    },
+    {
+      "date": "2025-11-30",
+      "fed_funds": 3.89,
+      "prime": 7.0
+    },
+    {
       "date": "2025-12-01",
-      "fed_funds": 3.72,
-      "prime": 6.83
+      "fed_funds": 3.89,
+      "prime": 7.0
+    },
+    {
+      "date": "2025-12-02",
+      "fed_funds": 3.89,
+      "prime": 7.0
+    },
+    {
+      "date": "2025-12-03",
+      "fed_funds": 3.89,
+      "prime": 7.0
+    },
+    {
+      "date": "2025-12-04",
+      "fed_funds": 3.89,
+      "prime": 7.0
+    },
+    {
+      "date": "2025-12-05",
+      "fed_funds": 3.89,
+      "prime": 7.0
+    },
+    {
+      "date": "2025-12-06",
+      "fed_funds": 3.89,
+      "prime": 7.0
+    },
+    {
+      "date": "2025-12-07",
+      "fed_funds": 3.89,
+      "prime": 7.0
+    },
+    {
+      "date": "2025-12-08",
+      "fed_funds": 3.89,
+      "prime": 7.0
+    },
+    {
+      "date": "2025-12-09",
+      "fed_funds": 3.89,
+      "prime": 7.0
+    },
+    {
+      "date": "2025-12-10",
+      "fed_funds": 3.89,
+      "prime": 7.0
+    },
+    {
+      "date": "2025-12-11",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2025-12-12",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2025-12-13",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2025-12-14",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2025-12-15",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2025-12-16",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2025-12-17",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2025-12-18",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2025-12-19",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2025-12-20",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2025-12-21",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2025-12-22",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2025-12-23",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2025-12-24",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2025-12-25",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2025-12-26",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2025-12-27",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2025-12-28",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2025-12-29",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2025-12-30",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2025-12-31",
+      "fed_funds": 3.64,
+      "prime": 6.75
     },
     {
       "date": "2026-01-01",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-01-02",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-01-03",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-01-04",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-01-05",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-01-06",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-01-07",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-01-08",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-01-09",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-01-10",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-01-11",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-01-12",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-01-13",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-01-14",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-01-15",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-01-16",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-01-17",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-01-18",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-01-19",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-01-20",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-01-21",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-01-22",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-01-23",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-01-24",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-01-25",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-01-26",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-01-27",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-01-28",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-01-29",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-01-30",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-01-31",
       "fed_funds": 3.64,
       "prime": 6.75
     },
@@ -275,7 +985,337 @@
       "prime": 6.75
     },
     {
+      "date": "2026-02-02",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-02-03",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-02-04",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-02-05",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-02-06",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-02-07",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-02-08",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-02-09",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-02-10",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-02-11",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-02-12",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-02-13",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-02-14",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-02-15",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-02-16",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-02-17",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-02-18",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-02-19",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-02-20",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-02-21",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-02-22",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-02-23",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-02-24",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-02-25",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-02-26",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-02-27",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-02-28",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
       "date": "2026-03-01",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-03-02",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-03-03",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-03-04",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-03-05",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-03-06",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-03-07",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-03-08",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-03-09",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-03-10",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-03-11",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-03-12",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-03-13",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-03-14",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-03-15",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-03-16",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-03-17",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-03-18",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-03-19",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-03-20",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-03-21",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-03-22",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-03-23",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-03-24",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-03-25",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-03-26",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-03-27",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-03-28",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-03-29",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-03-30",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-03-31",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-04-01",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-04-02",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-04-03",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-04-04",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-04-05",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-04-06",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-04-07",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-04-08",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-04-09",
       "fed_funds": 3.64,
       "prime": 6.75
     }
