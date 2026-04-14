@@ -1,0 +1,44 @@
+{
+  "fetched": "2026-04-14T02:27:36Z",
+  "report_date": "2026-04-13",
+  "source": "USDA AMS Daily Spot Cotton Quotations (slug 3804)",
+  "source_url": "https://www.ams.usda.gov/mnreports/ams_3804.pdf",
+  "unit": "cents/lb",
+  "note": "Daily spot cotton quotations across the seven cotton growth areas. Color 41, leaf 4, staple 34 upland cotton. Published M-F afternoons after the ICE settlement (~3pm ET). Replaces fetch_cotton_weekly.py 7-Market Average (5-day lag).",
+  "regions": [
+    {
+      "region": "Southeast",
+      "price_cents_lb": 73.78
+    },
+    {
+      "region": "North Delta",
+      "price_cents_lb": 72.53
+    },
+    {
+      "region": "South Delta",
+      "price_cents_lb": 72.53
+    },
+    {
+      "region": "East TX-South TX",
+      "price_cents_lb": 69.28
+    },
+    {
+      "region": "West TX-KS-OK",
+      "price_cents_lb": 70.53
+    },
+    {
+      "region": "Desert SW",
+      "price_cents_lb": 69.78
+    },
+    {
+      "region": "SJ Valley",
+      "price_cents_lb": 70.03
+    }
+  ],
+  "seven_market_cents_lb": 71.21,
+  "seven_market_usd_lb": 0.7121,
+  "seven_market_avg_printed_cents_lb": 71.21,
+  "previous_day_avg_cents_lb": 69.9,
+  "day_over_day_change_cents_lb": 1.31,
+  "region_count": 7
+}
