@@ -1,13 +1,13 @@
 {
-  "updated": "2026-04-13T22:12:07.173066",
+  "updated": "2026-04-14T01:52:46.209545",
   "asOf": "Apr 13, 2026",
   "live": true,
   "futures": {
     "feeder_cattle": {
       "name": "Feeder Cattle",
-      "price": 394.74,
+      "price": 394.57,
       "change": 0,
-      "volume": 6660,
+      "volume": 7016,
       "avgVolume": 0,
       "fmt": "cwt",
       "avg5": 186.24,
@@ -187,7 +187,7 @@
       "prices": [
         {
           "n": "Feeder Cattle",
-          "v": 394.74,
+          "v": 394.57,
           "c": 0,
           "fmt": "cwt",
           "avg5": 186.24
@@ -342,7 +342,7 @@
       "prices": [
         {
           "n": "Feeder Cattle",
-          "v": 394.74,
+          "v": 394.57,
           "c": 0,
           "fmt": "cwt",
           "avg5": 186.24
@@ -643,6 +643,26 @@
       "milk_feed_margin": 6.84,
       "sorghum": 4.16,
       "hog_crush_margin": 126.45
+    },
+    {
+      "date": "Apr 14, 2026",
+      "feeder_cattle": 394.57,
+      "feeder_cattle_vol": 7016,
+      "corn": 4.51,
+      "soybeans": 11.8,
+      "wheat": 6.05,
+      "class3_milk": 16.16,
+      "live_cattle": 248.28,
+      "live_cattle_vol": 25848,
+      "lean_hogs": 90.11,
+      "class4_milk": 18.94,
+      "cotton": 0.6994,
+      "soy_meal": 283.2,
+      "rice": 10.96,
+      "cash_corn": 4.26,
+      "milk_feed_margin": 6.84,
+      "sorghum": 4.16,
+      "hog_crush_margin": 126.45
     }
   ],
   "monthly_averages": {
@@ -732,10 +752,6 @@
     }
   },
   "diesel_history": [
-    {
-      "date": "2021-03-15",
-      "price": 3.191
-    },
     {
       "date": "2021-03-22",
       "price": 3.194
@@ -1795,9 +1811,9 @@
   ],
   "diesel_context": {
     "current": 5.643,
-    "avg_5yr": 4.038,
+    "avg_5yr": 4.041,
     "year_ago": 3.579,
-    "pct_vs_avg": 39.7,
+    "pct_vs_avg": 39.6,
     "pct_vs_year_ago": 57.7
   },
   "wasde": {
@@ -1842,7 +1858,7 @@
     "class3": 17.09,
     "class4": 20.02,
     "week_ending": "2026-04-04",
-    "age_days": 9,
+    "age_days": 10,
     "components": {
       "butter": 1.8159,
       "cheddar_40": 1.6222,
