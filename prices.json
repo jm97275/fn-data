@@ -1,13 +1,13 @@
 {
-  "updated": "2026-04-14T04:28:48.604053",
+  "updated": "2026-04-14T09:31:56.883230",
   "asOf": "Apr 13, 2026",
   "live": true,
   "futures": {
     "feeder_cattle": {
       "name": "Feeder Cattle",
-      "price": 394.38,
+      "price": 394.33,
       "change": 0,
-      "volume": 7371,
+      "volume": 7373,
       "avgVolume": 0,
       "fmt": "cwt",
       "avg5": 186.24,
@@ -187,7 +187,7 @@
       "prices": [
         {
           "n": "Feeder Cattle",
-          "v": 394.38,
+          "v": 394.33,
           "c": 0,
           "fmt": "cwt",
           "avg5": 186.24
@@ -342,7 +342,7 @@
       "prices": [
         {
           "n": "Feeder Cattle",
-          "v": 394.38,
+          "v": 394.33,
           "c": 0,
           "fmt": "cwt",
           "avg5": 186.24
@@ -646,8 +646,8 @@
     },
     {
       "date": "Apr 14, 2026",
-      "feeder_cattle": 394.38,
-      "feeder_cattle_vol": 7371,
+      "feeder_cattle": 394.33,
+      "feeder_cattle_vol": 7373,
       "corn": 4.51,
       "soybeans": 11.8,
       "wheat": 6.05,
