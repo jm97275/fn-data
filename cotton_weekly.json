@@ -1,7 +1,7 @@
 {
   "report_date": "2026-04-16",
   "spot_date": "Apr 16",
-  "fetched": "2026-04-17T22:05:49Z",
+  "fetched": "2026-04-18T16:07:02Z",
   "source": "USDA AMS Cotton Market News, 7-Market Average (MP_CN208)",
   "source_url": "https://www.ams.usda.gov/mnreports/mp_cn208.txt",
   "note": "7-Market Average spot price for upland cotton, color 41, leaf 4, staple 34. Computed from Southeastern, North Delta, South Delta, ETX/STX, WTX/OK/KS, Desert SW, and SJ Valley market quotes.",
