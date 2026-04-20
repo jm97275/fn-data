@@ -1,10 +1,10 @@
 {
-  "fetched": "2026-04-20T16:55:07Z",
+  "fetched": "2026-04-20T20:50:07Z",
   "fed_funds": {
     "rate": 3.64,
     "prior_rate": 3.64,
     "change": 0.0,
-    "as_of": "2026-04-16"
+    "as_of": "2026-04-17"
   },
   "prime": {
     "rate": 6.75,
@@ -12,12 +12,13 @@
     "change": 0.0,
     "as_of": "2026-04-07"
   },
+  "mortgage_30yr": {
+    "rate": 6.3,
+    "prior_rate": 6.37,
+    "change": -0.07,
+    "as_of": "2026-04-16"
+  },
   "history": [
-    {
-      "date": "2025-07-31",
-      "fed_funds": 4.33,
-      "prime": 7.5
-    },
     {
       "date": "2025-08-01",
       "fed_funds": 4.33,
@@ -1310,6 +1311,11 @@
     },
     {
       "date": "2026-04-16",
+      "fed_funds": 3.64,
+      "prime": 6.75
+    },
+    {
+      "date": "2026-04-17",
       "fed_funds": 3.64,
       "prime": 6.75
     }
