@@ -1,10 +1,10 @@
 {
-  "fetched": "2026-04-18T20:25:35Z",
+  "fetched": "2026-04-20T16:44:48Z",
   "source": "USDA AMS National Dairy Products Sales Report (DYWDAIRYPRODUCTSSALES)",
   "source_slug": "2993",
   "note": "Class III/IV nowcast computed from weekly NDPSR component prices (butter, cheddar, dry whey, NDM) using the official FMMO formula. Nowcast lag is typically 7-14 days vs. the monthly official Class III/IV release at 5-35 day lag. Not a substitute for CME Class III futures but the freshest formula-based Class III estimate available from public data.",
   "latest_week_ending": "2026-04-11",
-  "age_days": 7,
+  "age_days": 9,
   "class3_nowcast": 17.28,
   "class4_nowcast": 20.23,
   "components": {
