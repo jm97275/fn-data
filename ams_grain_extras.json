@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-20T20:36:18Z",
+  "fetched": "2026-04-21T16:39:13Z",
   "note": "Public AMS PDFs parsed via pdftotext. Sorghum from TX/KS daily grain bids; barley from MT daily; DDGs from weekly national grain co-products report; rice from weekly national rice summary. Closes freshness audit items 8-9.",
   "sorghum_tx": {
     "slug": "2711",
@@ -169,8 +169,8 @@
     "source": "Weekly National Rice Summary",
     "frequency": "weekly",
     "unit": "$/cwt",
-    "report_date": "2026-04-13",
-    "avg_long": 32.41,
+    "report_date": "2026-04-20",
+    "avg_long": 33.41,
     "rows_long": [
       {
         "region": "Arkansas",
@@ -178,7 +178,7 @@
       },
       {
         "region": "California",
-        "price": 33.0
+        "price": 33.25
       },
       {
         "region": "Louisiana",
@@ -186,10 +186,10 @@
       },
       {
         "region": "Texas",
-        "price": 33.0
+        "price": 36.75
       }
     ],
-    "avg_medium": 37.25,
+    "avg_medium": 37.88,
     "rows_medium": [
       {
         "region": "Arkansas",
@@ -201,7 +201,7 @@
       },
       {
         "region": "Louisiana",
-        "price": 40.5
+        "price": 43.0
       },
       {
         "region": "Texas",
