@@ -1,29 +1,29 @@
 {
-  "fetched": "2026-04-23T17:05:12Z",
+  "fetched": "2026-04-23T20:43:28Z",
   "note": "Public AMS PDFs parsed via pdftotext. Sorghum from TX/KS daily grain bids; barley from MT daily; DDGs from weekly national grain co-products report; rice from weekly national rice summary. Closes freshness audit items 8-9.",
   "sorghum_tx": {
     "slug": "2711",
     "source": "Texas Daily Grain Bids",
     "frequency": "daily",
     "unit": "$/bu",
-    "report_date": "2026-04-22",
-    "avg": 4.12,
+    "report_date": "2026-04-23",
+    "avg": 4.1325,
     "rows": [
       {
         "region": "North Panhandle",
-        "price": 3.8325
+        "price": 3.845
       },
       {
         "region": "Central Panhandle",
-        "price": 3.9625
+        "price": 3.975
       },
       {
         "region": "South Panhandle",
-        "price": 3.9175
+        "price": 3.93
       },
       {
         "region": "South Plains",
-        "price": 4.7675
+        "price": 4.78
       }
     ]
   },
@@ -32,36 +32,36 @@
     "source": "Kansas Daily Grain Bids",
     "frequency": "daily",
     "unit": "$/bu",
-    "report_date": "2026-04-22",
-    "avg": 3.5968,
+    "report_date": "2026-04-23",
+    "avg": 3.6093,
     "rows": [
       {
         "region": "Northwest",
-        "price": 3.5425
+        "price": 3.555
       },
       {
         "region": "Southwest",
-        "price": 3.6925
+        "price": 3.705
       },
       {
         "region": "South",
-        "price": 3.6125
+        "price": 3.625
       },
       {
         "region": "West",
-        "price": 3.5425
+        "price": 3.555
       },
       {
         "region": "Central",
-        "price": 3.5025
+        "price": 3.515
       },
       {
         "region": "North",
-        "price": 3.4925
+        "price": 3.505
       },
       {
         "region": "East",
-        "price": 3.7925
+        "price": 3.805
       }
     ]
   },
@@ -70,7 +70,7 @@
     "source": "Montana Daily Elevator Grain Bids",
     "frequency": "daily",
     "unit": "$/bu",
-    "report_date": "2026-04-22",
+    "report_date": "2026-04-23",
     "avg": 3.425,
     "rows": [
       {
