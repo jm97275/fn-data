@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-04-25T20:28:09Z",
+  "fetched": "2026-04-27T17:11:07Z",
   "note": "Public AMS PDFs parsed via pdftotext. Sorghum from TX/KS daily grain bids; barley from MT daily; DDGs from weekly national grain co-products report; rice from weekly national rice summary. Closes freshness audit items 8-9.",
   "sorghum_tx": {
     "slug": "2711",
@@ -88,55 +88,55 @@
     "source": "National Weekly Grain Co-Products Report",
     "frequency": "weekly",
     "unit": "$/ton",
-    "report_date": "2026-04-13",
-    "avg_dried": 176.93,
+    "report_date": "2026-04-20",
+    "avg_dried": 180.41,
     "rows_dried": [
       {
         "region": "Illinois",
-        "price": 202.5
+        "price": 204.5
       },
       {
         "region": "Indiana",
-        "price": 172.38
+        "price": 178.5
       },
       {
         "region": "Iowa",
-        "price": 158.61
+        "price": 161.93
       },
       {
         "region": "Kansas",
-        "price": 192.5
+        "price": 185.0
       },
       {
         "region": "Michigan",
-        "price": 169.75
+        "price": 173.0
       },
       {
         "region": "Minnesota",
-        "price": 166.25
+        "price": 170.0
       },
       {
         "region": "Missouri",
-        "price": 187.0
+        "price": 197.0
       },
       {
         "region": "Nebraska",
-        "price": 185.83
+        "price": 192.0
       },
       {
         "region": "Ohio",
-        "price": 177.13
+        "price": 183.25
       },
       {
         "region": "South Dakota",
-        "price": 173.33
+        "price": 178.33
       },
       {
         "region": "Wisconsin",
         "price": 161.0
       }
     ],
-    "avg_wet": 58.92,
+    "avg_wet": 60.33,
     "rows_wet": [
       {
         "region": "Iowa",
@@ -144,7 +144,7 @@
       },
       {
         "region": "Kansas",
-        "price": 59.0
+        "price": 59.67
       },
       {
         "region": "Minnesota",
@@ -155,12 +155,8 @@
         "price": 69.0
       },
       {
-        "region": "Nebraska",
-        "price": 57.5
-      },
-      {
         "region": "South Dakota",
-        "price": 55.5
+        "price": 60.5
       }
     ]
   },
