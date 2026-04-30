@@ -1,29 +1,29 @@
 {
-  "fetched": "2026-04-29T20:52:03Z",
+  "fetched": "2026-04-30T17:04:13Z",
   "note": "Public AMS PDFs parsed via pdftotext. Sorghum from TX/KS daily grain bids; barley from MT daily; DDGs from weekly national grain co-products report; rice from weekly national rice summary. Closes freshness audit items 8-9.",
   "sorghum_tx": {
     "slug": "2711",
     "source": "Texas Daily Grain Bids",
     "frequency": "daily",
     "unit": "$/bu",
-    "report_date": "2026-04-28",
-    "avg": 4.2644,
+    "report_date": "2026-04-29",
+    "avg": 4.2778,
     "rows": [
       {
         "region": "North Panhandle",
-        "price": 3.955
+        "price": 3.9712
       },
       {
         "region": "Central Panhandle",
-        "price": 4.0725
+        "price": 4.085
       },
       {
         "region": "South Panhandle",
-        "price": 4.0275
+        "price": 4.04
       },
       {
         "region": "South Plains",
-        "price": 5.0025
+        "price": 5.015
       }
     ]
   },
