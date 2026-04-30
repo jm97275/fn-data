@@ -1,29 +1,29 @@
 {
-  "fetched": "2026-04-30T17:04:13Z",
+  "fetched": "2026-04-30T20:50:09Z",
   "note": "Public AMS PDFs parsed via pdftotext. Sorghum from TX/KS daily grain bids; barley from MT daily; DDGs from weekly national grain co-products report; rice from weekly national rice summary. Closes freshness audit items 8-9.",
   "sorghum_tx": {
     "slug": "2711",
     "source": "Texas Daily Grain Bids",
     "frequency": "daily",
     "unit": "$/bu",
-    "report_date": "2026-04-29",
-    "avg": 4.2778,
+    "report_date": "2026-04-30",
+    "avg": 4.2581,
     "rows": [
       {
         "region": "North Panhandle",
-        "price": 3.9712
+        "price": 3.945
       },
       {
         "region": "Central Panhandle",
-        "price": 4.085
+        "price": 4.0675
       },
       {
         "region": "South Panhandle",
-        "price": 4.04
+        "price": 4.0225
       },
       {
         "region": "South Plains",
-        "price": 5.015
+        "price": 4.9975
       }
     ]
   },
@@ -32,36 +32,32 @@
     "source": "Kansas Daily Grain Bids",
     "frequency": "daily",
     "unit": "$/bu",
-    "report_date": "2026-04-29",
-    "avg": 3.7497,
+    "report_date": "2026-04-30",
+    "avg": 3.769,
     "rows": [
       {
-        "region": "Northwest",
-        "price": 3.665
-      },
-      {
         "region": "Southwest",
-        "price": 3.8166
+        "price": 3.8663
       },
       {
         "region": "South",
-        "price": 3.7775
+        "price": 3.7475
       },
       {
         "region": "West",
-        "price": 3.7213
+        "price": 3.6975
       },
       {
         "region": "Central",
-        "price": 3.725
+        "price": 3.8075
       },
       {
         "region": "North",
-        "price": 3.6275
+        "price": 3.5975
       },
       {
         "region": "East",
-        "price": 3.915
+        "price": 3.8975
       }
     ]
   },
@@ -70,7 +66,7 @@
     "source": "Montana Daily Elevator Grain Bids",
     "frequency": "daily",
     "unit": "$/bu",
-    "report_date": "2026-04-29",
+    "report_date": "2026-04-30",
     "avg": 3.475,
     "rows": [
       {

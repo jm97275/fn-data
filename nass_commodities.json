@@ -1,13 +1,13 @@
 {
-  "generated": "2026-04-30T17:12:18.235318",
+  "generated": "2026-04-30T21:03:42.498748",
   "commodities": {
     "peanuts": {
       "name": "Peanuts",
       "unit": "$/lb",
       "fmt": "lb",
-      "latest": 0.206,
-      "latest_date": "2026-02-15",
-      "avg5": 0.2552,
+      "latest": 0.227,
+      "latest_date": "2026-03-15",
+      "avg5": 0.2547,
       "change": 0,
       "archetypes": [
         "grain"
@@ -260,6 +260,10 @@
         {
           "date": "2026-02-15",
           "price": 0.206
+        },
+        {
+          "date": "2026-03-15",
+          "price": 0.227
         }
       ]
     },
@@ -267,9 +271,9 @@
       "name": "Barley",
       "unit": "$/bu",
       "fmt": "bu",
-      "latest": 5.66,
-      "latest_date": "2026-02-15",
-      "avg5": 5.9598,
+      "latest": 5.7,
+      "latest_date": "2026-03-15",
+      "avg5": 5.9451,
       "change": 0,
       "archetypes": [
         "grain"
@@ -1018,6 +1022,18 @@
         {
           "date": "2026-02-15",
           "price": 5.66
+        },
+        {
+          "date": "2026-03-15",
+          "price": 5.5
+        },
+        {
+          "date": "2026-03-15",
+          "price": 4.08
+        },
+        {
+          "date": "2026-03-15",
+          "price": 5.7
         }
       ]
     }
