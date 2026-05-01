@@ -1,29 +1,29 @@
 {
-  "fetched": "2026-05-01T16:35:17Z",
+  "fetched": "2026-05-01T20:41:29Z",
   "note": "Public AMS PDFs parsed via pdftotext. Sorghum from TX/KS daily grain bids; barley from MT daily; DDGs from weekly national grain co-products report; rice from weekly national rice summary. Closes freshness audit items 8-9.",
   "sorghum_tx": {
     "slug": "2711",
     "source": "Texas Daily Grain Bids",
     "frequency": "daily",
     "unit": "$/bu",
-    "report_date": "2026-04-30",
-    "avg": 4.2581,
+    "report_date": "2026-05-01",
+    "avg": 4.2944,
     "rows": [
       {
         "region": "North Panhandle",
-        "price": 3.945
+        "price": 3.985
       },
       {
         "region": "Central Panhandle",
-        "price": 4.0675
+        "price": 4.1025
       },
       {
         "region": "South Panhandle",
-        "price": 4.0225
+        "price": 4.0575
       },
       {
         "region": "South Plains",
-        "price": 4.9975
+        "price": 5.0325
       }
     ]
   },
@@ -32,32 +32,36 @@
     "source": "Kansas Daily Grain Bids",
     "frequency": "daily",
     "unit": "$/bu",
-    "report_date": "2026-04-30",
-    "avg": 3.769,
+    "report_date": "2026-05-01",
+    "avg": 3.868,
     "rows": [
       {
+        "region": "Northwest",
+        "price": 3.9525
+      },
+      {
         "region": "Southwest",
-        "price": 3.8663
+        "price": 3.9275
       },
       {
         "region": "South",
-        "price": 3.7475
+        "price": 3.8025
       },
       {
         "region": "West",
-        "price": 3.6975
-      },
-      {
-        "region": "Central",
-        "price": 3.8075
+        "price": 3.8025
       },
       {
         "region": "North",
-        "price": 3.5975
+        "price": 3.7025
       },
       {
         "region": "East",
-        "price": 3.8975
+        "price": 4.0025
+      },
+      {
+        "region": "Central",
+        "price": 3.8858
       }
     ]
   },
@@ -66,7 +70,7 @@
     "source": "Montana Daily Elevator Grain Bids",
     "frequency": "daily",
     "unit": "$/bu",
-    "report_date": "2026-04-30",
+    "report_date": "2026-05-01",
     "avg": 3.475,
     "rows": [
       {
