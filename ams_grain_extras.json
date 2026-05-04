@@ -1,29 +1,29 @@
 {
-  "fetched": "2026-05-04T17:16:37Z",
+  "fetched": "2026-05-04T20:58:27Z",
   "note": "Public AMS PDFs parsed via pdftotext. Sorghum from TX/KS daily grain bids; barley from MT daily; DDGs from weekly national grain co-products report; rice from weekly national rice summary. Closes freshness audit items 8-9.",
   "sorghum_tx": {
     "slug": "2711",
     "source": "Texas Daily Grain Bids",
     "frequency": "daily",
     "unit": "$/bu",
-    "report_date": "2026-05-01",
-    "avg": 4.2944,
+    "report_date": "2026-05-04",
+    "avg": 4.3995,
     "rows": [
       {
         "region": "North Panhandle",
-        "price": 3.985
+        "price": 4.0854
       },
       {
         "region": "Central Panhandle",
-        "price": 4.1025
+        "price": 4.1575
       },
       {
         "region": "South Panhandle",
-        "price": 4.0575
+        "price": 4.1475
       },
       {
         "region": "South Plains",
-        "price": 5.0325
+        "price": 5.2075
       }
     ]
   },
@@ -32,36 +32,36 @@
     "source": "Kansas Daily Grain Bids",
     "frequency": "daily",
     "unit": "$/bu",
-    "report_date": "2026-05-01",
-    "avg": 3.868,
+    "report_date": "2026-05-04",
+    "avg": 3.9218,
     "rows": [
       {
         "region": "Northwest",
-        "price": 3.9525
+        "price": 4.0075
       },
       {
         "region": "Southwest",
-        "price": 3.9275
+        "price": 3.9825
       },
       {
         "region": "South",
-        "price": 3.8025
+        "price": 3.8575
       },
       {
         "region": "West",
-        "price": 3.8025
+        "price": 3.8575
       },
       {
         "region": "North",
-        "price": 3.7025
+        "price": 3.7575
       },
       {
         "region": "East",
-        "price": 4.0025
+        "price": 4.0575
       },
       {
         "region": "Central",
-        "price": 3.8858
+        "price": 3.9325
       }
     ]
   },
@@ -70,16 +70,12 @@
     "source": "Montana Daily Elevator Grain Bids",
     "frequency": "daily",
     "unit": "$/bu",
-    "report_date": "2026-05-01",
-    "avg": 3.475,
+    "report_date": "2026-05-04",
+    "avg": 3.1,
     "rows": [
       {
         "region": "North Central",
         "price": 3.1
-      },
-      {
-        "region": "Golden Triangle",
-        "price": 3.85
       }
     ]
   },
