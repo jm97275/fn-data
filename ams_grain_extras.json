@@ -1,29 +1,29 @@
 {
-  "fetched": "2026-05-06T17:08:36Z",
+  "fetched": "2026-05-06T21:02:53Z",
   "note": "Public AMS PDFs parsed via pdftotext. Sorghum from TX/KS daily grain bids; barley from MT daily; DDGs from weekly national grain co-products report; rice from weekly national rice summary. Closes freshness audit items 8-9.",
   "sorghum_tx": {
     "slug": "2711",
     "source": "Texas Daily Grain Bids",
     "frequency": "daily",
     "unit": "$/bu",
-    "report_date": "2026-05-05",
-    "avg": 4.3325,
+    "report_date": "2026-05-06",
+    "avg": 4.2141,
     "rows": [
       {
         "region": "North Panhandle",
-        "price": 4.0275
+        "price": 3.9175
       },
       {
         "region": "Central Panhandle",
-        "price": 4.075
+        "price": 3.9475
       },
       {
         "region": "South Panhandle",
-        "price": 4.0775
+        "price": 3.9562
       },
       {
         "region": "South Plains",
-        "price": 5.15
+        "price": 5.035
       }
     ]
   },
@@ -32,36 +32,36 @@
     "source": "Kansas Daily Grain Bids",
     "frequency": "daily",
     "unit": "$/bu",
-    "report_date": "2026-05-05",
-    "avg": 3.8714,
+    "report_date": "2026-05-06",
+    "avg": 3.7636,
     "rows": [
       {
         "region": "Northwest",
-        "price": 3.95
+        "price": 3.835
       },
       {
         "region": "Southwest",
-        "price": 3.925
+        "price": 3.81
       },
       {
         "region": "South",
-        "price": 3.8
+        "price": 3.685
       },
       {
         "region": "West",
-        "price": 3.8
+        "price": 3.685
       },
       {
         "region": "North",
-        "price": 3.7
+        "price": 3.635
       },
       {
         "region": "East",
-        "price": 4.0
+        "price": 3.885
       },
       {
         "region": "Central",
-        "price": 3.925
+        "price": 3.81
       }
     ]
   },
@@ -70,7 +70,7 @@
     "source": "Montana Daily Elevator Grain Bids",
     "frequency": "daily",
     "unit": "$/bu",
-    "report_date": "2026-05-05",
+    "report_date": "2026-05-06",
     "avg": 3.1,
     "rows": [
       {
