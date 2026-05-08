@@ -1,25 +1,29 @@
 {
-  "fetched": "2026-05-08T16:55:07Z",
+  "fetched": "2026-05-08T20:45:54Z",
   "note": "Public AMS PDFs parsed via pdftotext. Sorghum from TX/KS daily grain bids; barley from MT daily; DDGs from weekly national grain co-products report; rice from weekly national rice summary. Closes freshness audit items 8-9.",
   "sorghum_tx": {
     "slug": "2711",
     "source": "Texas Daily Grain Bids",
     "frequency": "daily",
     "unit": "$/bu",
-    "report_date": "2026-05-07",
-    "avg": 4.3325,
+    "report_date": "2026-05-08",
+    "avg": 4.2988,
     "rows": [
       {
+        "region": "North Panhandle",
+        "price": 4.0875
+      },
+      {
         "region": "Central Panhandle",
-        "price": 3.9475
+        "price": 3.9825
       },
       {
         "region": "South Panhandle",
-        "price": 4.025
+        "price": 4.0625
       },
       {
         "region": "South Plains",
-        "price": 5.025
+        "price": 5.0625
       }
     ]
   },
@@ -28,36 +32,36 @@
     "source": "Kansas Daily Grain Bids",
     "frequency": "daily",
     "unit": "$/bu",
-    "report_date": "2026-05-07",
-    "avg": 3.7286,
+    "report_date": "2026-05-08",
+    "avg": 3.7639,
     "rows": [
       {
         "region": "Northwest",
-        "price": 3.65
+        "price": 3.6875
       },
       {
         "region": "Southwest",
-        "price": 3.8
+        "price": 3.8375
       },
       {
         "region": "South",
-        "price": 3.675
+        "price": 3.7125
       },
       {
         "region": "West",
-        "price": 3.675
-      },
-      {
-        "region": "North",
-        "price": 3.625
-      },
-      {
-        "region": "East",
-        "price": 3.875
+        "price": 3.7125
       },
       {
         "region": "Central",
-        "price": 3.8
+        "price": 3.7725
+      },
+      {
+        "region": "North",
+        "price": 3.7125
+      },
+      {
+        "region": "East",
+        "price": 3.9125
       }
     ]
   },
@@ -66,7 +70,7 @@
     "source": "Montana Daily Elevator Grain Bids",
     "frequency": "daily",
     "unit": "$/bu",
-    "report_date": "2026-05-06",
+    "report_date": "2026-05-08",
     "avg": 3.1,
     "rows": [
       {
