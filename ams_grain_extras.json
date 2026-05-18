@@ -1,25 +1,25 @@
 {
-  "fetched": "2026-05-18T17:40:31Z",
+  "fetched": "2026-05-18T21:01:51Z",
   "note": "Public AMS PDFs parsed via pdftotext. Sorghum from TX/KS daily grain bids; barley from MT daily; DDGs from weekly national grain co-products report; rice from weekly national rice summary. Closes freshness audit items 8-9.",
   "sorghum_tx": {
     "slug": "2711",
     "source": "Texas Daily Grain Bids",
     "frequency": "daily",
     "unit": "$/bu",
-    "report_date": "2026-05-15",
-    "avg": 4.2492,
+    "report_date": "2026-05-18",
+    "avg": 4.4867,
     "rows": [
       {
         "region": "North Panhandle",
-        "price": 3.9325
+        "price": 4.145
       },
       {
         "region": "South Panhandle",
-        "price": 3.9075
+        "price": 4.12
       },
       {
         "region": "South Plains",
-        "price": 4.9075
+        "price": 5.195
       }
     ]
   },
@@ -28,36 +28,36 @@
     "source": "Kansas Daily Grain Bids",
     "frequency": "daily",
     "unit": "$/bu",
-    "report_date": "2026-05-15",
-    "avg": 3.6325,
+    "report_date": "2026-05-18",
+    "avg": 3.8529,
     "rows": [
       {
         "region": "Northwest",
-        "price": 3.5525
+        "price": 3.815
       },
       {
         "region": "Southwest",
-        "price": 3.6825
+        "price": 3.895
       },
       {
         "region": "South",
-        "price": 3.6275
+        "price": 3.84
       },
       {
         "region": "West",
-        "price": 3.5825
+        "price": 3.8
       },
       {
         "region": "Central",
-        "price": 3.6175
+        "price": 3.83
       },
       {
         "region": "North",
-        "price": 3.6075
+        "price": 3.82
       },
       {
         "region": "East",
-        "price": 3.7575
+        "price": 3.97
       }
     ]
   },
@@ -66,7 +66,7 @@
     "source": "Montana Daily Elevator Grain Bids",
     "frequency": "daily",
     "unit": "$/bu",
-    "report_date": "2026-05-15",
+    "report_date": "2026-05-18",
     "avg": 3.1,
     "rows": [
       {
