@@ -1,25 +1,25 @@
 {
-  "fetched": "2026-05-19T17:56:24Z",
+  "fetched": "2026-05-19T21:11:12Z",
   "note": "Public AMS PDFs parsed via pdftotext. Sorghum from TX/KS daily grain bids; barley from MT daily; DDGs from weekly national grain co-products report; rice from weekly national rice summary. Closes freshness audit items 8-9.",
   "sorghum_tx": {
     "slug": "2711",
     "source": "Texas Daily Grain Bids",
     "frequency": "daily",
     "unit": "$/bu",
-    "report_date": "2026-05-18",
-    "avg": 4.4867,
+    "report_date": "2026-05-19",
+    "avg": 4.4692,
     "rows": [
       {
         "region": "North Panhandle",
-        "price": 4.145
+        "price": 4.1275
       },
       {
         "region": "South Panhandle",
-        "price": 4.12
+        "price": 4.1025
       },
       {
         "region": "South Plains",
-        "price": 5.195
+        "price": 5.1775
       }
     ]
   },
@@ -28,50 +28,36 @@
     "source": "Kansas Daily Grain Bids",
     "frequency": "daily",
     "unit": "$/bu",
-    "report_date": "2026-05-18",
-    "avg": 3.8529,
+    "report_date": "2026-05-19",
+    "avg": 3.8504,
     "rows": [
       {
         "region": "Northwest",
-        "price": 3.815
+        "price": 3.7975
       },
       {
         "region": "Southwest",
-        "price": 3.895
+        "price": 3.8775
       },
       {
         "region": "South",
-        "price": 3.84
+        "price": 3.8825
       },
       {
         "region": "West",
-        "price": 3.8
+        "price": 3.7775
       },
       {
         "region": "Central",
-        "price": 3.83
+        "price": 3.8125
       },
       {
         "region": "North",
-        "price": 3.82
+        "price": 3.8525
       },
       {
         "region": "East",
-        "price": 3.97
-      }
-    ]
-  },
-  "barley_mt": {
-    "slug": "2771",
-    "source": "Montana Daily Elevator Grain Bids",
-    "frequency": "daily",
-    "unit": "$/bu",
-    "report_date": "2026-05-18",
-    "avg": 3.1,
-    "rows": [
-      {
-        "region": "North Central",
-        "price": 3.1
+        "price": 3.9525
       }
     ]
   },
@@ -198,6 +184,20 @@
       {
         "region": "Texas",
         "price": 31.5
+      }
+    ]
+  },
+  "barley_mt": {
+    "slug": "2771",
+    "source": "Montana Daily Elevator Grain Bids",
+    "frequency": "daily",
+    "unit": "$/bu",
+    "report_date": "2026-05-18",
+    "avg": 3.1,
+    "rows": [
+      {
+        "region": "North Central",
+        "price": 3.1
       }
     ]
   }
