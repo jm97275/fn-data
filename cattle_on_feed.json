@@ -1,23 +1,23 @@
 {
-  "fetched": "2026-04-30T17:04:53Z",
-  "report_date": "2026-04-17",
-  "reference_date": "2026-04-01",
+  "fetched": "2026-05-22T21:04:27Z",
+  "report_date": "2026-05-15",
+  "reference_date": "2026-05-01",
   "on_feed": {
-    "head_1000": 11576,
-    "year_ago_1000": 11638,
-    "pct_of_year_ago": 99.5
+    "head_1000": 11584,
+    "year_ago_1000": 11376,
+    "pct_of_year_ago": 101.8
   },
   "placements": {
-    "month": "March",
-    "head_1000": 1709,
-    "year_ago_1000": 1843,
-    "pct_of_year_ago": 92.7
+    "month": "April",
+    "head_1000": 1702,
+    "year_ago_1000": 1613,
+    "pct_of_year_ago": 105.5
   },
   "marketings": {
-    "month": "March",
-    "head_1000": 1709,
-    "year_ago_1000": 508,
-    "pct_of_year_ago": 336.4
+    "month": "April",
+    "head_1000": 1702,
+    "year_ago_1000": 1613,
+    "pct_of_year_ago": 105.5
   },
-  "next_report": "2026-05-15"
+  "next_report": "2026-06-19"
 }
