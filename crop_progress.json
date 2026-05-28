@@ -1,104 +1,14 @@
 {
-  "updated": "2026-05-27T21:47:56.087995",
+  "updated": "2026-05-28T18:25:11.673289",
   "year": 2026,
   "pasture": {
-    "MN": {
-      "pct_good_excellent": 76,
-      "pct_good": 72,
-      "pct_excellent": 4,
-      "pct_fair": 22,
-      "pct_poor": 1,
-      "pct_very_poor": 1,
-      "week_ending": "2026-05-24"
-    },
-    "ME": {
+    "NY": {
       "pct_good_excellent": 55,
-      "pct_good": 54,
-      "pct_excellent": 1,
-      "pct_fair": 33,
-      "pct_poor": 10,
-      "pct_very_poor": 2,
-      "week_ending": "2026-05-24"
-    },
-    "OR": {
-      "pct_good_excellent": 61,
-      "pct_good": 54,
-      "pct_excellent": 7,
-      "pct_fair": 23,
-      "pct_poor": 9,
-      "pct_very_poor": 7,
-      "week_ending": "2026-05-24"
-    },
-    "ND": {
-      "pct_good_excellent": 62,
-      "pct_good": 61,
-      "pct_excellent": 1,
-      "pct_fair": 36,
-      "pct_poor": 2,
-      "pct_very_poor": 0,
-      "week_ending": "2026-05-24"
-    },
-    "WA": {
-      "pct_good_excellent": 82,
-      "pct_good": 80,
-      "pct_excellent": 2,
-      "pct_fair": 15,
-      "pct_poor": 3,
-      "pct_very_poor": 0,
-      "week_ending": "2026-05-24"
-    },
-    "IA": {
-      "pct_good_excellent": 82,
-      "pct_good": 67,
-      "pct_excellent": 15,
-      "pct_fair": 16,
-      "pct_poor": 2,
-      "pct_very_poor": 0,
-      "week_ending": "2026-05-24"
-    },
-    "MD": {
-      "pct_good_excellent": 45,
-      "pct_good": 40,
-      "pct_excellent": 5,
-      "pct_fair": 18,
-      "pct_poor": 10,
-      "pct_very_poor": 27,
-      "week_ending": "2026-05-24"
-    },
-    "KY": {
-      "pct_good_excellent": 66,
-      "pct_good": 58,
-      "pct_excellent": 8,
-      "pct_fair": 28,
+      "pct_good": 36,
+      "pct_excellent": 19,
+      "pct_fair": 39,
       "pct_poor": 5,
       "pct_very_poor": 1,
-      "week_ending": "2026-05-24"
-    },
-    "TX": {
-      "pct_good_excellent": 45,
-      "pct_good": 35,
-      "pct_excellent": 10,
-      "pct_fair": 41,
-      "pct_poor": 11,
-      "pct_very_poor": 3,
-      "week_ending": "2026-05-24"
-    },
-    "CA": {
-      "pct_good_excellent": 95,
-      "pct_good": 85,
-      "pct_excellent": 10,
-      "pct_fair": 5,
-      "pct_poor": 0,
-      "pct_very_poor": 0,
-      "week_ending": "2026-05-24"
-    },
-    "LA": {
-      "pct_good_excellent": 68,
-      "pct_good": 63,
-      "pct_excellent": 5,
-      "pct_fair": 29,
-      "pct_poor": 3,
-      "pct_very_poor": 0,
       "week_ending": "2026-05-24"
     },
     "OH": {
@@ -110,6 +20,42 @@
       "pct_very_poor": 0,
       "week_ending": "2026-05-24"
     },
+    "NJ": {
+      "pct_good_excellent": 53,
+      "pct_good": 53,
+      "pct_excellent": 0,
+      "pct_fair": 30,
+      "pct_poor": 17,
+      "pct_very_poor": 0,
+      "week_ending": "2026-05-24"
+    },
+    "IN": {
+      "pct_good_excellent": 62,
+      "pct_good": 53,
+      "pct_excellent": 9,
+      "pct_fair": 30,
+      "pct_poor": 6,
+      "pct_very_poor": 2,
+      "week_ending": "2026-05-24"
+    },
+    "IL": {
+      "pct_good_excellent": 67,
+      "pct_good": 57,
+      "pct_excellent": 10,
+      "pct_fair": 28,
+      "pct_poor": 4,
+      "pct_very_poor": 1,
+      "week_ending": "2026-05-24"
+    },
+    "TN": {
+      "pct_good_excellent": 65,
+      "pct_good": 54,
+      "pct_excellent": 11,
+      "pct_fair": 27,
+      "pct_poor": 6,
+      "pct_very_poor": 2,
+      "week_ending": "2026-05-24"
+    },
     "KS": {
       "pct_good_excellent": 62,
       "pct_good": 57,
@@ -119,6 +65,15 @@
       "pct_very_poor": 2,
       "week_ending": "2026-05-24"
     },
+    "WA": {
+      "pct_good_excellent": 82,
+      "pct_good": 80,
+      "pct_excellent": 2,
+      "pct_fair": 15,
+      "pct_poor": 3,
+      "pct_very_poor": 0,
+      "week_ending": "2026-05-24"
+    },
     "UT": {
       "pct_good_excellent": 51,
       "pct_good": 22,
@@ -126,15 +81,6 @@
       "pct_fair": 43,
       "pct_poor": 3,
       "pct_very_poor": 3,
-      "week_ending": "2026-05-24"
-    },
-    "AZ": {
-      "pct_good_excellent": 69,
-      "pct_good": 60,
-      "pct_excellent": 9,
-      "pct_fair": 31,
-      "pct_poor": 0,
-      "pct_very_poor": 0,
       "week_ending": "2026-05-24"
     },
     "WY": {
@@ -155,40 +101,58 @@
       "pct_very_poor": 12,
       "week_ending": "2026-05-24"
     },
-    "SD": {
-      "pct_good_excellent": 35,
-      "pct_good": 32,
-      "pct_excellent": 3,
-      "pct_fair": 39,
-      "pct_poor": 13,
-      "pct_very_poor": 13,
-      "week_ending": "2026-05-24"
-    },
-    "VT": {
-      "pct_good_excellent": 86,
-      "pct_good": 27,
-      "pct_excellent": 59,
-      "pct_fair": 14,
-      "pct_poor": 0,
-      "pct_very_poor": 0,
-      "week_ending": "2026-05-24"
-    },
-    "NH": {
-      "pct_good_excellent": 65,
-      "pct_good": 9,
-      "pct_excellent": 56,
-      "pct_fair": 35,
-      "pct_poor": 0,
-      "pct_very_poor": 0,
-      "week_ending": "2026-05-24"
-    },
-    "OK": {
-      "pct_good_excellent": 46,
-      "pct_good": 40,
-      "pct_excellent": 6,
-      "pct_fair": 36,
-      "pct_poor": 14,
+    "GA": {
+      "pct_good_excellent": 52,
+      "pct_good": 43,
+      "pct_excellent": 9,
+      "pct_fair": 32,
+      "pct_poor": 12,
       "pct_very_poor": 4,
+      "week_ending": "2026-05-24"
+    },
+    "ME": {
+      "pct_good_excellent": 55,
+      "pct_good": 54,
+      "pct_excellent": 1,
+      "pct_fair": 33,
+      "pct_poor": 10,
+      "pct_very_poor": 2,
+      "week_ending": "2026-05-24"
+    },
+    "MD": {
+      "pct_good_excellent": 45,
+      "pct_good": 40,
+      "pct_excellent": 5,
+      "pct_fair": 18,
+      "pct_poor": 10,
+      "pct_very_poor": 27,
+      "week_ending": "2026-05-24"
+    },
+    "VA": {
+      "pct_good_excellent": 8,
+      "pct_good": 7,
+      "pct_excellent": 1,
+      "pct_fair": 46,
+      "pct_poor": 32,
+      "pct_very_poor": 14,
+      "week_ending": "2026-05-24"
+    },
+    "MN": {
+      "pct_good_excellent": 76,
+      "pct_good": 72,
+      "pct_excellent": 4,
+      "pct_fair": 22,
+      "pct_poor": 1,
+      "pct_very_poor": 1,
+      "week_ending": "2026-05-24"
+    },
+    "PA": {
+      "pct_good_excellent": 91,
+      "pct_good": 54,
+      "pct_excellent": 37,
+      "pct_fair": 8,
+      "pct_poor": 1,
+      "pct_very_poor": 0,
       "week_ending": "2026-05-24"
     },
     "NC": {
@@ -197,60 +161,6 @@
       "pct_excellent": 0,
       "pct_fair": 84,
       "pct_poor": 4,
-      "pct_very_poor": 0,
-      "week_ending": "2026-05-24"
-    },
-    "MO": {
-      "pct_good_excellent": 64,
-      "pct_good": 61,
-      "pct_excellent": 3,
-      "pct_fair": 32,
-      "pct_poor": 3,
-      "pct_very_poor": 1,
-      "week_ending": "2026-05-24"
-    },
-    "WV": {
-      "pct_good_excellent": 70,
-      "pct_good": 68,
-      "pct_excellent": 2,
-      "pct_fair": 20,
-      "pct_poor": 10,
-      "pct_very_poor": 0,
-      "week_ending": "2026-05-24"
-    },
-    "IN": {
-      "pct_good_excellent": 62,
-      "pct_good": 53,
-      "pct_excellent": 9,
-      "pct_fair": 30,
-      "pct_poor": 6,
-      "pct_very_poor": 2,
-      "week_ending": "2026-05-24"
-    },
-    "SC": {
-      "pct_good_excellent": 45,
-      "pct_good": 41,
-      "pct_excellent": 4,
-      "pct_fair": 37,
-      "pct_poor": 14,
-      "pct_very_poor": 4,
-      "week_ending": "2026-05-24"
-    },
-    "MA": {
-      "pct_good_excellent": 70,
-      "pct_good": 40,
-      "pct_excellent": 30,
-      "pct_fair": 25,
-      "pct_poor": 5,
-      "pct_very_poor": 0,
-      "week_ending": "2026-05-24"
-    },
-    "MI": {
-      "pct_good_excellent": 69,
-      "pct_good": 59,
-      "pct_excellent": 10,
-      "pct_fair": 30,
-      "pct_poor": 1,
       "pct_very_poor": 0,
       "week_ending": "2026-05-24"
     },
@@ -263,6 +173,42 @@
       "pct_very_poor": 0,
       "week_ending": "2026-05-24"
     },
+    "WI": {
+      "pct_good_excellent": 73,
+      "pct_good": 60,
+      "pct_excellent": 13,
+      "pct_fair": 24,
+      "pct_poor": 2,
+      "pct_very_poor": 1,
+      "week_ending": "2026-05-24"
+    },
+    "NV": {
+      "pct_good_excellent": 25,
+      "pct_good": 15,
+      "pct_excellent": 10,
+      "pct_fair": 70,
+      "pct_poor": 0,
+      "pct_very_poor": 5,
+      "week_ending": "2026-05-24"
+    },
+    "LA": {
+      "pct_good_excellent": 68,
+      "pct_good": 63,
+      "pct_excellent": 5,
+      "pct_fair": 29,
+      "pct_poor": 3,
+      "pct_very_poor": 0,
+      "week_ending": "2026-05-24"
+    },
+    "ND": {
+      "pct_good_excellent": 62,
+      "pct_good": 61,
+      "pct_excellent": 1,
+      "pct_fair": 36,
+      "pct_poor": 2,
+      "pct_very_poor": 0,
+      "week_ending": "2026-05-24"
+    },
     "ID": {
       "pct_good_excellent": 79,
       "pct_good": 76,
@@ -272,40 +218,157 @@
       "pct_very_poor": 0,
       "week_ending": "2026-05-24"
     },
-    "NJ": {
-      "pct_good_excellent": 53,
-      "pct_good": 53,
-      "pct_excellent": 0,
-      "pct_fair": 30,
-      "pct_poor": 17,
+    "MO": {
+      "pct_good_excellent": 64,
+      "pct_good": 61,
+      "pct_excellent": 3,
+      "pct_fair": 32,
+      "pct_poor": 3,
+      "pct_very_poor": 1,
+      "week_ending": "2026-05-24"
+    },
+    "AZ": {
+      "pct_good_excellent": 69,
+      "pct_good": 60,
+      "pct_excellent": 9,
+      "pct_fair": 31,
+      "pct_poor": 0,
       "pct_very_poor": 0,
       "week_ending": "2026-05-24"
     },
-    "VA": {
-      "pct_good_excellent": 8,
-      "pct_good": 7,
-      "pct_excellent": 1,
-      "pct_fair": 46,
-      "pct_poor": 32,
-      "pct_very_poor": 14,
+    "MS": {
+      "pct_good_excellent": 58,
+      "pct_good": 46,
+      "pct_excellent": 12,
+      "pct_fair": 34,
+      "pct_poor": 6,
+      "pct_very_poor": 2,
       "week_ending": "2026-05-24"
     },
-    "NY": {
-      "pct_good_excellent": 55,
-      "pct_good": 36,
-      "pct_excellent": 19,
+    "SD": {
+      "pct_good_excellent": 35,
+      "pct_good": 32,
+      "pct_excellent": 3,
       "pct_fair": 39,
+      "pct_poor": 13,
+      "pct_very_poor": 13,
+      "week_ending": "2026-05-24"
+    },
+    "FL": {
+      "pct_good_excellent": 40,
+      "pct_good": 38,
+      "pct_excellent": 2,
+      "pct_fair": 51,
+      "pct_poor": 7,
+      "pct_very_poor": 2,
+      "week_ending": "2026-05-24"
+    },
+    "VT": {
+      "pct_good_excellent": 86,
+      "pct_good": 27,
+      "pct_excellent": 59,
+      "pct_fair": 14,
+      "pct_poor": 0,
+      "pct_very_poor": 0,
+      "week_ending": "2026-05-24"
+    },
+    "OR": {
+      "pct_good_excellent": 61,
+      "pct_good": 54,
+      "pct_excellent": 7,
+      "pct_fair": 23,
+      "pct_poor": 9,
+      "pct_very_poor": 7,
+      "week_ending": "2026-05-24"
+    },
+    "TX": {
+      "pct_good_excellent": 45,
+      "pct_good": 35,
+      "pct_excellent": 10,
+      "pct_fair": 41,
+      "pct_poor": 11,
+      "pct_very_poor": 3,
+      "week_ending": "2026-05-24"
+    },
+    "OK": {
+      "pct_good_excellent": 46,
+      "pct_good": 40,
+      "pct_excellent": 6,
+      "pct_fair": 36,
+      "pct_poor": 14,
+      "pct_very_poor": 4,
+      "week_ending": "2026-05-24"
+    },
+    "AL": {
+      "pct_good_excellent": 69,
+      "pct_good": 64,
+      "pct_excellent": 5,
+      "pct_fair": 29,
+      "pct_poor": 2,
+      "pct_very_poor": 0,
+      "week_ending": "2026-05-24"
+    },
+    "WV": {
+      "pct_good_excellent": 70,
+      "pct_good": 68,
+      "pct_excellent": 2,
+      "pct_fair": 20,
+      "pct_poor": 10,
+      "pct_very_poor": 0,
+      "week_ending": "2026-05-24"
+    },
+    "IA": {
+      "pct_good_excellent": 82,
+      "pct_good": 67,
+      "pct_excellent": 15,
+      "pct_fair": 16,
+      "pct_poor": 2,
+      "pct_very_poor": 0,
+      "week_ending": "2026-05-24"
+    },
+    "MA": {
+      "pct_good_excellent": 70,
+      "pct_good": 40,
+      "pct_excellent": 30,
+      "pct_fair": 25,
+      "pct_poor": 5,
+      "pct_very_poor": 0,
+      "week_ending": "2026-05-24"
+    },
+    "SC": {
+      "pct_good_excellent": 45,
+      "pct_good": 41,
+      "pct_excellent": 4,
+      "pct_fair": 37,
+      "pct_poor": 14,
+      "pct_very_poor": 4,
+      "week_ending": "2026-05-24"
+    },
+    "NE": {
+      "pct_good_excellent": 9,
+      "pct_good": 9,
+      "pct_excellent": 0,
+      "pct_fair": 32,
+      "pct_poor": 35,
+      "pct_very_poor": 24,
+      "week_ending": "2026-05-24"
+    },
+    "KY": {
+      "pct_good_excellent": 66,
+      "pct_good": 58,
+      "pct_excellent": 8,
+      "pct_fair": 28,
       "pct_poor": 5,
       "pct_very_poor": 1,
       "week_ending": "2026-05-24"
     },
-    "NM": {
-      "pct_good_excellent": 71,
-      "pct_good": 41,
-      "pct_excellent": 30,
-      "pct_fair": 13,
-      "pct_poor": 10,
-      "pct_very_poor": 6,
+    "MI": {
+      "pct_good_excellent": 69,
+      "pct_good": 59,
+      "pct_excellent": 10,
+      "pct_fair": 30,
+      "pct_poor": 1,
+      "pct_very_poor": 0,
       "week_ending": "2026-05-24"
     },
     "RI": {
@@ -326,6 +389,15 @@
       "pct_very_poor": 1,
       "week_ending": "2026-05-24"
     },
+    "NH": {
+      "pct_good_excellent": 65,
+      "pct_good": 9,
+      "pct_excellent": 56,
+      "pct_fair": 35,
+      "pct_poor": 0,
+      "pct_very_poor": 0,
+      "week_ending": "2026-05-24"
+    },
     "CO": {
       "pct_good_excellent": 68,
       "pct_good": 54,
@@ -335,12 +407,21 @@
       "pct_very_poor": 0,
       "week_ending": "2026-05-24"
     },
-    "PA": {
-      "pct_good_excellent": 91,
-      "pct_good": 54,
-      "pct_excellent": 37,
-      "pct_fair": 8,
-      "pct_poor": 1,
+    "NM": {
+      "pct_good_excellent": 71,
+      "pct_good": 41,
+      "pct_excellent": 30,
+      "pct_fair": 13,
+      "pct_poor": 10,
+      "pct_very_poor": 6,
+      "week_ending": "2026-05-24"
+    },
+    "CA": {
+      "pct_good_excellent": 95,
+      "pct_good": 85,
+      "pct_excellent": 10,
+      "pct_fair": 5,
+      "pct_poor": 0,
       "pct_very_poor": 0,
       "week_ending": "2026-05-24"
     },
@@ -352,219 +433,24 @@
       "pct_poor": 7,
       "pct_very_poor": 2,
       "week_ending": "2026-05-24"
-    },
-    "NE": {
-      "pct_good_excellent": 9,
-      "pct_good": 9,
-      "pct_excellent": 0,
-      "pct_fair": 32,
-      "pct_poor": 35,
-      "pct_very_poor": 24,
-      "week_ending": "2026-05-24"
-    },
-    "TN": {
-      "pct_good_excellent": 65,
-      "pct_good": 54,
-      "pct_excellent": 11,
-      "pct_fair": 27,
-      "pct_poor": 6,
-      "pct_very_poor": 2,
-      "week_ending": "2026-05-24"
-    },
-    "IL": {
-      "pct_good_excellent": 67,
-      "pct_good": 57,
-      "pct_excellent": 10,
-      "pct_fair": 28,
-      "pct_poor": 4,
-      "pct_very_poor": 1,
-      "week_ending": "2026-05-24"
-    },
-    "WI": {
-      "pct_good_excellent": 73,
-      "pct_good": 60,
-      "pct_excellent": 13,
-      "pct_fair": 24,
-      "pct_poor": 2,
-      "pct_very_poor": 1,
-      "week_ending": "2026-05-24"
-    },
-    "MS": {
-      "pct_good_excellent": 58,
-      "pct_good": 46,
-      "pct_excellent": 12,
-      "pct_fair": 34,
-      "pct_poor": 6,
-      "pct_very_poor": 2,
-      "week_ending": "2026-05-24"
-    },
-    "AL": {
-      "pct_good_excellent": 69,
-      "pct_good": 64,
-      "pct_excellent": 5,
-      "pct_fair": 29,
-      "pct_poor": 2,
-      "pct_very_poor": 0,
-      "week_ending": "2026-05-24"
-    },
-    "GA": {
-      "pct_good_excellent": 52,
-      "pct_good": 43,
-      "pct_excellent": 9,
-      "pct_fair": 32,
-      "pct_poor": 12,
-      "pct_very_poor": 4,
-      "week_ending": "2026-05-24"
-    },
-    "FL": {
-      "pct_good_excellent": 40,
-      "pct_good": 38,
-      "pct_excellent": 2,
-      "pct_fair": 51,
-      "pct_poor": 7,
-      "pct_very_poor": 2,
-      "week_ending": "2026-05-24"
-    },
-    "NV": {
-      "pct_good_excellent": 25,
-      "pct_good": 15,
-      "pct_excellent": 10,
-      "pct_fair": 70,
-      "pct_poor": 0,
-      "pct_very_poor": 5,
-      "week_ending": "2026-05-24"
     }
   },
   "crops": {
-    "ME": {
+    "NY": {
       "corn": {
-        "pct_planted": 24,
-        "pct_good_excellent": null,
-        "week_ending": "2026-05-24"
-      }
-    },
-    "MN": {
-      "corn": {
-        "pct_planted": 94,
+        "pct_planted": 23,
         "pct_good_excellent": null,
         "week_ending": "2026-05-24"
       },
       "soybeans": {
-        "pct_planted": 90,
+        "pct_planted": 8,
         "pct_good_excellent": null,
         "week_ending": "2026-05-24"
       },
       "wheat": {
-        "pct_planted": 93,
-        "pct_good_excellent": null,
-        "week_ending": "2026-05-24"
-      }
-    },
-    "ND": {
-      "corn": {
-        "pct_planted": 80,
-        "pct_good_excellent": null,
-        "week_ending": "2026-05-24"
-      },
-      "soybeans": {
-        "pct_planted": 63,
-        "pct_good_excellent": null,
-        "week_ending": "2026-05-24"
-      },
-      "wheat": {
-        "pct_planted": 83,
-        "pct_good_excellent": null,
-        "week_ending": "2026-05-24"
-      }
-    },
-    "IA": {
-      "corn": {
-        "pct_planted": 94,
-        "pct_good_excellent": null,
-        "week_ending": "2026-05-24"
-      },
-      "soybeans": {
-        "pct_planted": 90,
-        "pct_good_excellent": null,
-        "week_ending": "2026-05-24"
-      }
-    },
-    "MD": {
-      "corn": {
-        "pct_planted": 99,
-        "pct_good_excellent": null,
-        "week_ending": "2026-05-24"
-      },
-      "soybeans": {
-        "pct_planted": 65,
-        "pct_good_excellent": null,
-        "week_ending": "2026-05-24"
-      },
-      "wheat": {
-        "pct_planted": 93,
-        "pct_good_excellent": null,
-        "week_ending": "2025-11-23"
-      }
-    },
-    "KY": {
-      "corn": {
         "pct_planted": 95,
         "pct_good_excellent": null,
-        "week_ending": "2026-05-24"
-      },
-      "soybeans": {
-        "pct_planted": 79,
-        "pct_good_excellent": null,
-        "week_ending": "2026-05-24"
-      },
-      "wheat": {
-        "pct_planted": 90,
-        "pct_good_excellent": null,
-        "week_ending": "2025-11-23"
-      }
-    },
-    "TX": {
-      "corn": {
-        "pct_planted": 92,
-        "pct_good_excellent": null,
-        "week_ending": "2026-05-24"
-      },
-      "soybeans": {
-        "pct_planted": 60,
-        "pct_good_excellent": null,
-        "week_ending": "2026-05-24"
-      },
-      "wheat": {
-        "pct_planted": 93,
-        "pct_good_excellent": null,
-        "week_ending": "2025-11-23"
-      },
-      "cotton": {
-        "pct_planted": 42,
-        "pct_good_excellent": null,
-        "week_ending": "2026-05-24"
-      }
-    },
-    "LA": {
-      "corn": {
-        "pct_planted": 100,
-        "pct_good_excellent": null,
-        "week_ending": "2026-04-26"
-      },
-      "soybeans": {
-        "pct_planted": 95,
-        "pct_good_excellent": null,
-        "week_ending": "2026-05-24"
-      },
-      "wheat": {
-        "pct_planted": 63,
-        "pct_good_excellent": null,
-        "week_ending": "2025-11-23"
-      },
-      "cotton": {
-        "pct_planted": 70,
-        "pct_good_excellent": null,
-        "week_ending": "2026-05-24"
+        "week_ending": "2025-11-16"
       }
     },
     "OH": {
@@ -582,6 +468,79 @@
         "pct_planted": 99,
         "pct_good_excellent": null,
         "week_ending": "2025-11-23"
+      }
+    },
+    "NJ": {
+      "corn": {
+        "pct_planted": 80,
+        "pct_good_excellent": null,
+        "week_ending": "2026-05-24"
+      },
+      "soybeans": {
+        "pct_planted": 50,
+        "pct_good_excellent": null,
+        "week_ending": "2026-05-24"
+      },
+      "wheat": {
+        "pct_planted": 95,
+        "pct_good_excellent": null,
+        "week_ending": "2025-11-16"
+      }
+    },
+    "IN": {
+      "corn": {
+        "pct_planted": 76,
+        "pct_good_excellent": null,
+        "week_ending": "2026-05-24"
+      },
+      "soybeans": {
+        "pct_planted": 74,
+        "pct_good_excellent": null,
+        "week_ending": "2026-05-24"
+      },
+      "wheat": {
+        "pct_planted": 94,
+        "pct_good_excellent": null,
+        "week_ending": "2025-11-23"
+      }
+    },
+    "IL": {
+      "corn": {
+        "pct_planted": 86,
+        "pct_good_excellent": null,
+        "week_ending": "2026-05-24"
+      },
+      "soybeans": {
+        "pct_planted": 84,
+        "pct_good_excellent": null,
+        "week_ending": "2026-05-24"
+      },
+      "wheat": {
+        "pct_planted": 98,
+        "pct_good_excellent": null,
+        "week_ending": "2025-11-23"
+      }
+    },
+    "TN": {
+      "corn": {
+        "pct_planted": 97,
+        "pct_good_excellent": null,
+        "week_ending": "2026-05-24"
+      },
+      "soybeans": {
+        "pct_planted": 84,
+        "pct_good_excellent": null,
+        "week_ending": "2026-05-24"
+      },
+      "wheat": {
+        "pct_planted": null,
+        "pct_good_excellent": null,
+        "week_ending": "2026-05-24"
+      },
+      "cotton": {
+        "pct_planted": 87,
+        "pct_good_excellent": null,
+        "week_ending": "2026-05-24"
       }
     },
     "KS": {
@@ -647,40 +606,94 @@
         "week_ending": "2025-11-23"
       }
     },
-    "SD": {
+    "GA": {
       "corn": {
-        "pct_planted": 92,
+        "pct_planted": 95,
         "pct_good_excellent": null,
-        "week_ending": "2026-05-24"
+        "week_ending": "2026-05-10"
       },
       "soybeans": {
-        "pct_planted": 77,
+        "pct_planted": 64,
         "pct_good_excellent": null,
         "week_ending": "2026-05-24"
       },
       "wheat": {
-        "pct_planted": 98,
+        "pct_planted": 56,
+        "pct_good_excellent": null,
+        "week_ending": "2025-11-23"
+      },
+      "cotton": {
+        "pct_planted": 58,
         "pct_good_excellent": null,
         "week_ending": "2026-05-24"
       }
     },
-    "VT": {
+    "ME": {
       "corn": {
-        "pct_planted": 47,
+        "pct_planted": 24,
         "pct_good_excellent": null,
         "week_ending": "2026-05-24"
       }
     },
-    "NH": {
+    "MD": {
       "corn": {
-        "pct_planted": 77,
+        "pct_planted": 99,
+        "pct_good_excellent": null,
+        "week_ending": "2026-05-24"
+      },
+      "soybeans": {
+        "pct_planted": 65,
+        "pct_good_excellent": null,
+        "week_ending": "2026-05-24"
+      },
+      "wheat": {
+        "pct_planted": 93,
+        "pct_good_excellent": null,
+        "week_ending": "2025-11-23"
+      }
+    },
+    "VA": {
+      "corn": {
+        "pct_planted": 90,
+        "pct_good_excellent": null,
+        "week_ending": "2026-05-24"
+      },
+      "soybeans": {
+        "pct_planted": 69,
+        "pct_good_excellent": null,
+        "week_ending": "2026-05-24"
+      },
+      "wheat": {
+        "pct_planted": 94,
+        "pct_good_excellent": null,
+        "week_ending": "2025-11-23"
+      },
+      "cotton": {
+        "pct_planted": 55,
         "pct_good_excellent": null,
         "week_ending": "2026-05-24"
       }
     },
-    "OK": {
+    "MN": {
       "corn": {
-        "pct_planted": 89,
+        "pct_planted": 94,
+        "pct_good_excellent": null,
+        "week_ending": "2026-05-24"
+      },
+      "soybeans": {
+        "pct_planted": 90,
+        "pct_good_excellent": null,
+        "week_ending": "2026-05-24"
+      },
+      "wheat": {
+        "pct_planted": 93,
+        "pct_good_excellent": null,
+        "week_ending": "2026-05-24"
+      }
+    },
+    "PA": {
+      "corn": {
+        "pct_planted": 51,
         "pct_good_excellent": null,
         "week_ending": "2026-05-24"
       },
@@ -690,14 +703,9 @@
         "week_ending": "2026-05-24"
       },
       "wheat": {
-        "pct_planted": 97,
+        "pct_planted": 98,
         "pct_good_excellent": null,
-        "week_ending": "2025-11-23"
-      },
-      "cotton": {
-        "pct_planted": 50,
-        "pct_good_excellent": null,
-        "week_ending": "2026-05-24"
+        "week_ending": "2025-11-16"
       }
     },
     "NC": {
@@ -718,6 +726,69 @@
       },
       "cotton": {
         "pct_planted": 61,
+        "pct_good_excellent": null,
+        "week_ending": "2026-05-24"
+      }
+    },
+    "CT": {
+      "corn": {
+        "pct_planted": 50,
+        "pct_good_excellent": null,
+        "week_ending": "2026-05-24"
+      }
+    },
+    "WI": {
+      "corn": {
+        "pct_planted": 82,
+        "pct_good_excellent": null,
+        "week_ending": "2026-05-24"
+      },
+      "soybeans": {
+        "pct_planted": 75,
+        "pct_good_excellent": null,
+        "week_ending": "2026-05-24"
+      },
+      "wheat": {
+        "pct_planted": 43,
+        "pct_good_excellent": null,
+        "week_ending": "2025-09-28"
+      }
+    },
+    "LA": {
+      "corn": {
+        "pct_planted": 100,
+        "pct_good_excellent": null,
+        "week_ending": "2026-04-26"
+      },
+      "soybeans": {
+        "pct_planted": 95,
+        "pct_good_excellent": null,
+        "week_ending": "2026-05-24"
+      },
+      "wheat": {
+        "pct_planted": 63,
+        "pct_good_excellent": null,
+        "week_ending": "2025-11-23"
+      },
+      "cotton": {
+        "pct_planted": 70,
+        "pct_good_excellent": null,
+        "week_ending": "2026-05-24"
+      }
+    },
+    "ND": {
+      "corn": {
+        "pct_planted": 80,
+        "pct_good_excellent": null,
+        "week_ending": "2026-05-24"
+      },
+      "soybeans": {
+        "pct_planted": 63,
+        "pct_good_excellent": null,
+        "week_ending": "2026-05-24"
+      },
+      "wheat": {
+        "pct_planted": 83,
         "pct_good_excellent": null,
         "week_ending": "2026-05-24"
       }
@@ -744,307 +815,21 @@
         "week_ending": "2026-05-24"
       }
     },
-    "MA": {
-      "corn": {
-        "pct_planted": 50,
-        "pct_good_excellent": null,
-        "week_ending": "2026-05-24"
-      }
-    },
-    "IN": {
-      "corn": {
-        "pct_planted": 76,
-        "pct_good_excellent": null,
-        "week_ending": "2026-05-24"
-      },
-      "soybeans": {
-        "pct_planted": 74,
-        "pct_good_excellent": null,
-        "week_ending": "2026-05-24"
-      },
-      "wheat": {
-        "pct_planted": 94,
-        "pct_good_excellent": null,
-        "week_ending": "2025-11-23"
-      }
-    },
-    "SC": {
-      "corn": {
-        "pct_planted": 98,
-        "pct_good_excellent": null,
-        "week_ending": "2026-05-17"
-      },
-      "soybeans": {
-        "pct_planted": 46,
-        "pct_good_excellent": null,
-        "week_ending": "2026-05-24"
-      },
-      "wheat": {
-        "pct_planted": 45,
-        "pct_good_excellent": null,
-        "week_ending": "2025-11-23"
-      },
-      "cotton": {
-        "pct_planted": 62,
-        "pct_good_excellent": null,
-        "week_ending": "2026-05-24"
-      }
-    },
-    "WV": {
-      "corn": {
-        "pct_planted": 53,
-        "pct_good_excellent": null,
-        "week_ending": "2026-05-24"
-      },
-      "soybeans": {
-        "pct_planted": 37,
-        "pct_good_excellent": null,
-        "week_ending": "2026-05-24"
-      },
-      "wheat": {
-        "pct_planted": 95,
-        "pct_good_excellent": null,
-        "week_ending": "2025-11-16"
-      }
-    },
-    "MI": {
-      "corn": {
-        "pct_planted": 75,
-        "pct_good_excellent": null,
-        "week_ending": "2026-05-24"
-      },
-      "soybeans": {
-        "pct_planted": 64,
-        "pct_good_excellent": null,
-        "week_ending": "2026-05-24"
-      },
-      "wheat": {
-        "pct_planted": 100,
-        "pct_good_excellent": null,
-        "week_ending": "2025-11-23"
-      }
-    },
-    "CT": {
-      "corn": {
-        "pct_planted": 50,
-        "pct_good_excellent": null,
-        "week_ending": "2026-05-24"
-      }
-    },
-    "NJ": {
-      "corn": {
-        "pct_planted": 80,
-        "pct_good_excellent": null,
-        "week_ending": "2026-05-24"
-      },
-      "soybeans": {
-        "pct_planted": 50,
-        "pct_good_excellent": null,
-        "week_ending": "2026-05-24"
-      },
-      "wheat": {
-        "pct_planted": 95,
-        "pct_good_excellent": null,
-        "week_ending": "2025-11-16"
-      }
-    },
-    "VA": {
-      "corn": {
-        "pct_planted": 90,
-        "pct_good_excellent": null,
-        "week_ending": "2026-05-24"
-      },
-      "soybeans": {
-        "pct_planted": 69,
-        "pct_good_excellent": null,
-        "week_ending": "2026-05-24"
-      },
-      "wheat": {
-        "pct_planted": 94,
-        "pct_good_excellent": null,
-        "week_ending": "2025-11-23"
-      },
-      "cotton": {
-        "pct_planted": 55,
-        "pct_good_excellent": null,
-        "week_ending": "2026-05-24"
-      }
-    },
-    "NY": {
-      "corn": {
-        "pct_planted": 23,
-        "pct_good_excellent": null,
-        "week_ending": "2026-05-24"
-      },
-      "soybeans": {
-        "pct_planted": 8,
-        "pct_good_excellent": null,
-        "week_ending": "2026-05-24"
-      },
-      "wheat": {
-        "pct_planted": 95,
-        "pct_good_excellent": null,
-        "week_ending": "2025-11-16"
-      }
-    },
-    "NM": {
-      "corn": {
-        "pct_planted": 44,
-        "pct_good_excellent": null,
-        "week_ending": "2026-05-24"
-      },
-      "wheat": {
-        "pct_planted": 30,
-        "pct_good_excellent": null,
-        "week_ending": "2025-09-28"
-      },
-      "cotton": {
-        "pct_planted": 76,
-        "pct_good_excellent": null,
-        "week_ending": "2026-05-24"
-      }
-    },
-    "RI": {
-      "corn": {
-        "pct_planted": 50,
-        "pct_good_excellent": null,
-        "week_ending": "2026-05-24"
-      }
-    },
-    "MT": {
-      "corn": {
-        "pct_planted": 44,
-        "pct_good_excellent": null,
-        "week_ending": "2026-05-24"
-      },
-      "wheat": {
-        "pct_planted": 83,
-        "pct_good_excellent": null,
-        "week_ending": "2026-05-24"
-      }
-    },
-    "CO": {
-      "corn": {
-        "pct_planted": 88,
-        "pct_good_excellent": null,
-        "week_ending": "2026-05-24"
-      },
-      "wheat": {
-        "pct_planted": 100,
-        "pct_good_excellent": null,
-        "week_ending": "2025-11-23"
-      }
-    },
-    "PA": {
-      "corn": {
-        "pct_planted": 51,
-        "pct_good_excellent": null,
-        "week_ending": "2026-05-24"
-      },
-      "soybeans": {
-        "pct_planted": 45,
-        "pct_good_excellent": null,
-        "week_ending": "2026-05-24"
-      },
-      "wheat": {
-        "pct_planted": 98,
-        "pct_good_excellent": null,
-        "week_ending": "2025-11-16"
-      }
-    },
-    "AR": {
-      "corn": {
-        "pct_planted": 100,
-        "pct_good_excellent": null,
-        "week_ending": "2026-05-17"
-      },
-      "soybeans": {
-        "pct_planted": 91,
-        "pct_good_excellent": null,
-        "week_ending": "2026-05-24"
-      },
-      "wheat": {
-        "pct_planted": 95,
-        "pct_good_excellent": null,
-        "week_ending": "2025-11-23"
-      },
-      "cotton": {
-        "pct_planted": 77,
-        "pct_good_excellent": null,
-        "week_ending": "2026-05-24"
-      }
-    },
-    "NE": {
+    "SD": {
       "corn": {
         "pct_planted": 92,
         "pct_good_excellent": null,
         "week_ending": "2026-05-24"
       },
       "soybeans": {
-        "pct_planted": 91,
-        "pct_good_excellent": null,
-        "week_ending": "2026-05-24"
-      },
-      "wheat": {
-        "pct_planted": 99,
-        "pct_good_excellent": null,
-        "week_ending": "2025-11-23"
-      }
-    },
-    "TN": {
-      "corn": {
-        "pct_planted": 97,
-        "pct_good_excellent": null,
-        "week_ending": "2026-05-24"
-      },
-      "soybeans": {
-        "pct_planted": 84,
-        "pct_good_excellent": null,
-        "week_ending": "2026-05-24"
-      },
-      "wheat": {
-        "pct_planted": null,
-        "pct_good_excellent": null,
-        "week_ending": "2026-05-24"
-      },
-      "cotton": {
-        "pct_planted": 87,
-        "pct_good_excellent": null,
-        "week_ending": "2026-05-24"
-      }
-    },
-    "IL": {
-      "corn": {
-        "pct_planted": 86,
-        "pct_good_excellent": null,
-        "week_ending": "2026-05-24"
-      },
-      "soybeans": {
-        "pct_planted": 84,
+        "pct_planted": 77,
         "pct_good_excellent": null,
         "week_ending": "2026-05-24"
       },
       "wheat": {
         "pct_planted": 98,
         "pct_good_excellent": null,
-        "week_ending": "2025-11-23"
-      }
-    },
-    "WI": {
-      "corn": {
-        "pct_planted": 82,
-        "pct_good_excellent": null,
         "week_ending": "2026-05-24"
-      },
-      "soybeans": {
-        "pct_planted": 75,
-        "pct_good_excellent": null,
-        "week_ending": "2026-05-24"
-      },
-      "wheat": {
-        "pct_planted": 43,
-        "pct_good_excellent": null,
-        "week_ending": "2025-09-28"
       }
     },
     "MS": {
@@ -1065,6 +850,57 @@
       },
       "cotton": {
         "pct_planted": 73,
+        "pct_good_excellent": null,
+        "week_ending": "2026-05-24"
+      }
+    },
+    "VT": {
+      "corn": {
+        "pct_planted": 47,
+        "pct_good_excellent": null,
+        "week_ending": "2026-05-24"
+      }
+    },
+    "OK": {
+      "corn": {
+        "pct_planted": 89,
+        "pct_good_excellent": null,
+        "week_ending": "2026-05-24"
+      },
+      "soybeans": {
+        "pct_planted": 45,
+        "pct_good_excellent": null,
+        "week_ending": "2026-05-24"
+      },
+      "wheat": {
+        "pct_planted": 97,
+        "pct_good_excellent": null,
+        "week_ending": "2025-11-23"
+      },
+      "cotton": {
+        "pct_planted": 50,
+        "pct_good_excellent": null,
+        "week_ending": "2026-05-24"
+      }
+    },
+    "TX": {
+      "corn": {
+        "pct_planted": 92,
+        "pct_good_excellent": null,
+        "week_ending": "2026-05-24"
+      },
+      "soybeans": {
+        "pct_planted": 60,
+        "pct_good_excellent": null,
+        "week_ending": "2026-05-24"
+      },
+      "wheat": {
+        "pct_planted": 93,
+        "pct_good_excellent": null,
+        "week_ending": "2025-11-23"
+      },
+      "cotton": {
+        "pct_planted": 42,
         "pct_good_excellent": null,
         "week_ending": "2026-05-24"
       }
@@ -1091,11 +927,103 @@
         "week_ending": "2026-05-24"
       }
     },
-    "GA": {
+    "WV": {
+      "corn": {
+        "pct_planted": 53,
+        "pct_good_excellent": null,
+        "week_ending": "2026-05-24"
+      },
+      "soybeans": {
+        "pct_planted": 37,
+        "pct_good_excellent": null,
+        "week_ending": "2026-05-24"
+      },
+      "wheat": {
+        "pct_planted": 95,
+        "pct_good_excellent": null,
+        "week_ending": "2025-11-16"
+      }
+    },
+    "IA": {
+      "corn": {
+        "pct_planted": 94,
+        "pct_good_excellent": null,
+        "week_ending": "2026-05-24"
+      },
+      "soybeans": {
+        "pct_planted": 90,
+        "pct_good_excellent": null,
+        "week_ending": "2026-05-24"
+      }
+    },
+    "MA": {
+      "corn": {
+        "pct_planted": 50,
+        "pct_good_excellent": null,
+        "week_ending": "2026-05-24"
+      }
+    },
+    "NE": {
+      "corn": {
+        "pct_planted": 92,
+        "pct_good_excellent": null,
+        "week_ending": "2026-05-24"
+      },
+      "soybeans": {
+        "pct_planted": 91,
+        "pct_good_excellent": null,
+        "week_ending": "2026-05-24"
+      },
+      "wheat": {
+        "pct_planted": 99,
+        "pct_good_excellent": null,
+        "week_ending": "2025-11-23"
+      }
+    },
+    "SC": {
+      "corn": {
+        "pct_planted": 98,
+        "pct_good_excellent": null,
+        "week_ending": "2026-05-17"
+      },
+      "soybeans": {
+        "pct_planted": 46,
+        "pct_good_excellent": null,
+        "week_ending": "2026-05-24"
+      },
+      "wheat": {
+        "pct_planted": 45,
+        "pct_good_excellent": null,
+        "week_ending": "2025-11-23"
+      },
+      "cotton": {
+        "pct_planted": 62,
+        "pct_good_excellent": null,
+        "week_ending": "2026-05-24"
+      }
+    },
+    "KY": {
       "corn": {
         "pct_planted": 95,
         "pct_good_excellent": null,
-        "week_ending": "2026-05-10"
+        "week_ending": "2026-05-24"
+      },
+      "soybeans": {
+        "pct_planted": 79,
+        "pct_good_excellent": null,
+        "week_ending": "2026-05-24"
+      },
+      "wheat": {
+        "pct_planted": 90,
+        "pct_good_excellent": null,
+        "week_ending": "2025-11-23"
+      }
+    },
+    "MI": {
+      "corn": {
+        "pct_planted": 75,
+        "pct_good_excellent": null,
+        "week_ending": "2026-05-24"
       },
       "soybeans": {
         "pct_planted": 64,
@@ -1103,21 +1031,86 @@
         "week_ending": "2026-05-24"
       },
       "wheat": {
-        "pct_planted": 56,
+        "pct_planted": 100,
         "pct_good_excellent": null,
         "week_ending": "2025-11-23"
-      },
-      "cotton": {
-        "pct_planted": 58,
+      }
+    },
+    "RI": {
+      "corn": {
+        "pct_planted": 50,
         "pct_good_excellent": null,
         "week_ending": "2026-05-24"
       }
     },
-    "OR": {
+    "MT": {
+      "corn": {
+        "pct_planted": 44,
+        "pct_good_excellent": null,
+        "week_ending": "2026-05-24"
+      },
+      "wheat": {
+        "pct_planted": 83,
+        "pct_good_excellent": null,
+        "week_ending": "2026-05-24"
+      }
+    },
+    "NH": {
+      "corn": {
+        "pct_planted": 77,
+        "pct_good_excellent": null,
+        "week_ending": "2026-05-24"
+      }
+    },
+    "CO": {
+      "corn": {
+        "pct_planted": 88,
+        "pct_good_excellent": null,
+        "week_ending": "2026-05-24"
+      },
       "wheat": {
         "pct_planted": 100,
         "pct_good_excellent": null,
         "week_ending": "2025-11-23"
+      }
+    },
+    "NM": {
+      "corn": {
+        "pct_planted": 44,
+        "pct_good_excellent": null,
+        "week_ending": "2026-05-24"
+      },
+      "wheat": {
+        "pct_planted": 30,
+        "pct_good_excellent": null,
+        "week_ending": "2025-09-28"
+      },
+      "cotton": {
+        "pct_planted": 76,
+        "pct_good_excellent": null,
+        "week_ending": "2026-05-24"
+      }
+    },
+    "AR": {
+      "corn": {
+        "pct_planted": 100,
+        "pct_good_excellent": null,
+        "week_ending": "2026-05-17"
+      },
+      "soybeans": {
+        "pct_planted": 91,
+        "pct_good_excellent": null,
+        "week_ending": "2026-05-24"
+      },
+      "wheat": {
+        "pct_planted": 95,
+        "pct_good_excellent": null,
+        "week_ending": "2025-11-23"
+      },
+      "cotton": {
+        "pct_planted": 77,
+        "pct_good_excellent": null,
+        "week_ending": "2026-05-24"
       }
     },
     "WA": {
@@ -1127,14 +1120,9 @@
         "week_ending": "2026-05-24"
       }
     },
-    "CA": {
+    "ID": {
       "wheat": {
-        "pct_planted": 60,
-        "pct_good_excellent": null,
-        "week_ending": "2025-11-23"
-      },
-      "cotton": {
-        "pct_planted": 97,
+        "pct_planted": 98,
         "pct_good_excellent": null,
         "week_ending": "2026-05-24"
       }
@@ -1151,9 +1139,21 @@
         "week_ending": "2026-05-24"
       }
     },
-    "ID": {
+    "OR": {
       "wheat": {
-        "pct_planted": 98,
+        "pct_planted": 100,
+        "pct_good_excellent": null,
+        "week_ending": "2025-11-23"
+      }
+    },
+    "CA": {
+      "wheat": {
+        "pct_planted": 60,
+        "pct_good_excellent": null,
+        "week_ending": "2025-11-23"
+      },
+      "cotton": {
+        "pct_planted": 97,
         "pct_good_excellent": null,
         "week_ending": "2026-05-24"
       }
