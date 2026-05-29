@@ -1,29 +1,29 @@
 {
-  "fetched": "2026-05-29T18:21:03Z",
+  "fetched": "2026-05-29T21:43:58Z",
   "note": "Public AMS PDFs parsed via pdftotext. Sorghum from TX/KS daily grain bids; barley from MT daily; DDGs from weekly national grain co-products report; rice from weekly national rice summary. Closes freshness audit items 8-9.",
   "sorghum_tx": {
     "slug": "2711",
     "source": "Texas Daily Grain Bids",
     "frequency": "daily",
     "unit": "$/bu",
-    "report_date": "2026-05-28",
-    "avg": 4.2,
+    "report_date": "2026-05-29",
+    "avg": 4.11,
     "rows": [
       {
         "region": "North Panhandle",
-        "price": 3.9325
+        "price": 3.8425
       },
       {
         "region": "Central Panhandle",
-        "price": 3.9775
+        "price": 3.8875
       },
       {
         "region": "South Panhandle",
-        "price": 3.9075
+        "price": 3.8175
       },
       {
         "region": "South Plains",
-        "price": 4.9825
+        "price": 4.8925
       }
     ]
   },
@@ -32,36 +32,36 @@
     "source": "Kansas Daily Grain Bids",
     "frequency": "daily",
     "unit": "$/bu",
-    "report_date": "2026-05-28",
-    "avg": 3.6625,
+    "report_date": "2026-05-29",
+    "avg": 3.5725,
     "rows": [
       {
         "region": "Northwest",
-        "price": 3.6275
+        "price": 3.5375
       },
       {
         "region": "Southwest",
-        "price": 3.6825
+        "price": 3.5925
       },
       {
         "region": "South",
-        "price": 3.6875
+        "price": 3.5975
       },
       {
         "region": "West",
-        "price": 3.6075
+        "price": 3.5175
       },
       {
         "region": "Central",
-        "price": 3.6175
+        "price": 3.5275
       },
       {
         "region": "North",
-        "price": 3.6575
+        "price": 3.5675
       },
       {
         "region": "East",
-        "price": 3.7575
+        "price": 3.6675
       }
     ]
   },
