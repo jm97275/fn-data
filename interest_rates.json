@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-01T22:42:29Z",
+  "fetched": "2026-06-02T19:12:35Z",
   "fed_funds": {
     "rate": 3.62,
     "prior_rate": 3.62,
@@ -11,6 +11,12 @@
     "prior_rate": 6.75,
     "change": 0.0,
     "as_of": "2026-05-26"
+  },
+  "mortgage_30yr": {
+    "rate": 6.53,
+    "prior_rate": 6.51,
+    "change": 0.02,
+    "as_of": "2026-05-28"
   },
   "history": [
     {
