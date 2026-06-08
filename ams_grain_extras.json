@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-06T20:54:19Z",
+  "fetched": "2026-06-08T18:14:03Z",
   "note": "Public AMS PDFs parsed via pdftotext. Sorghum from TX/KS daily grain bids; barley from MT daily; DDGs from weekly national grain co-products report; rice from weekly national rice summary. Closes freshness audit items 8-9.",
   "sorghum_tx": {
     "slug": "2711",
@@ -70,20 +70,20 @@
     "source": "National Weekly Grain Co-Products Report",
     "frequency": "weekly",
     "unit": "$/ton",
-    "report_date": "2026-05-25",
-    "avg_dried": 179.13,
+    "report_date": "2026-06-01",
+    "avg_dried": 176.85,
     "rows_dried": [
       {
         "region": "Illinois",
-        "price": 201.5
+        "price": 194.0
       },
       {
         "region": "Indiana",
-        "price": 179.0
+        "price": 174.88
       },
       {
         "region": "Iowa",
-        "price": 164.09
+        "price": 163.5
       },
       {
         "region": "Kansas",
@@ -91,11 +91,11 @@
       },
       {
         "region": "Michigan",
-        "price": 176.38
+        "price": 175.25
       },
       {
         "region": "Minnesota",
-        "price": 177.5
+        "price": 173.75
       },
       {
         "region": "Missouri",
@@ -103,11 +103,11 @@
       },
       {
         "region": "Nebraska",
-        "price": 179.0
+        "price": 175.71
       },
       {
         "region": "Ohio",
-        "price": 183.5
+        "price": 180.75
       },
       {
         "region": "South Dakota",
@@ -115,18 +115,18 @@
       },
       {
         "region": "Wisconsin",
-        "price": 167.0
+        "price": 165.0
       }
     ],
-    "avg_wet": 54.53,
+    "avg_wet": 54.14,
     "rows_wet": [
       {
         "region": "Iowa",
-        "price": 57.5
+        "price": 56.5
       },
       {
         "region": "Kansas",
-        "price": 53.33
+        "price": 53.0
       },
       {
         "region": "Minnesota",
@@ -142,7 +142,7 @@
       },
       {
         "region": "South Dakota",
-        "price": 53.0
+        "price": 52.0
       }
     ]
   },

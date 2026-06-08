@@ -1,27 +1,27 @@
 {
-  "fetched": "2026-06-06T21:05:47Z",
-  "week_ending": "2026-06-05",
-  "total_head": 528000,
-  "year_ago_head": 102135,
-  "pct_of_year_ago": 97.9,
+  "fetched": "2026-06-08T18:27:10Z",
+  "week_ending": "2026-06-08",
+  "total_head": 102000,
+  "year_ago_head": 111939,
+  "pct_of_year_ago": 91.1,
   "steer_head": null,
   "heifer_head": null,
   "cow_head": null,
-  "ytd_head": 11712568,
-  "ytd_year_ago": 12896524,
+  "ytd_head": 11819568,
+  "ytd_year_ago": 13009962,
   "ytd_pct": -9.2,
   "daily": {
-    "date": "2026-06-05",
-    "cattle": 100000,
-    "week_ago": 105000,
-    "year_ago": 102135,
-    "wtd": 528000,
-    "ytd": 11712568,
-    "ytd_year_ago": 12896524,
+    "date": "2026-06-08",
+    "cattle": 102000,
+    "week_ago": 104000,
+    "year_ago": 111939,
+    "wtd": 102000,
+    "ytd": 11819568,
+    "ytd_year_ago": 13009962,
     "ytd_pct": -9.2,
     "breakdown": {
-      "steers_heifers": 88000,
-      "cows_bulls": 20000
+      "steers_heifers": 82000,
+      "cows_bulls": 18000
     }
   },
   "source": "ams_3208_daily_pdf"
