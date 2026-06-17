@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-16T22:05:45Z",
+  "fetched": "2026-06-17T18:04:27Z",
   "region": "U.S. Average",
   "current": {
     "price": 5.059,
@@ -1071,32 +1071,12 @@
   "avg5yr": 4.123,
   "yearAgoPrice": 3.571,
   "wholesale_ulsd_nyh": {
-    "price": 3.587,
-    "date": "2026-06-08",
-    "change": -0.01,
-    "year_ago_price": 2.149,
+    "price": 3.278,
+    "date": "2026-06-15",
+    "change": -0.129,
+    "year_ago_price": 2.398,
     "region": "NY Harbor ULSD spot",
     "history": [
-      {
-        "date": "2025-09-17",
-        "price": 2.401
-      },
-      {
-        "date": "2025-09-18",
-        "price": 2.393
-      },
-      {
-        "date": "2025-09-19",
-        "price": 2.352
-      },
-      {
-        "date": "2025-09-22",
-        "price": 2.347
-      },
-      {
-        "date": "2025-09-23",
-        "price": 2.388
-      },
       {
         "date": "2025-09-24",
         "price": 2.424
@@ -1796,6 +1776,26 @@
       {
         "date": "2026-06-08",
         "price": 3.587
+      },
+      {
+        "date": "2026-06-09",
+        "price": 3.526
+      },
+      {
+        "date": "2026-06-10",
+        "price": 3.644
+      },
+      {
+        "date": "2026-06-11",
+        "price": 3.47
+      },
+      {
+        "date": "2026-06-12",
+        "price": 3.407
+      },
+      {
+        "date": "2026-06-15",
+        "price": 3.278
       }
     ],
     "source": "EIA daily petroleum spot prices (EER_EPD2DXL0_PF4_Y35NY_DPG)",
