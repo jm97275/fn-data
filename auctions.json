@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-20T17:16:34Z",
+  "fetched_at": "2026-06-20T21:14:10Z",
   "markets": [
     {
       "slug": "1979",
@@ -8434,6 +8434,85 @@
         "head": 50
       },
       "five_wt_steer_avg": 450.0
+    },
+    {
+      "slug": "1853",
+      "name": "Ericson Livestock Market",
+      "city": "Ericson",
+      "state": "NE",
+      "lat": 41.1254,
+      "lon": -98.2681,
+      "sale_date": "2026-06-20",
+      "receipts": 1244,
+      "feeder_steers": {
+        "7_8": {
+          "avg": 404.0,
+          "low": 404.0,
+          "high": 404.0,
+          "head": 10
+        },
+        "8_9": {
+          "avg": 360.13,
+          "low": 355.0,
+          "high": 361.25,
+          "head": 66
+        },
+        "4_5": {
+          "avg": 520.0,
+          "low": 520.0,
+          "high": 520.0,
+          "head": 8
+        },
+        "5_6": {
+          "avg": 476.0,
+          "low": 476.0,
+          "high": 476.0,
+          "head": 8
+        },
+        "6_7": {
+          "avg": 427.5,
+          "low": 427.5,
+          "high": 427.5,
+          "head": 13
+        }
+      },
+      "feeder_heifers": {
+        "5_6": {
+          "avg": 419.78,
+          "low": 418.0,
+          "high": 422.5,
+          "head": 15
+        },
+        "6_7": {
+          "avg": 376.14,
+          "low": 372.0,
+          "high": 377.0,
+          "head": 29
+        },
+        "7_8": {
+          "avg": 369.0,
+          "low": 369.0,
+          "high": 369.0,
+          "head": 53
+        },
+        "8_9": {
+          "avg": 343.69,
+          "low": 337.5,
+          "high": 345.0,
+          "head": 245
+        },
+        "4_5": {
+          "avg": 495.0,
+          "low": 495.0,
+          "high": 495.0,
+          "head": 10
+        }
+      },
+      "slaughter_cows": {
+        "avg": 4536.35,
+        "head": 48
+      },
+      "five_wt_steer_avg": 476.0
     },
     {
       "slug": "1854",
