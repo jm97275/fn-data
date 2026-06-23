@@ -1,16 +1,16 @@
 {
-  "report_date": "2026-06-22",
-  "fetched": "2026-06-22T21:54:33Z",
-  "choice": 396.06,
-  "select": 375.59,
-  "spread": 20.47,
-  "choice_change": 1.69,
-  "spread_change": -1.82,
+  "report_date": "2026-06-23",
+  "fetched": "2026-06-23T21:22:39Z",
+  "choice": 400.31,
+  "select": 381.06,
+  "spread": 19.25,
+  "choice_change": 4.25,
+  "spread_change": -1.22,
   "primals": {
-    "rib": 597.39,
-    "chuck": 337.94,
-    "round": 332.49,
-    "loin": 507.75,
-    "brisket": 344.04
+    "rib": 602.9,
+    "chuck": 339.66,
+    "round": 337.98,
+    "loin": 510.35,
+    "brisket": 344.94
   }
 }
