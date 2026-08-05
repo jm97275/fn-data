@@ -1,16 +1,16 @@
 {
-  "report_month": "May",
+  "report_month": "Jun",
   "report_year": 2026,
-  "report_date": "2026-05-01",
-  "fetched": "2026-06-03T19:47:14Z",
+  "report_date": "2026-06-01",
+  "fetched": "2026-07-01T21:30:00Z",
   "class3": {
-    "price": 16.92,
-    "change": 0.1,
+    "price": 15.98,
+    "change": -0.94,
     "source": "USDA AMS Federal Milk Order Class Prices"
   },
   "class4": {
-    "price": 22.32,
-    "change": 2.1,
+    "price": 20.96,
+    "change": -1.36,
     "source": "USDA AMS Federal Milk Order Class Prices"
   }
 }
