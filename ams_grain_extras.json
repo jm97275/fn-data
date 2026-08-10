@@ -1,29 +1,29 @@
 {
-  "fetched": "2026-08-10T16:27:39Z",
+  "fetched": "2026-08-10T20:30:36Z",
   "note": "Public AMS PDFs parsed via pdftotext. Sorghum from TX/KS daily grain bids; barley from MT daily; DDGs from weekly national grain co-products report; rice from weekly national rice summary. Closes freshness audit items 8-9.",
   "sorghum_tx": {
     "slug": "2711",
     "source": "Texas Daily Grain Bids",
     "frequency": "daily",
     "unit": "$/bu",
-    "report_date": "2026-08-07",
-    "avg": 4.1775,
+    "report_date": "2026-08-10",
+    "avg": 4.17,
     "rows": [
       {
         "region": "North Panhandle",
-        "price": 3.79
+        "price": 3.7825
       },
       {
         "region": "Central Panhandle",
-        "price": 3.915
+        "price": 3.9075
       },
       {
         "region": "South Panhandle",
-        "price": 4.015
+        "price": 4.0075
       },
       {
         "region": "South Plains",
-        "price": 4.99
+        "price": 4.9825
       }
     ]
   },
@@ -32,40 +32,40 @@
     "source": "Kansas Daily Grain Bids",
     "frequency": "daily",
     "unit": "$/bu",
-    "report_date": "2026-08-07",
-    "avg": 3.6331,
+    "report_date": "2026-08-10",
+    "avg": 3.6356,
     "rows": [
       {
         "region": "Northwest",
-        "price": 3.74
+        "price": 3.7325
       },
       {
         "region": "Southwest",
-        "price": 3.615
+        "price": 3.6075
       },
       {
         "region": "South",
-        "price": 3.72
+        "price": 3.7125
       },
       {
         "region": "West",
-        "price": 3.54
+        "price": 3.6075
       },
       {
         "region": "Central",
-        "price": 3.45
+        "price": 3.4425
       },
       {
         "region": "Southeast",
-        "price": 3.39
+        "price": 3.3825
       },
       {
         "region": "North",
-        "price": 3.59
+        "price": 3.5825
       },
       {
         "region": "East",
-        "price": 4.02
+        "price": 4.0175
       }
     ]
   },
@@ -74,12 +74,12 @@
     "source": "Montana Daily Elevator Grain Bids",
     "frequency": "daily",
     "unit": "$/bu",
-    "report_date": "2026-08-07",
-    "avg": 3.47,
+    "report_date": "2026-08-10",
+    "avg": 3.3,
     "rows": [
       {
         "region": "Golden Triangle",
-        "price": 3.47
+        "price": 3.3
       }
     ]
   },
@@ -169,8 +169,8 @@
     "source": "Weekly National Rice Summary",
     "frequency": "weekly",
     "unit": "$/cwt",
-    "report_date": "2026-08-03",
-    "avg_long": 32.56,
+    "report_date": "2026-08-10",
+    "avg_long": 32.53,
     "rows_long": [
       {
         "region": "Arkansas",
@@ -182,7 +182,7 @@
       },
       {
         "region": "Louisiana",
-        "price": 34.88
+        "price": 34.75
       },
       {
         "region": "Texas",
