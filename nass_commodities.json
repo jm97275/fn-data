@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-14T20:29:13.802875",
+  "generated": "2026-08-15T16:03:33.022270",
   "commodities": {
     "peanuts": {
       "name": "Peanuts",
@@ -7,7 +7,7 @@
       "fmt": "lb",
       "latest": 0.227,
       "latest_date": "2026-06-15",
-      "avg5": 0.2555,
+      "avg5": 0.2562,
       "change": 0,
       "archetypes": [
         "grain"
@@ -285,7 +285,7 @@
       "fmt": "bu",
       "latest": 5.74,
       "latest_date": "2026-06-15",
-      "avg5": 5.9678,
+      "avg5": 5.9859,
       "change": 0,
       "archetypes": [
         "grain"
