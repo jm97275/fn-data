@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-15T20:10:56Z",
+  "fetched": "2026-08-17T15:55:12Z",
   "note": "Public AMS PDFs parsed via pdftotext. Sorghum from TX/KS daily grain bids; barley from MT daily; DDGs from weekly national grain co-products report; rice from weekly national rice summary. Closes freshness audit items 8-9.",
   "sorghum_tx": {
     "slug": "2711",
@@ -88,20 +88,20 @@
     "source": "National Weekly Grain Co-Products Report",
     "frequency": "weekly",
     "unit": "$/ton",
-    "report_date": "2026-08-03",
-    "avg_dried": 158.79,
+    "report_date": "2026-08-10",
+    "avg_dried": 160.95,
     "rows_dried": [
       {
         "region": "Illinois",
-        "price": 183.0
+        "price": 181.5
       },
       {
         "region": "Indiana",
-        "price": 160.13
+        "price": 163.25
       },
       {
         "region": "Iowa",
-        "price": 137.07
+        "price": 139.8
       },
       {
         "region": "Kansas",
@@ -109,23 +109,23 @@
       },
       {
         "region": "Michigan",
-        "price": 159.6
+        "price": 162.3
       },
       {
         "region": "Minnesota",
-        "price": 146.25
+        "price": 148.75
       },
       {
         "region": "Missouri",
-        "price": 170.0
+        "price": 180.0
       },
       {
         "region": "Nebraska",
-        "price": 158.4
+        "price": 159.5
       },
       {
         "region": "Ohio",
-        "price": 161.88
+        "price": 165.0
       },
       {
         "region": "South Dakota",
@@ -136,11 +136,11 @@
         "price": 146.0
       }
     ],
-    "avg_wet": 49.14,
+    "avg_wet": 48.17,
     "rows_wet": [
       {
         "region": "Iowa",
-        "price": 44.67
+        "price": 47.0
       },
       {
         "region": "Kansas",
@@ -156,7 +156,7 @@
       },
       {
         "region": "Nebraska",
-        "price": 55.0
+        "price": 46.83
       },
       {
         "region": "South Dakota",
