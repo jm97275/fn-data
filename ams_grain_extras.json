@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-17T20:15:32Z",
+  "fetched": "2026-08-18T16:01:39Z",
   "note": "Public AMS PDFs parsed via pdftotext. Sorghum from TX/KS daily grain bids; barley from MT daily; DDGs from weekly national grain co-products report; rice from weekly national rice summary. Closes freshness audit items 8-9.",
   "sorghum_tx": {
     "slug": "2711",
@@ -169,7 +169,7 @@
     "source": "Weekly National Rice Summary",
     "frequency": "weekly",
     "unit": "$/cwt",
-    "report_date": "2026-08-10",
+    "report_date": "2026-08-17",
     "avg_long": 32.53,
     "rows_long": [
       {
