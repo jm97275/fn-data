@@ -1,12 +1,12 @@
 {
-  "fetched": "2026-08-18T16:16:26Z",
+  "fetched": "2026-08-18T20:23:01Z",
   "week_ending": "2026-08-07",
   "production_kbd": 1117.0,
   "prior_week_kbd": 1107.0,
   "year_ago_kbd": 1093.0,
   "pct_change_week": 0.9,
   "pct_change_year": 2.2,
-  "stocks_mb": null,
+  "stocks_mb": 24798.0,
   "history": [
     {
       "date": "2024-08-16",
