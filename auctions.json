@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-22T16:03:40Z",
+  "fetched_at": "2026-08-22T20:18:58Z",
   "markets": [
     {
       "slug": "2003",
@@ -12499,6 +12499,85 @@
         "head": 19
       },
       "five_wt_steer_avg": 370.0
+    },
+    {
+      "slug": "1878",
+      "name": "South Branch Valley Livestock Exchange",
+      "city": "Moorefield",
+      "state": "WV",
+      "lat": 38.4912,
+      "lon": -80.9545,
+      "sale_date": "2026-08-22",
+      "receipts": 104,
+      "feeder_steers": {
+        "8_9": {
+          "avg": 285.0,
+          "low": 285.0,
+          "high": 285.0,
+          "head": 1
+        },
+        "7_8": {
+          "avg": 310.0,
+          "low": 310.0,
+          "high": 310.0,
+          "head": 3
+        },
+        "6_7": {
+          "avg": 363.5,
+          "low": 363.5,
+          "high": 363.5,
+          "head": 4
+        },
+        "3_4": {
+          "avg": 455.0,
+          "low": 455.0,
+          "high": 455.0,
+          "head": 1
+        },
+        "4_5": {
+          "avg": 408.0,
+          "low": 408.0,
+          "high": 408.0,
+          "head": 8
+        },
+        "5_6": {
+          "avg": 427.5,
+          "low": 427.5,
+          "high": 427.5,
+          "head": 15
+        }
+      },
+      "feeder_heifers": {
+        "5_6": {
+          "avg": 381.0,
+          "low": 381.0,
+          "high": 381.0,
+          "head": 5
+        },
+        "7_8": {
+          "avg": 290.0,
+          "low": 290.0,
+          "high": 290.0,
+          "head": 1
+        },
+        "4_5": {
+          "avg": 385.0,
+          "low": 385.0,
+          "high": 385.0,
+          "head": 11
+        },
+        "3_4": {
+          "avg": 402.5,
+          "low": 402.5,
+          "high": 402.5,
+          "head": 8
+        }
+      },
+      "slaughter_cows": {
+        "avg": 1778.3,
+        "head": 43
+      },
+      "five_wt_steer_avg": 427.5
     },
     {
       "slug": "1880",
