@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-01T18:48:23Z",
-  "report_date": "2026-08-31",
+  "fetched": "2026-09-01T22:10:44Z",
+  "report_date": "2026-09-01",
   "source": "USDA AMS Daily Spot Cotton Quotations (slug 3804)",
   "source_url": "https://www.ams.usda.gov/mnreports/ams_3804.pdf",
   "unit": "cents/lb",
@@ -8,37 +8,37 @@
   "regions": [
     {
       "region": "Southeast",
-      "price_cents_lb": 88.7
+      "price_cents_lb": 87.01
     },
     {
       "region": "North Delta",
-      "price_cents_lb": 87.95
+      "price_cents_lb": 86.26
     },
     {
       "region": "South Delta",
-      "price_cents_lb": 87.95
+      "price_cents_lb": 86.26
     },
     {
       "region": "East TX-South TX",
-      "price_cents_lb": 85.7
+      "price_cents_lb": 84.01
     },
     {
       "region": "West TX-KS-OK",
-      "price_cents_lb": 85.2
+      "price_cents_lb": 83.51
     },
     {
       "region": "Desert SW",
-      "price_cents_lb": 84.95
+      "price_cents_lb": 83.26
     },
     {
       "region": "SJ Valley",
-      "price_cents_lb": 85.2
+      "price_cents_lb": 83.51
     }
   ],
-  "seven_market_cents_lb": 86.52,
-  "seven_market_usd_lb": 0.8652,
-  "seven_market_avg_printed_cents_lb": 86.52,
-  "previous_day_avg_cents_lb": 84.71,
-  "day_over_day_change_cents_lb": 1.81,
+  "seven_market_cents_lb": 84.83,
+  "seven_market_usd_lb": 0.8483,
+  "seven_market_avg_printed_cents_lb": 84.83,
+  "previous_day_avg_cents_lb": 86.52,
+  "day_over_day_change_cents_lb": -1.69,
   "region_count": 7
 }
