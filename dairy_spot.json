@@ -1,32 +1,21 @@
 {
-  "fetched": "2026-09-02T18:56:53Z",
+  "fetched": "2026-09-02T22:06:34Z",
   "source": "USDA AMS National Dairy Products Sales Report (DYWDAIRYPRODUCTSSALES)",
   "source_slug": "2993",
   "note": "Class III/IV nowcast computed from weekly NDPSR component prices (butter, cheddar, dry whey, NDM) using the official FMMO formula. Nowcast lag is typically 7-14 days vs. the monthly official Class III/IV release at 5-35 day lag. Not a substitute for CME Class III futures but the freshest formula-based Class III estimate available from public data.",
-  "latest_week_ending": "2026-08-22",
-  "age_days": 11,
-  "class3_nowcast": 17.04,
-  "class4_nowcast": 17.94,
+  "latest_week_ending": "2026-08-29",
+  "age_days": 4,
+  "class3_nowcast": 16.89,
+  "class4_nowcast": 18.66,
   "components": {
-    "butter": 1.4537,
-    "cheddar_40": 1.6243,
+    "butter": 1.5143,
+    "cheddar_40": 1.614,
     "cheddar_500": null,
-    "cheese_weighted": 1.6273,
-    "dry_whey": 0.6672,
-    "nonfat_dry_milk": 1.6221
+    "cheese_weighted": 1.617,
+    "dry_whey": 0.653,
+    "nonfat_dry_milk": 1.676
   },
   "weekly_history": [
-    {
-      "week_ending": "2026-07-25",
-      "butter": 1.5997,
-      "cheddar_40": 1.5208,
-      "cheddar_500": null,
-      "cheese_weighted": 1.5238,
-      "dry_whey": 0.6511,
-      "nonfat_dry_milk": 1.624,
-      "class3_nowcast": 16.01,
-      "class4_nowcast": 18.57
-    },
     {
       "week_ending": "2026-08-01",
       "butter": 1.5585,
@@ -51,25 +40,36 @@
     },
     {
       "week_ending": "2026-08-15",
-      "butter": 1.4849,
+      "butter": 1.4836,
       "cheddar_40": 1.635,
       "cheddar_500": null,
       "cheese_weighted": 1.638,
-      "dry_whey": 0.663,
-      "nonfat_dry_milk": 1.5789,
-      "class3_nowcast": 17.14,
-      "class4_nowcast": 17.7
+      "dry_whey": 0.6626,
+      "nonfat_dry_milk": 1.5722,
+      "class3_nowcast": 17.13,
+      "class4_nowcast": 17.64
     },
     {
       "week_ending": "2026-08-22",
-      "butter": 1.4537,
-      "cheddar_40": 1.6243,
+      "butter": 1.4531,
+      "cheddar_40": 1.6247,
       "cheddar_500": null,
-      "cheese_weighted": 1.6273,
+      "cheese_weighted": 1.6277,
       "dry_whey": 0.6672,
-      "nonfat_dry_milk": 1.6221,
-      "class3_nowcast": 17.04,
-      "class4_nowcast": 17.94
+      "nonfat_dry_milk": 1.6183,
+      "class3_nowcast": 17.05,
+      "class4_nowcast": 17.9
+    },
+    {
+      "week_ending": "2026-08-29",
+      "butter": 1.5143,
+      "cheddar_40": 1.614,
+      "cheddar_500": null,
+      "cheese_weighted": 1.617,
+      "dry_whey": 0.653,
+      "nonfat_dry_milk": 1.676,
+      "class3_nowcast": 16.89,
+      "class4_nowcast": 18.66
     }
   ]
 }
