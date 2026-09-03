@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-02T22:06:35Z",
+  "fetched": "2026-09-03T18:51:46Z",
   "note": "Public AMS PDFs parsed via pdftotext. Sorghum from TX/KS daily grain bids; barley from MT daily; DDGs from weekly national grain co-products report; rice from weekly national rice summary. Closes freshness audit items 8-9.",
   "sorghum_tx": {
     "slug": "2711",
@@ -74,7 +74,7 @@
     "source": "Montana Daily Elevator Grain Bids",
     "frequency": "daily",
     "unit": "$/bu",
-    "report_date": "2026-09-02",
+    "report_date": "2026-09-03",
     "avg": 3.51,
     "rows": [
       {
