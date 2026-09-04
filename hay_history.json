@@ -758,5 +758,13 @@
       "grass": 87,
       "bermuda": 88
     }
+  },
+  {
+    "date": "2026-08-31",
+    "prices": {
+      "alfalfa": 173,
+      "grass": 87,
+      "bermuda": 88
+    }
   }
 ]
