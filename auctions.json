@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-04T18:41:44Z",
+  "fetched_at": "2026-09-04T22:05:04Z",
   "markets": [
     {
       "slug": "1979",
@@ -3468,6 +3468,94 @@
       "five_wt_steer_avg": 361.41
     },
     {
+      "slug": "1968",
+      "name": "Springville Feeder Cattle Auction",
+      "city": "Springville",
+      "state": "IN",
+      "lat": 39.8494,
+      "lon": -86.2583,
+      "sale_date": "2026-09-04",
+      "receipts": 559,
+      "feeder_steers": {
+        "4_5": {
+          "avg": 322.5,
+          "low": 322.5,
+          "high": 322.5,
+          "head": 17
+        },
+        "5_6": {
+          "avg": 336.28,
+          "low": 311.0,
+          "high": 346.0,
+          "head": 46
+        },
+        "7_8": {
+          "avg": 311.32,
+          "low": 310.0,
+          "high": 312.5,
+          "head": 24
+        },
+        "6_7": {
+          "avg": 333.21,
+          "low": 310.0,
+          "high": 340.0,
+          "head": 31
+        },
+        "3_4": {
+          "avg": 382.6,
+          "low": 340.0,
+          "high": 400.0,
+          "head": 10
+        },
+        "8_9": {
+          "avg": 292.5,
+          "low": 292.5,
+          "high": 292.5,
+          "head": 3
+        }
+      },
+      "feeder_heifers": {
+        "7_8": {
+          "avg": 295.0,
+          "low": 295.0,
+          "high": 295.0,
+          "head": 6
+        },
+        "4_5": {
+          "avg": 345.2,
+          "low": 323.0,
+          "high": 355.0,
+          "head": 34
+        },
+        "8_9": {
+          "avg": 261.0,
+          "low": 261.0,
+          "high": 261.0,
+          "head": 3
+        },
+        "6_7": {
+          "avg": 318.58,
+          "low": 312.5,
+          "high": 324.0,
+          "head": 38
+        },
+        "3_4": {
+          "avg": 336.09,
+          "low": 322.5,
+          "high": 347.0,
+          "head": 14
+        },
+        "5_6": {
+          "avg": 313.62,
+          "low": 302.0,
+          "high": 330.0,
+          "head": 40
+        }
+      },
+      "slaughter_cows": null,
+      "five_wt_steer_avg": 336.28
+    },
+    {
       "slug": "1889",
       "name": "Winter Livestock",
       "city": "Dodge City",
@@ -4720,77 +4808,65 @@
       "state": "KY",
       "lat": 37.5206,
       "lon": -84.6739,
-      "sale_date": "2026-08-28",
-      "receipts": 602,
+      "sale_date": "2026-09-04",
+      "receipts": 68,
       "feeder_steers": {
-        "3_4": {
-          "avg": 455.0,
-          "low": 455.0,
-          "high": 455.0,
-          "head": 4
-        },
-        "5_6": {
-          "avg": 335.0,
-          "low": 335.0,
-          "high": 335.0,
-          "head": 1
-        },
-        "8_9": {
-          "avg": 329.75,
-          "low": 329.75,
-          "high": 329.75,
-          "head": 126
-        },
         "6_7": {
-          "avg": 355.0,
-          "low": 355.0,
+          "avg": 346.16,
+          "low": 340.0,
           "high": 355.0,
-          "head": 20
-        },
-        "7_8": {
-          "avg": 327.68,
-          "low": 320.0,
-          "high": 335.0,
-          "head": 2
+          "head": 6
         },
         "4_5": {
-          "avg": 270.0,
-          "low": 270.0,
-          "high": 270.0,
-          "head": 3
+          "avg": 400.0,
+          "low": 400.0,
+          "high": 400.0,
+          "head": 2
+        },
+        "5_6": {
+          "avg": 364.28,
+          "low": 357.5,
+          "high": 367.5,
+          "head": 6
+        },
+        "7_8": {
+          "avg": 317.5,
+          "low": 317.5,
+          "high": 317.5,
+          "head": 1
+        },
+        "3_4": {
+          "avg": 420.0,
+          "low": 420.0,
+          "high": 420.0,
+          "head": 2
         }
       },
       "feeder_heifers": {
+        "5_6": {
+          "avg": 299.19,
+          "low": 292.5,
+          "high": 315.0,
+          "head": 6
+        },
         "4_5": {
-          "avg": 275.0,
-          "low": 275.0,
-          "high": 275.0,
+          "avg": 341.67,
+          "low": 340.0,
+          "high": 345.0,
           "head": 3
         },
-        "5_6": {
-          "avg": 324.2,
-          "low": 317.5,
-          "high": 337.5,
-          "head": 7
-        },
-        "3_4": {
-          "avg": 380.0,
-          "low": 380.0,
-          "high": 380.0,
-          "head": 4
-        },
         "6_7": {
-          "avg": 318.96,
-          "low": 312.5,
+          "avg": 322.5,
+          "low": 322.5,
           "high": 322.5,
-          "head": 5
+          "head": 4
         }
       },
       "slaughter_cows": {
-        "avg": 151.87,
-        "head": 8
+        "avg": 829.25,
+        "head": 4
       },
-      "five_wt_steer_avg": 335.0
+      "five_wt_steer_avg": 364.28
     },
     {
       "slug": "2208",
@@ -8732,6 +8808,51 @@
         "head": 295
       },
       "five_wt_steer_avg": 383.28
+    },
+    {
+      "slug": "1290",
+      "name": "Santa Teresa Livestock Auction",
+      "city": "Santa Teresa",
+      "state": "NM",
+      "lat": 31.8187,
+      "lon": -106.7573,
+      "sale_date": "2026-09-04",
+      "receipts": 451,
+      "feeder_steers": {
+        "6_7": {
+          "avg": 333.67,
+          "low": 330.75,
+          "high": 336.0,
+          "head": 121
+        },
+        "8_9": {
+          "avg": 261.0,
+          "low": 261.0,
+          "high": 261.0,
+          "head": 13
+        },
+        "4_5": {
+          "avg": 403.0,
+          "low": 403.0,
+          "high": 403.0,
+          "head": 35
+        },
+        "7_8": {
+          "avg": 300.25,
+          "low": 300.25,
+          "high": 300.25,
+          "head": 51
+        },
+        "5_6": {
+          "avg": 362.0,
+          "low": 362.0,
+          "high": 362.0,
+          "head": 62
+        }
+      },
+      "feeder_heifers": {},
+      "slaughter_cows": null,
+      "five_wt_steer_avg": 362.0
     },
     {
       "slug": "3692",
