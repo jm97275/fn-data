@@ -1,6 +1,6 @@
 {
   "effective_date": "2026-09-09",
-  "fetched": "2026-09-09T18:50:30Z",
+  "fetched": "2026-09-09T22:05:40Z",
   "source": "USDA AMS Daily Market Rates (ams_3420, FSA PCP reference)",
   "source_url": "https://www.ams.usda.gov/mnreports/ams_3420.txt",
   "note": "Daily grain terminal cash rates published by USDA AMS Warehouse & Commodity Management Division. Used by FSA to compute Posted County Prices for loan redemption. Interior avg excludes export terminals (Gulf, PNW, West Coast, LA) which carry freight-to-port.",
