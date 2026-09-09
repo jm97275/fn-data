@@ -1,10 +1,10 @@
 {
-  "report_date": "2026-09-08",
+  "report_date": "2026-09-09",
   "national": {
-    "weighted_avg": 89.17,
+    "weighted_avg": 88.4,
     "range": null,
     "head_count": null
   },
-  "prior_week_avg": 90.69,
-  "fetched_at": "2026-09-08T22:18:20.348321"
+  "prior_week_avg": 90.03,
+  "fetched_at": "2026-09-09T19:00:34.585147"
 }

@@ -1,10 +1,10 @@
 {
-  "fetched": "2026-09-08T22:08:30Z",
+  "fetched": "2026-09-09T18:50:29Z",
   "region": "U.S. Average",
   "current": {
-    "price": 5.599,
-    "date": "2026-08-31",
-    "change": -0.053
+    "price": 5.967,
+    "date": "2026-09-07",
+    "change": 0.368
   },
   "history": [
     {
@@ -1062,9 +1062,13 @@
     {
       "date": "2026-08-31",
       "price": 5.599
+    },
+    {
+      "date": "2026-09-07",
+      "price": 5.967
     }
   ],
-  "avg5yr": 4.203,
+  "avg5yr": 4.21,
   "yearAgoPrice": 3.766,
   "wholesale_ulsd_nyh": {
     "price": 4.724,
