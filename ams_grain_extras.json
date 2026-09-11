@@ -1,29 +1,29 @@
 {
-  "fetched": "2026-09-11T18:44:39Z",
+  "fetched": "2026-09-11T22:06:04Z",
   "note": "Public AMS PDFs parsed via pdftotext. Sorghum from TX/KS daily grain bids; barley from MT daily; DDGs from weekly national grain co-products report; rice from weekly national rice summary. Closes freshness audit items 8-9.",
   "sorghum_tx": {
     "slug": "2711",
     "source": "Texas Daily Grain Bids",
     "frequency": "daily",
     "unit": "$/bu",
-    "report_date": "2026-09-10",
-    "avg": 5.1312,
+    "report_date": "2026-09-11",
+    "avg": 5.0963,
     "rows": [
       {
         "region": "North Panhandle",
-        "price": 4.7625
+        "price": 4.7275
       },
       {
         "region": "Central Panhandle",
-        "price": 4.8625
+        "price": 4.8275
       },
       {
         "region": "South Panhandle",
-        "price": 5.0375
+        "price": 5.0025
       },
       {
         "region": "South Plains",
-        "price": 5.8625
+        "price": 5.8275
       }
     ]
   },
@@ -32,40 +32,40 @@
     "source": "Kansas Daily Grain Bids",
     "frequency": "daily",
     "unit": "$/bu",
-    "report_date": "2026-09-10",
-    "avg": 4.5627,
+    "report_date": "2026-09-11",
+    "avg": 4.5306,
     "rows": [
       {
         "region": "Northwest",
-        "price": 4.6375
+        "price": 4.6025
       },
       {
         "region": "Southwest",
-        "price": 4.5888
+        "price": 4.5525
       },
       {
         "region": "South",
-        "price": 4.4375
+        "price": 4.4025
       },
       {
         "region": "West",
-        "price": 4.5875
+        "price": 4.5775
       },
       {
         "region": "Central",
-        "price": 4.4875
+        "price": 4.4525
       },
       {
         "region": "Southeast",
-        "price": 4.5375
+        "price": 4.5025
       },
       {
         "region": "North",
-        "price": 4.4875
+        "price": 4.4525
       },
       {
         "region": "East",
-        "price": 4.7375
+        "price": 4.7025
       }
     ]
   },
@@ -74,7 +74,7 @@
     "source": "Montana Daily Elevator Grain Bids",
     "frequency": "daily",
     "unit": "$/bu",
-    "report_date": "2026-09-10",
+    "report_date": "2026-09-11",
     "avg": 3.62,
     "rows": [
       {
