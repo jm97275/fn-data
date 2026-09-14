@@ -1,29 +1,29 @@
 {
-  "fetched": "2026-09-12T21:48:26Z",
+  "fetched": "2026-09-14T19:56:21Z",
   "note": "Public AMS PDFs parsed via pdftotext. Sorghum from TX/KS daily grain bids; barley from MT daily; DDGs from weekly national grain co-products report; rice from weekly national rice summary. Closes freshness audit items 8-9.",
   "sorghum_tx": {
     "slug": "2711",
     "source": "Texas Daily Grain Bids",
     "frequency": "daily",
     "unit": "$/bu",
-    "report_date": "2026-09-11",
-    "avg": 5.0963,
+    "report_date": "2026-09-14",
+    "avg": 5.1263,
     "rows": [
       {
         "region": "North Panhandle",
-        "price": 4.7275
+        "price": 4.7575
       },
       {
         "region": "Central Panhandle",
-        "price": 4.8275
+        "price": 4.8575
       },
       {
         "region": "South Panhandle",
-        "price": 5.0025
+        "price": 5.0325
       },
       {
         "region": "South Plains",
-        "price": 5.8275
+        "price": 5.8575
       }
     ]
   },
@@ -32,40 +32,40 @@
     "source": "Kansas Daily Grain Bids",
     "frequency": "daily",
     "unit": "$/bu",
-    "report_date": "2026-09-11",
-    "avg": 4.5306,
+    "report_date": "2026-09-14",
+    "avg": 4.5961,
     "rows": [
       {
         "region": "Northwest",
-        "price": 4.6025
+        "price": 4.6325
       },
       {
         "region": "Southwest",
-        "price": 4.5525
+        "price": 4.8662
       },
       {
         "region": "South",
-        "price": 4.4025
+        "price": 4.4325
       },
       {
         "region": "West",
-        "price": 4.5775
+        "price": 4.6075
       },
       {
         "region": "Central",
-        "price": 4.4525
+        "price": 4.4825
       },
       {
         "region": "Southeast",
-        "price": 4.5025
+        "price": 4.5325
       },
       {
         "region": "North",
-        "price": 4.4525
+        "price": 4.4825
       },
       {
         "region": "East",
-        "price": 4.7025
+        "price": 4.7325
       }
     ]
   },
@@ -74,7 +74,7 @@
     "source": "Montana Daily Elevator Grain Bids",
     "frequency": "daily",
     "unit": "$/bu",
-    "report_date": "2026-09-11",
+    "report_date": "2026-09-14",
     "avg": 3.62,
     "rows": [
       {
@@ -88,55 +88,55 @@
     "source": "National Weekly Grain Co-Products Report",
     "frequency": "weekly",
     "unit": "$/ton",
-    "report_date": "2026-08-31",
-    "avg_dried": 179.29,
+    "report_date": "2026-09-07",
+    "avg_dried": 182.48,
     "rows_dried": [
       {
         "region": "Illinois",
-        "price": 210.0
+        "price": 205.0
       },
       {
         "region": "Indiana",
-        "price": 172.88
-      },
-      {
-        "region": "Iowa",
-        "price": 157.77
-      },
-      {
-        "region": "Kansas",
-        "price": 187.5
-      },
-      {
-        "region": "Michigan",
         "price": 175.38
       },
       {
+        "region": "Iowa",
+        "price": 165.07
+      },
+      {
+        "region": "Kansas",
+        "price": 189.0
+      },
+      {
+        "region": "Michigan",
+        "price": 175.63
+      },
+      {
         "region": "Minnesota",
-        "price": 165.75
+        "price": 171.25
       },
       {
         "region": "Missouri",
-        "price": 202.5
+        "price": 210.0
       },
       {
         "region": "Nebraska",
-        "price": 184.0
+        "price": 187.0
       },
       {
         "region": "Ohio",
-        "price": 178.13
+        "price": 180.63
       },
       {
         "region": "South Dakota",
-        "price": 173.33
+        "price": 183.33
       },
       {
         "region": "Wisconsin",
         "price": 165.0
       }
     ],
-    "avg_wet": 56.7,
+    "avg_wet": 57.55,
     "rows_wet": [
       {
         "region": "Iowa",
@@ -144,7 +144,7 @@
       },
       {
         "region": "Kansas",
-        "price": 56.67
+        "price": 59.33
       },
       {
         "region": "Minnesota",
@@ -160,7 +160,7 @@
       },
       {
         "region": "South Dakota",
-        "price": 48.5
+        "price": 51.0
       }
     ]
   },
