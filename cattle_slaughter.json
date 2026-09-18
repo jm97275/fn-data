@@ -1,15 +1,28 @@
 {
-  "fetched": "2026-09-18T18:47:10Z",
-  "week_ending": "2026-08-22",
-  "total_head": 546000,
-  "year_ago_head": 468400,
-  "pct_of_year_ago": 116.6,
+  "fetched": "2026-09-18T22:10:27Z",
+  "week_ending": "2026-09-18",
+  "total_head": 521000,
+  "year_ago_head": 90611,
+  "pct_of_year_ago": 111.5,
   "steer_head": null,
   "heifer_head": null,
   "cow_head": null,
-  "ytd_head": null,
-  "ytd_year_ago": null,
-  "ytd_pct": null,
-  "daily": null,
-  "source": "nass_weekly_fallback"
+  "ytd_head": 19513641,
+  "ytd_year_ago": 21098257,
+  "ytd_pct": -7.5,
+  "daily": {
+    "date": "2026-09-18",
+    "cattle": 101000,
+    "week_ago": 106000,
+    "year_ago": 90611,
+    "wtd": 521000,
+    "ytd": 19513641,
+    "ytd_year_ago": 21098257,
+    "ytd_pct": -7.5,
+    "breakdown": {
+      "steers_heifers": 85000,
+      "cows_bulls": 22000
+    }
+  },
+  "source": "ams_3208_daily_pdf"
 }
