@@ -1,31 +1,31 @@
 {
-  "effective_date": "2026-09-22",
-  "fetched": "2026-09-22T22:30:52Z",
+  "effective_date": "2026-09-23",
+  "fetched": "2026-09-23T19:12:48Z",
   "source": "USDA AMS Daily Market Rates (ams_3420, FSA PCP reference)",
   "source_url": "https://www.ams.usda.gov/mnreports/ams_3420.txt",
   "note": "Daily grain terminal cash rates published by USDA AMS Warehouse & Commodity Management Division. Used by FSA to compute Posted County Prices for loan redemption. Interior avg excludes export terminals (Gulf, PNW, West Coast, LA) which carry freight-to-port.",
   "commodities": {
     "wheat": {
-      "interior_avg": 7.47,
+      "interior_avg": 7.36,
       "interior_n": 11,
-      "export_avg": 8.86,
+      "export_avg": 8.78,
       "export_n": 10,
-      "all_avg": 8.13,
+      "all_avg": 8.04,
       "all_n": 21,
-      "price": 7.47,
-      "change": 0.11,
-      "prior_date": "2026-09-21"
+      "price": 7.36,
+      "change": -0.11,
+      "prior_date": "2026-09-22"
     },
     "corn": {
-      "interior_avg": 5.35,
+      "interior_avg": 5.24,
       "interior_n": 7,
-      "export_avg": 6.42,
+      "export_avg": 6.36,
       "export_n": 3,
-      "all_avg": 5.67,
+      "all_avg": 5.57,
       "all_n": 10,
-      "price": 5.35,
-      "change": 0.15,
-      "prior_date": "2026-09-21"
+      "price": 5.24,
+      "change": -0.11,
+      "prior_date": "2026-09-22"
     },
     "barley": {
       "interior_avg": 4.11,
@@ -36,40 +36,40 @@
       "all_n": 5,
       "price": 4.11,
       "change": 0.0,
-      "prior_date": "2026-09-21"
+      "prior_date": "2026-09-22"
     },
     "soybeans": {
-      "interior_avg": 13.33,
+      "interior_avg": 13.21,
       "interior_n": 6,
-      "export_avg": 14.37,
+      "export_avg": 14.35,
       "export_n": 2,
-      "all_avg": 13.59,
+      "all_avg": 13.5,
       "all_n": 8,
-      "price": 13.33,
-      "change": 0.22,
-      "prior_date": "2026-09-21"
+      "price": 13.21,
+      "change": -0.12,
+      "prior_date": "2026-09-22"
     },
     "sorghum": {
-      "interior_avg": 9.29,
+      "interior_avg": 9.18,
       "interior_n": 4,
-      "export_avg": 11.88,
+      "export_avg": 11.78,
       "export_n": 2,
-      "all_avg": 10.15,
+      "all_avg": 10.04,
       "all_n": 6,
-      "price": 9.29,
-      "change": 0.28,
-      "prior_date": "2026-09-21"
+      "price": 9.18,
+      "change": -0.11,
+      "prior_date": "2026-09-22"
     },
     "oats": {
-      "interior_avg": 4.36,
+      "interior_avg": 4.3,
       "interior_n": 1,
-      "export_avg": 5.99,
+      "export_avg": 5.98,
       "export_n": 1,
-      "all_avg": 5.18,
+      "all_avg": 5.14,
       "all_n": 2,
-      "price": 4.36,
-      "change": 0.14,
-      "prior_date": "2026-09-21"
+      "price": 4.3,
+      "change": -0.06,
+      "prior_date": "2026-09-22"
     }
   }
 }
