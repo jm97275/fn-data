@@ -1,20 +1,14 @@
 {
   "report_name": "USDA Quarterly Hogs and Pigs",
-  "fetched_at": "2026-09-23T22:41:07.045331",
+  "fetched_at": "2026-09-24T19:38:10.770368",
   "metrics": {
     "total_inventory": {
       "name": "All Hogs & Pigs",
-      "latest": 73663700,
-      "latest_period": "2026-Q2",
-      "year_ago": 73697400,
-      "pct_vs_year_ago": -0.0,
+      "latest": 74301700,
+      "latest_period": "2026-Q3",
+      "year_ago": 75438400,
+      "pct_vs_year_ago": -1.5,
       "history": [
-        {
-          "date": "2025-Q1",
-          "value": 73997400,
-          "year": 2025,
-          "quarter": "Q1"
-        },
         {
           "date": "2025-Q2",
           "value": 73697400,
@@ -47,31 +41,31 @@
         },
         {
           "date": "2026-Q1",
-          "value": 73940700,
+          "value": 73570700,
           "year": 2026,
           "quarter": "Q1"
         },
         {
           "date": "2026-Q2",
-          "value": 73663700,
+          "value": 73129700,
           "year": 2026,
           "quarter": "Q2"
+        },
+        {
+          "date": "2026-Q3",
+          "value": 74301700,
+          "year": 2026,
+          "quarter": "Q3"
         }
       ]
     },
     "breeding": {
       "name": "Breeding Herd",
-      "latest": 5879700,
-      "latest_period": "2026-Q2",
-      "year_ago": 5949300,
-      "pct_vs_year_ago": -1.2,
+      "latest": 5874700,
+      "latest_period": "2026-Q3",
+      "year_ago": 5936300,
+      "pct_vs_year_ago": -1.0,
       "history": [
-        {
-          "date": "2024-Q3",
-          "value": 6043700,
-          "year": 2024,
-          "quarter": "Q3"
-        },
         {
           "date": "2024-Q4",
           "value": 6004300,
@@ -113,22 +107,22 @@
           "value": 5879700,
           "year": 2026,
           "quarter": "Q2"
+        },
+        {
+          "date": "2026-Q3",
+          "value": 5874700,
+          "year": 2026,
+          "quarter": "Q3"
         }
       ]
     },
     "market": {
       "name": "Market Hogs",
-      "latest": 67784000,
-      "latest_period": "2026-Q2",
-      "year_ago": 67748100,
-      "pct_vs_year_ago": 0.1,
+      "latest": 68427000,
+      "latest_period": "2026-Q3",
+      "year_ago": 69502100,
+      "pct_vs_year_ago": -1.5,
       "history": [
-        {
-          "date": "2024-Q3",
-          "value": 69446600,
-          "year": 2024,
-          "quarter": "Q3"
-        },
         {
           "date": "2024-Q4",
           "value": 69071100,
@@ -161,15 +155,21 @@
         },
         {
           "date": "2026-Q1",
-          "value": 68049000,
+          "value": 67679000,
           "year": 2026,
           "quarter": "Q1"
         },
         {
           "date": "2026-Q2",
-          "value": 67784000,
+          "value": 67250000,
           "year": 2026,
           "quarter": "Q2"
+        },
+        {
+          "date": "2026-Q3",
+          "value": 68427000,
+          "year": 2026,
+          "quarter": "Q3"
         }
       ]
     }
