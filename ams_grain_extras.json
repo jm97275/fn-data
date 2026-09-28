@@ -1,29 +1,29 @@
 {
-  "fetched": "2026-09-26T22:15:48Z",
+  "fetched": "2026-09-28T21:22:21Z",
   "note": "Public AMS PDFs parsed via pdftotext. Sorghum from TX/KS daily grain bids; barley from MT daily; DDGs from weekly national grain co-products report; rice from weekly national rice summary. Closes freshness audit items 8-9.",
   "sorghum_tx": {
     "slug": "2711",
     "source": "Texas Daily Grain Bids",
     "frequency": "daily",
     "unit": "$/bu",
-    "report_date": "2026-09-25",
-    "avg": 5.0888,
+    "report_date": "2026-09-28",
+    "avg": 5.0362,
     "rows": [
       {
         "region": "North Panhandle",
-        "price": 4.7325
+        "price": 4.68
       },
       {
         "region": "Central Panhandle",
-        "price": 4.8075
+        "price": 4.755
       },
       {
         "region": "South Panhandle",
-        "price": 5.0075
+        "price": 4.955
       },
       {
         "region": "South Plains",
-        "price": 5.8075
+        "price": 5.755
       }
     ]
   },
@@ -32,40 +32,40 @@
     "source": "Kansas Daily Grain Bids",
     "frequency": "daily",
     "unit": "$/bu",
-    "report_date": "2026-09-25",
-    "avg": 4.5075,
+    "report_date": "2026-09-28",
+    "avg": 4.455,
     "rows": [
       {
         "region": "Northwest",
-        "price": 4.6075
+        "price": 4.555
       },
       {
         "region": "Southwest",
-        "price": 4.5825
+        "price": 4.53
       },
       {
         "region": "South",
-        "price": 4.3825
+        "price": 4.33
       },
       {
         "region": "West",
-        "price": 4.5575
+        "price": 4.505
       },
       {
         "region": "Central",
-        "price": 4.4325
+        "price": 4.38
       },
       {
         "region": "Southeast",
-        "price": 4.4825
+        "price": 4.43
       },
       {
         "region": "North",
-        "price": 4.4825
+        "price": 4.43
       },
       {
         "region": "East",
-        "price": 4.5325
+        "price": 4.48
       }
     ]
   },
@@ -74,7 +74,7 @@
     "source": "Montana Daily Elevator Grain Bids",
     "frequency": "daily",
     "unit": "$/bu",
-    "report_date": "2026-09-25",
+    "report_date": "2026-09-28",
     "avg": 3.62,
     "rows": [
       {
@@ -88,20 +88,20 @@
     "source": "National Weekly Grain Co-Products Report",
     "frequency": "weekly",
     "unit": "$/ton",
-    "report_date": "2026-09-14",
-    "avg_dried": 186.93,
+    "report_date": "2026-09-21",
+    "avg_dried": 192.45,
     "rows_dried": [
       {
         "region": "Illinois",
-        "price": 201.5
+        "price": 210.0
       },
       {
         "region": "Indiana",
-        "price": 183.0
+        "price": 189.75
       },
       {
         "region": "Iowa",
-        "price": 171.46
+        "price": 178.38
       },
       {
         "region": "Kansas",
@@ -109,46 +109,46 @@
       },
       {
         "region": "Michigan",
-        "price": 183.13
+        "price": 188.25
       },
       {
         "region": "Minnesota",
-        "price": 178.75
+        "price": 184.5
       },
       {
         "region": "Missouri",
-        "price": 210.0
+        "price": 212.5
       },
       {
         "region": "Nebraska",
-        "price": 188.6
+        "price": 202.5
       },
       {
         "region": "Ohio",
-        "price": 189.0
+        "price": 189.38
       },
       {
         "region": "South Dakota",
-        "price": 183.33
+        "price": 186.67
       },
       {
         "region": "Wisconsin",
-        "price": 165.0
+        "price": 172.5
       }
     ],
-    "avg_wet": 56.75,
+    "avg_wet": 58.03,
     "rows_wet": [
       {
         "region": "Iowa",
-        "price": 53.5
+        "price": 55.5
       },
       {
         "region": "Kansas",
-        "price": 65.0
+        "price": 67.67
       },
       {
         "region": "Minnesota",
-        "price": 50.0
+        "price": 55.0
       },
       {
         "region": "Missouri",
@@ -156,11 +156,11 @@
       },
       {
         "region": "Nebraska",
-        "price": 60.0
+        "price": 55.0
       },
       {
         "region": "South Dakota",
-        "price": 51.0
+        "price": 54.0
       }
     ]
   },
@@ -169,12 +169,12 @@
     "source": "Weekly National Rice Summary",
     "frequency": "weekly",
     "unit": "$/cwt",
-    "report_date": "2026-09-21",
-    "avg_long": 31.59,
+    "report_date": "2026-09-28",
+    "avg_long": 32.69,
     "rows_long": [
       {
         "region": "Arkansas",
-        "price": 30.12
+        "price": 34.5
       },
       {
         "region": "California",
