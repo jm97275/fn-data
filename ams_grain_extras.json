@@ -1,29 +1,29 @@
 {
-  "fetched": "2026-10-01T23:33:45Z",
+  "fetched": "2026-10-02T20:07:48Z",
   "note": "Public AMS PDFs parsed via pdftotext. Sorghum from TX/KS daily grain bids; barley from MT daily; DDGs from weekly national grain co-products report; rice from weekly national rice summary. Closes freshness audit items 8-9.",
   "sorghum_tx": {
     "slug": "2711",
     "source": "Texas Daily Grain Bids",
     "frequency": "daily",
     "unit": "$/bu",
-    "report_date": "2026-10-01",
-    "avg": 4.8287,
+    "report_date": "2026-10-02",
+    "avg": 4.7838,
     "rows": [
       {
         "region": "North Panhandle",
-        "price": 4.4725
+        "price": 4.4275
       },
       {
         "region": "Central Panhandle",
-        "price": 4.5475
+        "price": 4.5025
       },
       {
         "region": "South Panhandle",
-        "price": 4.7475
+        "price": 4.7025
       },
       {
         "region": "South Plains",
-        "price": 5.5475
+        "price": 5.5025
       }
     ]
   },
@@ -32,40 +32,40 @@
     "source": "Kansas Daily Grain Bids",
     "frequency": "daily",
     "unit": "$/bu",
-    "report_date": "2026-10-01",
-    "avg": 4.2756,
+    "report_date": "2026-10-02",
+    "avg": 4.2306,
     "rows": [
       {
         "region": "Northwest",
-        "price": 4.3225
+        "price": 4.2775
       },
       {
         "region": "Southwest",
-        "price": 4.3225
+        "price": 4.2775
       },
       {
         "region": "South",
-        "price": 4.2225
+        "price": 4.1775
       },
       {
         "region": "West",
-        "price": 4.2975
+        "price": 4.2525
       },
       {
         "region": "Central",
-        "price": 4.1725
+        "price": 4.1275
       },
       {
         "region": "Southeast",
-        "price": 4.2225
+        "price": 4.1775
       },
       {
         "region": "North",
-        "price": 4.2225
+        "price": 4.1775
       },
       {
         "region": "East",
-        "price": 4.4225
+        "price": 4.3775
       }
     ]
   },
