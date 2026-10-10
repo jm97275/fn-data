@@ -1,0 +1,37 @@
+{
+  "last_fetched": "2026-10-10T15:30:26.788330",
+  "state": "OR",
+  "input_prices": {
+    "hay_alfalfa": {
+      "name": "Alfalfa Hay",
+      "latest": 170.0,
+      "month": "2026-05",
+      "year_ago": 185.0,
+      "pct_change": -8.1,
+      "state": "OR",
+      "archetypes": [
+        "cattle",
+        "dairy",
+        "mixed"
+      ],
+      "history": [
+        {
+          "month": "2023-05",
+          "value": 310.0
+        },
+        {
+          "month": "2024-05",
+          "value": 220.0
+        },
+        {
+          "month": "2025-05",
+          "value": 185.0
+        },
+        {
+          "month": "2026-05",
+          "value": 170.0
+        }
+      ]
+    }
+  }
+}

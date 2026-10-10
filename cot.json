@@ -1,1 +1,60 @@
-{}
+{
+  "fetched": "2026-10-10T15:39:21Z",
+  "report_date": "2026-10-06",
+  "commodities": {
+    "live_cattle": {
+      "spec_net": 48729,
+      "spec_net_prior": 48041,
+      "spec_net_change": 688,
+      "commercial_net": -37991,
+      "open_interest": 387285,
+      "spec_pct_of_oi": 12.6,
+      "signal": "specs adding longs"
+    },
+    "feeder_cattle": {
+      "spec_net": 3802,
+      "spec_net_prior": 1255,
+      "spec_net_change": 2547,
+      "commercial_net": -269,
+      "open_interest": 93223,
+      "spec_pct_of_oi": 4.1,
+      "signal": "specs adding longs"
+    },
+    "corn": {
+      "spec_net": 350855,
+      "spec_net_prior": 413811,
+      "spec_net_change": -62956,
+      "commercial_net": -317266,
+      "open_interest": 2558826,
+      "spec_pct_of_oi": 13.7,
+      "signal": "specs trimming longs"
+    },
+    "soybeans": {
+      "spec_net": 269603,
+      "spec_net_prior": 252191,
+      "spec_net_change": 17412,
+      "commercial_net": -243184,
+      "open_interest": 1379088,
+      "spec_pct_of_oi": 19.5,
+      "signal": "specs adding longs"
+    },
+    "wheat": {
+      "spec_net": -26100,
+      "spec_net_prior": -22373,
+      "spec_net_change": -3727,
+      "commercial_net": 22847,
+      "open_interest": 597861,
+      "spec_pct_of_oi": -4.4,
+      "signal": "specs adding shorts"
+    },
+    "lean_hogs": {
+      "spec_net": -50332,
+      "spec_net_prior": -51824,
+      "spec_net_change": 1492,
+      "commercial_net": 47038,
+      "open_interest": 426558,
+      "spec_pct_of_oi": -11.8,
+      "signal": "specs covering shorts"
+    }
+  }
+}

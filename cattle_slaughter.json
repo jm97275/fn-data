@@ -1,7 +1,7 @@
 {
-  "fetched": "2026-10-09T23:50:27Z",
+  "fetched": "2026-10-10T15:39:08Z",
   "week_ending": "2026-10-09",
-  "total_head": 526000,
+  "total_head": 94000,
   "year_ago_head": 93748,
   "pct_of_year_ago": 100.3,
   "steer_head": null,
@@ -16,10 +16,12 @@
     "week_ago": 100000,
     "year_ago": 93748,
     "wtd": 526000,
+    "ya_wtd": 543409,
     "ytd": 21082638,
     "ytd_year_ago": 22772955,
     "ytd_pct": -7.4,
     "breakdown": {
+      "date": "2026-10-08",
       "steers_heifers": 89000,
       "cows_bulls": 20000
     }

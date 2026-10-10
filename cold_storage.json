@@ -1,1 +1,20 @@
-{}
+{
+  "fetched": "2026-10-09T00:00:00Z",
+  "report_month": "August 2026",
+  "beef": {
+    "total_lbs_million": 407,
+    "year_ago_lbs_million": 387,
+    "pct_of_year_ago": 105.2
+  },
+  "pork": {
+    "total_lbs_million": 436,
+    "year_ago_lbs_million": 389,
+    "pct_of_year_ago": 112.0
+  },
+  "total": {
+    "label": "beef + pork",
+    "total_lbs_million": 843,
+    "year_ago_lbs_million": 777,
+    "pct_of_year_ago": 108.6
+  }
+}

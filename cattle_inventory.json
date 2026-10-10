@@ -7,19 +7,19 @@
     "pct_of_year_ago": 100.2
   },
   "beef_cows": {
-    "head_1000": 94200,
-    "year_ago_1000": 94000,
-    "pct_of_year_ago": 100.2
+    "head_1000": 28450,
+    "year_ago_1000": 28650,
+    "pct_of_year_ago": 99.3
   },
   "dairy_cows": {
-    "head_1000": 94200,
-    "year_ago_1000": 94000,
-    "pct_of_year_ago": 100.2
+    "head_1000": 9650,
+    "year_ago_1000": 9450,
+    "pct_of_year_ago": 102.1
   },
   "calves": {
-    "head_1000": 94200,
-    "year_ago_1000": 94000,
-    "pct_of_year_ago": 100.2
+    "head_1000": 25600,
+    "year_ago_1000": 25600,
+    "pct_of_year_ago": 100.0
   },
   "next_report": "2027-01-31"
 }
