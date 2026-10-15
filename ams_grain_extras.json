@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-14T22:48:34Z",
+  "fetched": "2026-10-15T19:22:29Z",
   "note": "Public AMS PDFs parsed via pdftotext. Sorghum from TX/KS daily grain bids; barley from MT daily; DDGs from weekly national grain co-products report; rice from weekly national rice summary. Closes freshness audit items 8-9.",
   "sorghum_tx": {
     "slug": "2711",
@@ -32,40 +32,40 @@
     "source": "Kansas Daily Grain Bids",
     "frequency": "daily",
     "unit": "$/bu",
-    "report_date": "2026-10-14",
-    "avg": 4.0669,
+    "report_date": "2026-10-15",
+    "avg": 4.0425,
     "rows": [
       {
         "region": "Northwest",
-        "price": 4.1575
+        "price": 4.13
       },
       {
         "region": "Southwest",
-        "price": 4.1075
+        "price": 4.08
       },
       {
         "region": "South",
-        "price": 4.0075
+        "price": 3.98
       },
       {
         "region": "West",
-        "price": 4.0825
+        "price": 4.08
       },
       {
         "region": "Central",
-        "price": 3.9575
+        "price": 3.93
       },
       {
         "region": "Southeast",
-        "price": 4.0075
+        "price": 3.98
       },
       {
         "region": "North",
-        "price": 4.0075
+        "price": 3.98
       },
       {
         "region": "East",
-        "price": 4.2075
+        "price": 4.18
       }
     ]
   },
@@ -74,7 +74,7 @@
     "source": "Montana Daily Elevator Grain Bids",
     "frequency": "daily",
     "unit": "$/bu",
-    "report_date": "2026-10-14",
+    "report_date": "2026-10-15",
     "avg": 3.58,
     "rows": [
       {

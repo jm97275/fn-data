@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-14T22:58:39.579503",
+  "generated": "2026-10-15T19:31:06.349113",
   "commodities": {
     "peanuts": {
       "name": "Peanuts",
@@ -7,7 +7,7 @@
       "fmt": "lb",
       "latest": 0.232,
       "latest_date": "2026-08-15",
-      "avg5": 0.2558,
+      "avg5": 0.2561,
       "change": 0,
       "archetypes": [
         "grain"
@@ -293,7 +293,7 @@
       "fmt": "cwt",
       "latest": 29.8,
       "latest_date": "2026-08-15",
-      "avg5": 26.5458,
+      "avg5": 26.4776,
       "change": 0,
       "archetypes": [
         "grain"
@@ -579,7 +579,7 @@
       "fmt": "cwt",
       "latest": 25.7,
       "latest_date": "2026-08-15",
-      "avg5": 26.3339,
+      "avg5": 26.2776,
       "change": 0,
       "archetypes": [
         "grain"
@@ -865,7 +865,7 @@
       "fmt": "cwt",
       "latest": 7.7,
       "latest_date": "2026-08-15",
-      "avg5": 9.1476,
+      "avg5": 9.1414,
       "change": 0,
       "archetypes": [
         "grain"
