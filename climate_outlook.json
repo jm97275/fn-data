@@ -1,12 +1,12 @@
 {
-  "fetched": "2026-10-10T16:49:44Z",
-  "valid_period": "October 2026",
+  "fetched": "2026-10-15T20:46:13Z",
+  "valid_period": "November 2026",
   "lead": "month1",
   "temperature": {
-    "national_tilt": "equal_chances",
+    "national_tilt": "above_normal",
     "states": {
       "AL": {
-        "category": "above_normal",
+        "category": "equal_chances",
         "probability": 33
       },
       "AK": {
@@ -14,7 +14,7 @@
         "probability": 33
       },
       "AZ": {
-        "category": "above_normal",
+        "category": "equal_chances",
         "probability": 33
       },
       "AR": {
@@ -23,26 +23,26 @@
       },
       "CA": {
         "category": "above_normal",
-        "probability": 50
+        "probability": 40
       },
       "CO": {
+        "category": "equal_chances",
+        "probability": 33
+      },
+      "CT": {
         "category": "above_normal",
         "probability": 40
       },
-      "CT": {
-        "category": "equal_chances",
-        "probability": 33
-      },
       "DE": {
-        "category": "equal_chances",
-        "probability": 33
+        "category": "above_normal",
+        "probability": 40
       },
       "FL": {
         "category": "above_normal",
-        "probability": 50
+        "probability": 40
       },
       "GA": {
-        "category": "equal_chances",
+        "category": "above_normal",
         "probability": 33
       },
       "HI": {
@@ -51,58 +51,58 @@
       },
       "ID": {
         "category": "above_normal",
-        "probability": 40
+        "probability": 50
       },
       "IL": {
-        "category": "equal_chances",
-        "probability": 33
+        "category": "above_normal",
+        "probability": 40
       },
       "IN": {
-        "category": "equal_chances",
-        "probability": 33
+        "category": "above_normal",
+        "probability": 40
       },
       "IA": {
         "category": "above_normal",
-        "probability": 33
+        "probability": 40
       },
       "KS": {
         "category": "above_normal",
         "probability": 33
       },
       "KY": {
-        "category": "equal_chances",
+        "category": "above_normal",
         "probability": 33
       },
       "LA": {
-        "category": "above_normal",
+        "category": "equal_chances",
         "probability": 33
       },
       "ME": {
-        "category": "equal_chances",
-        "probability": 33
-      },
-      "MD": {
-        "category": "equal_chances",
-        "probability": 33
-      },
-      "MA": {
-        "category": "equal_chances",
-        "probability": 33
-      },
-      "MI": {
-        "category": "equal_chances",
-        "probability": 33
-      },
-      "MN": {
         "category": "above_normal",
         "probability": 40
       },
-      "MS": {
+      "MD": {
         "category": "above_normal",
+        "probability": 40
+      },
+      "MA": {
+        "category": "above_normal",
+        "probability": 40
+      },
+      "MI": {
+        "category": "above_normal",
+        "probability": 50
+      },
+      "MN": {
+        "category": "above_normal",
+        "probability": 50
+      },
+      "MS": {
+        "category": "equal_chances",
         "probability": 33
       },
       "MO": {
-        "category": "equal_chances",
+        "category": "above_normal",
         "probability": 33
       },
       "MT": {
@@ -115,35 +115,35 @@
       },
       "NV": {
         "category": "above_normal",
-        "probability": 50
+        "probability": 33
       },
       "NH": {
-        "category": "equal_chances",
-        "probability": 33
+        "category": "above_normal",
+        "probability": 40
       },
       "NJ": {
-        "category": "equal_chances",
-        "probability": 33
+        "category": "above_normal",
+        "probability": 40
       },
       "NM": {
         "category": "equal_chances",
         "probability": 33
       },
       "NY": {
-        "category": "equal_chances",
-        "probability": 33
+        "category": "above_normal",
+        "probability": 40
       },
       "NC": {
-        "category": "equal_chances",
+        "category": "above_normal",
         "probability": 33
       },
       "ND": {
         "category": "above_normal",
-        "probability": 40
+        "probability": 50
       },
       "OH": {
-        "category": "equal_chances",
-        "probability": 33
+        "category": "above_normal",
+        "probability": 40
       },
       "OK": {
         "category": "equal_chances",
@@ -154,15 +154,15 @@
         "probability": 40
       },
       "PA": {
-        "category": "equal_chances",
-        "probability": 33
+        "category": "above_normal",
+        "probability": 40
       },
       "RI": {
-        "category": "equal_chances",
-        "probability": 33
+        "category": "above_normal",
+        "probability": 40
       },
       "SC": {
-        "category": "equal_chances",
+        "category": "above_normal",
         "probability": 33
       },
       "SD": {
@@ -170,7 +170,7 @@
         "probability": 40
       },
       "TN": {
-        "category": "equal_chances",
+        "category": "above_normal",
         "probability": 33
       },
       "TX": {
@@ -179,27 +179,27 @@
       },
       "UT": {
         "category": "above_normal",
-        "probability": 40
+        "probability": 33
       },
       "VT": {
-        "category": "equal_chances",
-        "probability": 33
+        "category": "above_normal",
+        "probability": 40
       },
       "VA": {
-        "category": "equal_chances",
-        "probability": 33
+        "category": "above_normal",
+        "probability": 40
       },
       "WA": {
         "category": "above_normal",
-        "probability": 40
+        "probability": 50
       },
       "WV": {
-        "category": "equal_chances",
-        "probability": 33
+        "category": "above_normal",
+        "probability": 40
       },
       "WI": {
         "category": "above_normal",
-        "probability": 33
+        "probability": 50
       },
       "WY": {
         "category": "above_normal",
@@ -212,43 +212,43 @@
     "states": {
       "AL": {
         "category": "above_normal",
-        "probability": 50
+        "probability": 40
       },
       "AK": {
-        "category": "above_normal",
+        "category": "equal_chances",
         "probability": 33
       },
       "AZ": {
-        "category": "equal_chances",
-        "probability": 33
+        "category": "above_normal",
+        "probability": 40
       },
       "AR": {
-        "category": "equal_chances",
+        "category": "above_normal",
         "probability": 33
       },
       "CA": {
-        "category": "below_normal",
+        "category": "above_normal",
         "probability": 33
       },
       "CO": {
-        "category": "equal_chances",
+        "category": "above_normal",
         "probability": 33
       },
       "CT": {
-        "category": "equal_chances",
+        "category": "above_normal",
         "probability": 33
       },
       "DE": {
-        "category": "equal_chances",
+        "category": "above_normal",
         "probability": 33
       },
       "FL": {
         "category": "above_normal",
-        "probability": 40
+        "probability": 60
       },
       "GA": {
         "category": "above_normal",
-        "probability": 40
+        "probability": 50
       },
       "HI": {
         "category": "equal_chances",
@@ -256,7 +256,7 @@
       },
       "ID": {
         "category": "below_normal",
-        "probability": 40
+        "probability": 33
       },
       "IL": {
         "category": "equal_chances",
@@ -271,7 +271,7 @@
         "probability": 33
       },
       "KS": {
-        "category": "equal_chances",
+        "category": "above_normal",
         "probability": 33
       },
       "KY": {
@@ -280,31 +280,31 @@
       },
       "LA": {
         "category": "above_normal",
-        "probability": 60
+        "probability": 50
       },
       "ME": {
         "category": "equal_chances",
         "probability": 33
       },
       "MD": {
-        "category": "equal_chances",
+        "category": "above_normal",
         "probability": 33
       },
       "MA": {
-        "category": "equal_chances",
+        "category": "above_normal",
         "probability": 33
       },
       "MI": {
-        "category": "equal_chances",
-        "probability": 33
-      },
-      "MN": {
         "category": "below_normal",
         "probability": 40
       },
+      "MN": {
+        "category": "equal_chances",
+        "probability": 33
+      },
       "MS": {
         "category": "above_normal",
-        "probability": 50
+        "probability": 40
       },
       "MO": {
         "category": "equal_chances",
@@ -312,27 +312,27 @@
       },
       "MT": {
         "category": "below_normal",
-        "probability": 40
+        "probability": 33
       },
       "NE": {
         "category": "equal_chances",
         "probability": 33
       },
       "NV": {
-        "category": "below_normal",
-        "probability": 40
+        "category": "above_normal",
+        "probability": 33
       },
       "NH": {
         "category": "equal_chances",
         "probability": 33
       },
       "NJ": {
-        "category": "equal_chances",
+        "category": "above_normal",
         "probability": 33
       },
       "NM": {
-        "category": "equal_chances",
-        "probability": 33
+        "category": "above_normal",
+        "probability": 40
       },
       "NY": {
         "category": "equal_chances",
@@ -340,14 +340,14 @@
       },
       "NC": {
         "category": "above_normal",
-        "probability": 33
+        "probability": 50
       },
       "ND": {
-        "category": "below_normal",
-        "probability": 40
+        "category": "equal_chances",
+        "probability": 33
       },
       "OH": {
-        "category": "equal_chances",
+        "category": "below_normal",
         "probability": 33
       },
       "OK": {
@@ -355,7 +355,7 @@
         "probability": 33
       },
       "OR": {
-        "category": "below_normal",
+        "category": "equal_chances",
         "probability": 33
       },
       "PA": {
@@ -363,39 +363,39 @@
         "probability": 33
       },
       "RI": {
-        "category": "equal_chances",
+        "category": "above_normal",
         "probability": 33
       },
       "SC": {
         "category": "above_normal",
-        "probability": 33
+        "probability": 50
       },
       "SD": {
-        "category": "below_normal",
-        "probability": 40
+        "category": "equal_chances",
+        "probability": 33
       },
       "TN": {
-        "category": "above_normal",
+        "category": "equal_chances",
         "probability": 33
       },
       "TX": {
         "category": "above_normal",
-        "probability": 60
+        "probability": 40
       },
       "UT": {
-        "category": "below_normal",
-        "probability": 40
+        "category": "equal_chances",
+        "probability": 33
       },
       "VT": {
         "category": "equal_chances",
         "probability": 33
       },
       "VA": {
-        "category": "equal_chances",
-        "probability": 33
+        "category": "above_normal",
+        "probability": 40
       },
       "WA": {
-        "category": "below_normal",
+        "category": "equal_chances",
         "probability": 33
       },
       "WV": {
@@ -403,12 +403,12 @@
         "probability": 33
       },
       "WI": {
-        "category": "below_normal",
+        "category": "equal_chances",
         "probability": 33
       },
       "WY": {
-        "category": "below_normal",
-        "probability": 40
+        "category": "equal_chances",
+        "probability": 33
       }
     }
   },
