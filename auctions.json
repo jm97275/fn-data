@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-16T19:16:07Z",
+  "fetched_at": "2026-10-16T22:28:12Z",
   "markets": [
     {
       "slug": "2003",
@@ -3599,59 +3599,47 @@
       "state": "MO",
       "lat": 39.3084,
       "lon": -91.1916,
-      "sale_date": "2026-10-09",
-      "receipts": 634,
+      "sale_date": "2026-10-16",
+      "receipts": 320,
       "feeder_steers": {
+        "4_5": {
+          "avg": 486.26,
+          "low": 485.0,
+          "high": 487.5,
+          "head": 6
+        },
         "5_6": {
-          "avg": 440.2,
-          "low": 433.0,
-          "high": 465.0,
-          "head": 28
+          "avg": 431.85,
+          "low": 430.0,
+          "high": 432.5,
+          "head": 4
         },
         "6_7": {
-          "avg": 382.38,
-          "low": 354.0,
-          "high": 395.0,
-          "head": 13
-        },
-        "8_9": {
-          "avg": 336.73,
-          "low": 325.0,
-          "high": 338.5,
-          "head": 65
-        },
-        "7_8": {
-          "avg": 344.84,
-          "low": 341.0,
-          "high": 362.5,
-          "head": 92
+          "avg": 405.0,
+          "low": 405.0,
+          "high": 405.0,
+          "head": 3
         }
       },
       "feeder_heifers": {
         "4_5": {
-          "avg": 434.04,
-          "low": 420.0,
-          "high": 452.5,
-          "head": 15
-        },
-        "6_7": {
-          "avg": 350.24,
-          "low": 329.0,
-          "high": 365.0,
-          "head": 38
+          "avg": 405.0,
+          "low": 405.0,
+          "high": 405.0,
+          "head": 4
         },
         "5_6": {
-          "avg": 395.41,
+          "avg": 382.5,
           "low": 380.0,
-          "high": 417.5,
-          "head": 17
+          "high": 390.0,
+          "head": 12
         }
       },
       "slaughter_cows": {
-        "avg": 127.51,
-        "head": 56
+        "avg": 1610.09,
+        "head": 222
       },
-      "five_wt_steer_avg": 440.2
+      "five_wt_steer_avg": 431.85
     },
     {
       "slug": "1811",
@@ -3803,6 +3791,161 @@
       "five_wt_steer_avg": 414.41
     },
     {
+      "slug": "3916",
+      "name": "Four State Stockyards \u2013 Cattle Auction",
+      "city": "Cattle Auction - Exeter",
+      "state": "MO",
+      "lat": 38.4561,
+      "lon": -92.2884,
+      "sale_date": "2026-10-13",
+      "receipts": 1112,
+      "feeder_steers": {
+        "5_6": {
+          "avg": 408.23,
+          "low": 399.0,
+          "high": 416.0,
+          "head": 35
+        },
+        "4_5": {
+          "avg": 450.77,
+          "low": 429.0,
+          "high": 462.0,
+          "head": 36
+        },
+        "6_7": {
+          "avg": 388.65,
+          "low": 380.0,
+          "high": 397.0,
+          "head": 22
+        },
+        "8_9": {
+          "avg": 334.0,
+          "low": 334.0,
+          "high": 334.0,
+          "head": 39
+        },
+        "7_8": {
+          "avg": 344.22,
+          "low": 342.0,
+          "high": 346.0,
+          "head": 44
+        },
+        "3_4": {
+          "avg": 472.0,
+          "low": 472.0,
+          "high": 472.0,
+          "head": 3
+        }
+      },
+      "feeder_heifers": {
+        "5_6": {
+          "avg": 372.0,
+          "low": 372.0,
+          "high": 372.0,
+          "head": 4
+        },
+        "7_8": {
+          "avg": 339.0,
+          "low": 339.0,
+          "high": 339.0,
+          "head": 4
+        },
+        "4_5": {
+          "avg": 406.77,
+          "low": 392.0,
+          "high": 417.0,
+          "head": 12
+        },
+        "3_4": {
+          "avg": 431.06,
+          "low": 425.0,
+          "high": 441.0,
+          "head": 15
+        }
+      },
+      "slaughter_cows": null,
+      "five_wt_steer_avg": 408.23
+    },
+    {
+      "slug": "3917",
+      "name": "Wheeler Livestock Auction",
+      "city": "Cattle Auction - Osceola",
+      "state": "MO",
+      "lat": 38.45,
+      "lon": -92.4807,
+      "sale_date": "2026-10-15",
+      "receipts": 1571,
+      "feeder_steers": {
+        "6_7": {
+          "avg": 395.86,
+          "low": 380.0,
+          "high": 400.0,
+          "head": 89
+        },
+        "3_4": {
+          "avg": 528.9,
+          "low": 525.0,
+          "high": 530.0,
+          "head": 9
+        },
+        "4_5": {
+          "avg": 475.11,
+          "low": 445.0,
+          "high": 502.5,
+          "head": 140
+        },
+        "5_6": {
+          "avg": 420.66,
+          "low": 413.0,
+          "high": 440.0,
+          "head": 157
+        },
+        "7_8": {
+          "avg": 362.64,
+          "low": 350.0,
+          "high": 366.5,
+          "head": 60
+        }
+      },
+      "feeder_heifers": {
+        "5_6": {
+          "avg": 393.09,
+          "low": 365.0,
+          "high": 401.0,
+          "head": 121
+        },
+        "3_4": {
+          "avg": 476.61,
+          "low": 435.0,
+          "high": 525.0,
+          "head": 56
+        },
+        "4_5": {
+          "avg": 438.69,
+          "low": 380.5,
+          "high": 467.5,
+          "head": 83
+        },
+        "7_8": {
+          "avg": 362.5,
+          "low": 362.5,
+          "high": 362.5,
+          "head": 56
+        },
+        "6_7": {
+          "avg": 367.48,
+          "low": 365.0,
+          "high": 369.5,
+          "head": 116
+        }
+      },
+      "slaughter_cows": {
+        "avg": 1183.92,
+        "head": 128
+      },
+      "five_wt_steer_avg": 420.66
+    },
+    {
       "slug": "1814",
       "name": "Interstate Regional Stockyards",
       "city": "Cuba",
@@ -3876,83 +4019,83 @@
       "state": "MO",
       "lat": 38.1075,
       "lon": -91.427,
-      "sale_date": "2026-10-07",
-      "receipts": 427,
+      "sale_date": "2026-10-14",
+      "receipts": 318,
       "feeder_steers": {
         "5_6": {
-          "avg": 412.46,
+          "avg": 418.07,
           "low": 390.0,
-          "high": 440.0,
-          "head": 46
+          "high": 430.0,
+          "head": 13
         },
         "3_4": {
-          "avg": 477.12,
-          "low": 475.0,
-          "high": 490.0,
-          "head": 7
-        },
-        "6_7": {
-          "avg": 377.04,
-          "low": 350.0,
-          "high": 392.0,
-          "head": 53
-        },
-        "7_8": {
-          "avg": 327.43,
-          "low": 310.0,
-          "high": 350.0,
-          "head": 29
+          "avg": 476.4,
+          "low": 430.0,
+          "high": 515.0,
+          "head": 5
         },
         "4_5": {
-          "avg": 443.43,
-          "low": 420.0,
-          "high": 460.0,
-          "head": 30
+          "avg": 407.83,
+          "low": 395.0,
+          "high": 450.0,
+          "head": 16
+        },
+        "7_8": {
+          "avg": 329.38,
+          "low": 310.0,
+          "high": 335.0,
+          "head": 8
+        },
+        "6_7": {
+          "avg": 361.55,
+          "low": 335.0,
+          "high": 382.0,
+          "head": 21
+        },
+        "8_9": {
+          "avg": 310.0,
+          "low": 310.0,
+          "high": 310.0,
+          "head": 10
         }
       },
       "feeder_heifers": {
         "5_6": {
-          "avg": 378.14,
-          "low": 315.0,
-          "high": 435.0,
-          "head": 50
-        },
-        "4_5": {
-          "avg": 406.97,
-          "low": 370.0,
-          "high": 435.0,
-          "head": 12
-        },
-        "3_4": {
-          "avg": 441.63,
-          "low": 415.0,
-          "high": 470.0,
-          "head": 2
+          "avg": 364.31,
+          "low": 325.0,
+          "high": 410.0,
+          "head": 31
         },
         "6_7": {
-          "avg": 321.4,
-          "low": 310.0,
-          "high": 352.0,
-          "head": 6
+          "avg": 347.64,
+          "low": 317.0,
+          "high": 375.0,
+          "head": 27
         },
-        "8_9": {
-          "avg": 295.0,
-          "low": 295.0,
-          "high": 295.0,
-          "head": 3
+        "4_5": {
+          "avg": 385.43,
+          "low": 360.0,
+          "high": 405.0,
+          "head": 16
         },
         "7_8": {
-          "avg": 307.5,
+          "avg": 315.54,
           "low": 300.0,
-          "high": 315.0,
-          "head": 2
+          "high": 322.0,
+          "head": 16
+        },
+        "8_9": {
+          "avg": 290.17,
+          "low": 290.0,
+          "high": 291.0,
+          "head": 6
         }
       },
       "slaughter_cows": {
-        "avg": 690.4,
-        "head": 49
+        "avg": 740.81,
+        "head": 34
       },
-      "five_wt_steer_avg": 412.46
+      "five_wt_steer_avg": 418.07
     },
     {
       "slug": "1254",
@@ -6849,6 +6992,76 @@
       "five_wt_steer_avg": 465.21
     },
     {
+      "slug": "1851",
+      "name": "Burwell Livestock Market",
+      "city": "Burwell",
+      "state": "NE",
+      "lat": 41.9566,
+      "lon": -99.156,
+      "sale_date": "2026-10-16",
+      "receipts": 1245,
+      "feeder_steers": {
+        "6_7": {
+          "avg": 407.88,
+          "low": 395.0,
+          "high": 440.0,
+          "head": 113
+        },
+        "4_5": {
+          "avg": 509.86,
+          "low": 495.0,
+          "high": 530.0,
+          "head": 48
+        },
+        "5_6": {
+          "avg": 462.11,
+          "low": 440.0,
+          "high": 485.0,
+          "head": 386
+        },
+        "3_4": {
+          "avg": 475.0,
+          "low": 475.0,
+          "high": 475.0,
+          "head": 5
+        },
+        "8_9": {
+          "avg": 331.0,
+          "low": 331.0,
+          "high": 331.0,
+          "head": 7
+        }
+      },
+      "feeder_heifers": {
+        "4_5": {
+          "avg": 427.34,
+          "low": 410.0,
+          "high": 449.0,
+          "head": 71
+        },
+        "8_9": {
+          "avg": 335.31,
+          "low": 319.5,
+          "high": 340.5,
+          "head": 93
+        },
+        "6_7": {
+          "avg": 375.96,
+          "low": 360.0,
+          "high": 390.0,
+          "head": 33
+        },
+        "5_6": {
+          "avg": 397.88,
+          "low": 392.5,
+          "high": 410.0,
+          "head": 36
+        }
+      },
+      "slaughter_cows": null,
+      "five_wt_steer_avg": 462.11
+    },
+    {
       "slug": "1857",
       "name": "Crawford Livestock Market",
       "city": "Crawford",
@@ -8979,26 +9192,86 @@
       "state": "SD",
       "lat": 45.8335,
       "lon": -100.0442,
-      "sale_date": "2026-10-09",
-      "receipts": 850,
+      "sale_date": "2026-10-16",
+      "receipts": 4202,
       "feeder_steers": {
+        "5_6": {
+          "avg": 457.95,
+          "low": 431.0,
+          "high": 472.0,
+          "head": 210
+        },
         "8_9": {
-          "avg": 349.75,
-          "low": 349.75,
-          "high": 349.75,
-          "head": 178
+          "avg": 349.73,
+          "low": 331.5,
+          "high": 370.0,
+          "head": 170
+        },
+        "3_4": {
+          "avg": 611.0,
+          "low": 611.0,
+          "high": 611.0,
+          "head": 30
+        },
+        "7_8": {
+          "avg": 383.03,
+          "low": 358.5,
+          "high": 389.0,
+          "head": 113
+        },
+        "4_5": {
+          "avg": 514.34,
+          "low": 480.0,
+          "high": 519.0,
+          "head": 318
+        },
+        "6_7": {
+          "avg": 418.8,
+          "low": 394.0,
+          "high": 431.5,
+          "head": 314
         }
       },
       "feeder_heifers": {
+        "5_6": {
+          "avg": 402.29,
+          "low": 353.0,
+          "high": 454.0,
+          "head": 270
+        },
+        "4_5": {
+          "avg": 465.87,
+          "low": 417.5,
+          "high": 482.5,
+          "head": 215
+        },
+        "3_4": {
+          "avg": 493.73,
+          "low": 482.5,
+          "high": 500.0,
+          "head": 48
+        },
+        "6_7": {
+          "avg": 393.14,
+          "low": 364.0,
+          "high": 400.25,
+          "head": 107
+        },
+        "7_8": {
+          "avg": 356.75,
+          "low": 337.0,
+          "high": 373.25,
+          "head": 183
+        },
         "8_9": {
-          "avg": 309.0,
-          "low": 309.0,
-          "high": 309.0,
-          "head": 71
+          "avg": 320.07,
+          "low": 314.0,
+          "high": 335.5,
+          "head": 263
         }
       },
       "slaughter_cows": null,
-      "five_wt_steer_avg": null
+      "five_wt_steer_avg": 457.95
     },
     {
       "slug": "2022",

@@ -1,60 +1,60 @@
 {
-  "fetched": "2026-10-16T19:17:45Z",
-  "report_date": "2026-10-06",
+  "fetched": "2026-10-16T22:29:14Z",
+  "report_date": "2026-10-13",
   "commodities": {
     "live_cattle": {
-      "spec_net": 48729,
-      "spec_net_prior": 48041,
-      "spec_net_change": 688,
-      "commercial_net": -37991,
-      "open_interest": 387285,
-      "spec_pct_of_oi": 12.6,
-      "signal": "specs adding longs"
+      "spec_net": 46562,
+      "spec_net_prior": 48729,
+      "spec_net_change": -2167,
+      "commercial_net": -35417,
+      "open_interest": 390003,
+      "spec_pct_of_oi": 11.9,
+      "signal": "specs trimming longs"
     },
     "feeder_cattle": {
-      "spec_net": 3802,
-      "spec_net_prior": 1255,
-      "spec_net_change": 2547,
-      "commercial_net": -269,
-      "open_interest": 93223,
-      "spec_pct_of_oi": 4.1,
+      "spec_net": 4191,
+      "spec_net_prior": 3802,
+      "spec_net_change": 389,
+      "commercial_net": -81,
+      "open_interest": 92539,
+      "spec_pct_of_oi": 4.5,
       "signal": "specs adding longs"
     },
     "corn": {
-      "spec_net": 350855,
-      "spec_net_prior": 413811,
-      "spec_net_change": -62956,
-      "commercial_net": -317266,
-      "open_interest": 2558826,
-      "spec_pct_of_oi": 13.7,
+      "spec_net": 259130,
+      "spec_net_prior": 350855,
+      "spec_net_change": -91725,
+      "commercial_net": -227415,
+      "open_interest": 2519671,
+      "spec_pct_of_oi": 10.3,
       "signal": "specs trimming longs"
     },
     "soybeans": {
-      "spec_net": 269603,
-      "spec_net_prior": 252191,
-      "spec_net_change": 17412,
-      "commercial_net": -243184,
-      "open_interest": 1379088,
-      "spec_pct_of_oi": 19.5,
-      "signal": "specs adding longs"
+      "spec_net": 251649,
+      "spec_net_prior": 269603,
+      "spec_net_change": -17954,
+      "commercial_net": -223272,
+      "open_interest": 1329482,
+      "spec_pct_of_oi": 18.9,
+      "signal": "specs trimming longs"
     },
     "wheat": {
-      "spec_net": -26100,
-      "spec_net_prior": -22373,
-      "spec_net_change": -3727,
-      "commercial_net": 22847,
-      "open_interest": 597861,
-      "spec_pct_of_oi": -4.4,
+      "spec_net": -30308,
+      "spec_net_prior": -26100,
+      "spec_net_change": -4208,
+      "commercial_net": 26451,
+      "open_interest": 608955,
+      "spec_pct_of_oi": -5.0,
       "signal": "specs adding shorts"
     },
     "lean_hogs": {
-      "spec_net": -50332,
-      "spec_net_prior": -51824,
-      "spec_net_change": 1492,
-      "commercial_net": 47038,
-      "open_interest": 426558,
-      "spec_pct_of_oi": -11.8,
-      "signal": "specs covering shorts"
+      "spec_net": -58881,
+      "spec_net_prior": -50332,
+      "spec_net_change": -8549,
+      "commercial_net": 54823,
+      "open_interest": 427572,
+      "spec_pct_of_oi": -13.8,
+      "signal": "specs adding shorts"
     }
   }
 }
