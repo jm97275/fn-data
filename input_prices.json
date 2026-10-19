@@ -1,13 +1,13 @@
 {
-  "last_fetched": "2026-10-17T17:56:56.164551",
+  "last_fetched": "2026-10-19T20:43:41.443728",
   "state": "OR",
   "input_prices": {
     "hay_alfalfa": {
       "name": "Alfalfa Hay",
-      "latest": 170.0,
-      "month": "2026-05",
-      "year_ago": 185.0,
-      "pct_change": -8.1,
+      "latest": 185.0,
+      "month": "2026-08",
+      "year_ago": 190.0,
+      "pct_change": -2.6,
       "state": "OR",
       "archetypes": [
         "cattle",
@@ -16,20 +16,210 @@
       ],
       "history": [
         {
-          "month": "2023-05",
-          "value": 310.0
+          "month": "2024-09",
+          "value": 220.0
         },
         {
-          "month": "2024-05",
-          "value": 220.0
+          "month": "2024-10",
+          "value": 215.0
+        },
+        {
+          "month": "2024-11",
+          "value": 215.0
+        },
+        {
+          "month": "2024-12",
+          "value": 210.0
+        },
+        {
+          "month": "2025-01",
+          "value": 205.0
+        },
+        {
+          "month": "2025-02",
+          "value": 200.0
+        },
+        {
+          "month": "2025-03",
+          "value": 200.0
+        },
+        {
+          "month": "2025-04",
+          "value": 185.0
         },
         {
           "month": "2025-05",
           "value": 185.0
         },
         {
+          "month": "2025-06",
+          "value": 190.0
+        },
+        {
+          "month": "2025-07",
+          "value": 185.0
+        },
+        {
+          "month": "2025-08",
+          "value": 190.0
+        },
+        {
+          "month": "2025-09",
+          "value": 190.0
+        },
+        {
+          "month": "2025-10",
+          "value": 185.0
+        },
+        {
+          "month": "2025-11",
+          "value": 185.0
+        },
+        {
+          "month": "2025-12",
+          "value": 180.0
+        },
+        {
+          "month": "2026-01",
+          "value": 170.0
+        },
+        {
+          "month": "2026-02",
+          "value": 175.0
+        },
+        {
+          "month": "2026-03",
+          "value": 175.0
+        },
+        {
+          "month": "2026-04",
+          "value": 170.0
+        },
+        {
           "month": "2026-05",
           "value": 170.0
+        },
+        {
+          "month": "2026-06",
+          "value": 175.0
+        },
+        {
+          "month": "2026-07",
+          "value": 185.0
+        },
+        {
+          "month": "2026-08",
+          "value": 185.0
+        }
+      ]
+    },
+    "hay_other": {
+      "name": "Other Hay",
+      "latest": 210.0,
+      "month": "2026-08",
+      "year_ago": 205.0,
+      "pct_change": 2.4,
+      "state": "OR",
+      "archetypes": [
+        "cattle",
+        "mixed"
+      ],
+      "history": [
+        {
+          "month": "2024-09",
+          "value": 220.0
+        },
+        {
+          "month": "2024-10",
+          "value": 215.0
+        },
+        {
+          "month": "2024-11",
+          "value": 215.0
+        },
+        {
+          "month": "2024-12",
+          "value": 215.0
+        },
+        {
+          "month": "2025-01",
+          "value": 215.0
+        },
+        {
+          "month": "2025-02",
+          "value": 205.0
+        },
+        {
+          "month": "2025-03",
+          "value": 210.0
+        },
+        {
+          "month": "2025-04",
+          "value": 210.0
+        },
+        {
+          "month": "2025-05",
+          "value": 215.0
+        },
+        {
+          "month": "2025-06",
+          "value": 200.0
+        },
+        {
+          "month": "2025-07",
+          "value": 205.0
+        },
+        {
+          "month": "2025-08",
+          "value": 205.0
+        },
+        {
+          "month": "2025-09",
+          "value": 210.0
+        },
+        {
+          "month": "2025-10",
+          "value": 210.0
+        },
+        {
+          "month": "2025-11",
+          "value": 210.0
+        },
+        {
+          "month": "2025-12",
+          "value": 200.0
+        },
+        {
+          "month": "2026-01",
+          "value": 200.0
+        },
+        {
+          "month": "2026-02",
+          "value": 200.0
+        },
+        {
+          "month": "2026-03",
+          "value": 200.0
+        },
+        {
+          "month": "2026-04",
+          "value": 195.0
+        },
+        {
+          "month": "2026-05",
+          "value": 200.0
+        },
+        {
+          "month": "2026-06",
+          "value": 200.0
+        },
+        {
+          "month": "2026-07",
+          "value": 210.0
+        },
+        {
+          "month": "2026-08",
+          "value": 210.0
         }
       ]
     }

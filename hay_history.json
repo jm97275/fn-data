@@ -600,7 +600,7 @@
     }
   },
   {
-    "date": "2026-03-31",
+    "date": "2026-03-30",
     "prices": {
       "alfalfa": 176,
       "grass": 87,
@@ -608,7 +608,7 @@
     }
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "prices": {
       "alfalfa": 176,
       "grass": 87,
@@ -805,6 +805,45 @@
       "alfalfa": 173,
       "grass": 87,
       "bermuda": 88
+    }
+  },
+  {
+    "date": "2026-10-16",
+    "prices": {
+      "alfalfa": 260,
+      "grass": 173
+    },
+    "method": "ams_direct_hay_latest_week_v2",
+    "source": "USDA AMS Direct Hay Reports, per-ton quotes, latest report week",
+    "states": {
+      "alfalfa": [
+        "CA",
+        "CO",
+        "ID",
+        "KS",
+        "MO",
+        "MT",
+        "NE",
+        "NM",
+        "OK",
+        "OR",
+        "SD",
+        "TX",
+        "WA",
+        "WY"
+      ],
+      "grass": [
+        "CA",
+        "KS",
+        "MO",
+        "MT",
+        "NE",
+        "OK",
+        "OR",
+        "SD",
+        "TX",
+        "WA"
+      ]
     }
   }
 ]
