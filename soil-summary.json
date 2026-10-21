@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2026-10-10",
+    "generated": "2026-10-21",
     "source": "NRCS Soil Data Access (SSURGO)",
     "county_count": 3137,
     "states_processed": 50
@@ -1199,7 +1199,7 @@
     "02050": {
       "county": "Bethel Census Area",
       "state": "AK",
-      "dominant_soil": "Nunaniq silt loam, 8 to 15 percent slopes",
+      "dominant_soil": "Nunaniq silt loam, 3 to 8 percent slopes",
       "land_capability_class": "VI",
       "k_factor_avg": 0.224,
       "slope_avg": 10.8,
@@ -1250,7 +1250,7 @@
     "02070": {
       "county": "Dillingham Census Area",
       "state": "AK",
-      "dominant_soil": "Nunaniq silt loam, 15 to 25 percent slopes",
+      "dominant_soil": "Nunaniq silt loam, 3 to 8 percent slopes",
       "land_capability_class": "VII",
       "k_factor_avg": 0.226,
       "slope_avg": 10.4,
@@ -1335,7 +1335,7 @@
     "02122": {
       "county": "Kenai Peninsula Borough",
       "state": "AK",
-      "dominant_soil": "Andic Haplocryods-Lithic Haplocryods complex, 16 to 45 percent slopes",
+      "dominant_soil": "Andic Haplocryods-Terric Cryosaprists complex, 0 to 15 percent slopes",
       "land_capability_class": "VII",
       "k_factor_avg": 0.157,
       "slope_avg": 19.7,
@@ -1352,7 +1352,7 @@
     "02130": {
       "county": "Ketchikan Gateway Borough",
       "state": "AK",
-      "dominant_soil": "McGilvery peat, 5 to 35 percent slopes",
+      "dominant_soil": "McGilvery peat, 35 to 60 percent slopes",
       "land_capability_class": "VII",
       "k_factor_avg": 0.145,
       "slope_avg": 45.4,
@@ -1369,7 +1369,7 @@
     "02150": {
       "county": "Kodiak Island Borough",
       "state": "AK",
-      "dominant_soil": "Kodiak-Kazakof-Marka complex, 1 to 15 percent slopes",
+      "dominant_soil": "Kodiak-Pyramid-Marka complex, 25 to 60 percent slopes",
       "land_capability_class": "VI",
       "k_factor_avg": 0.227,
       "slope_avg": 15.8,
@@ -1420,7 +1420,7 @@
     "02170": {
       "county": "Matanuska-Susitna Borough",
       "state": "AK",
-      "dominant_soil": "Chelina loam, 0 to 10 percent slopes",
+      "dominant_soil": "Chelina loam, 7 to 25 percent slopes",
       "land_capability_class": "VII",
       "k_factor_avg": 0.166,
       "slope_avg": 15.3,
@@ -1573,7 +1573,7 @@
     "02261": {
       "county": "Valdez-Cordova Census Area",
       "state": "AK",
-      "dominant_soil": "Klawasi peat, cool, 0 to 7 percent slopes",
+      "dominant_soil": "Klawasi peat, 0 to 2 percent slopes",
       "land_capability_class": "VI",
       "k_factor_avg": 0.193,
       "slope_avg": 15.6,
@@ -1590,7 +1590,7 @@
     "02270": {
       "county": "Kusilvak Census Area (old Wade Hampton)",
       "state": "AK",
-      "dominant_soil": "Nunaniq silt loam, 8 to 15 percent slopes",
+      "dominant_soil": "Nunaniq silt loam, 3 to 8 percent slopes",
       "land_capability_class": "VI",
       "k_factor_avg": 0.479,
       "slope_avg": 9.6,
@@ -1624,7 +1624,7 @@
     "02282": {
       "county": "Yakutat City and Borough",
       "state": "AK",
-      "dominant_soil": "Typic Cryaquents, flat lowlands, 0 to 5 percent slopes",
+      "dominant_soil": "Typic Cryaquents, floodplains, 0 to 5 percent slopes",
       "land_capability_class": "VII",
       "k_factor_avg": 0.178,
       "slope_avg": 19.8,
@@ -28127,7 +28127,7 @@
     "31001": {
       "county": "Adams",
       "state": "NE",
-      "dominant_soil": "Holder silty clay loam, 7 to 11 percent slopes, severely eroded",
+      "dominant_soil": "Holder silt loam, 1 to 3 percent slopes",
       "land_capability_class": "II",
       "k_factor_avg": 0.331,
       "slope_avg": 5.0,
@@ -28144,7 +28144,7 @@
     "31003": {
       "county": "Antelope",
       "state": "NE",
-      "dominant_soil": "Paka fine sandy loam, 2 to 6 percent slopes",
+      "dominant_soil": "Paka complex, 2 to 6 percent slopes",
       "land_capability_class": "IV",
       "k_factor_avg": 0.217,
       "slope_avg": 4.8,
@@ -28178,7 +28178,7 @@
     "31007": {
       "county": "Banner",
       "state": "NE",
-      "dominant_soil": "Bayard very fine sandy loam, 1 to 3 percent slopes",
+      "dominant_soil": "Bayard very fine sandy loam, 9 to 20 percent slopes",
       "land_capability_class": "III",
       "k_factor_avg": 0.314,
       "slope_avg": 7.7,
@@ -28195,7 +28195,7 @@
     "31009": {
       "county": "Blaine",
       "state": "NE",
-      "dominant_soil": "Valentine loamy fine sand, 0 to 3 percent slopes",
+      "dominant_soil": "Valentine loamy fine sand, 0 to 3 percent slopes, moist",
       "land_capability_class": "VI",
       "k_factor_avg": 0.107,
       "slope_avg": 5.8,
@@ -28263,7 +28263,7 @@
     "31017": {
       "county": "Brown",
       "state": "NE",
-      "dominant_soil": "Valentine loamy fine sand, 0 to 3 percent slopes, moist",
+      "dominant_soil": "Valentine loamy fine sand, 3 to 9 percent slopes, moist",
       "land_capability_class": "VI",
       "k_factor_avg": 0.139,
       "slope_avg": 5.2,
@@ -28297,7 +28297,7 @@
     "31021": {
       "county": "Burt",
       "state": "NE",
-      "dominant_soil": "Monona silt loam, 17 to 30 percent slopes",
+      "dominant_soil": "Monona silt loam, 6 to 11 percent slopes",
       "land_capability_class": "II",
       "k_factor_avg": 0.323,
       "slope_avg": 6.6,
@@ -28331,7 +28331,7 @@
     "31025": {
       "county": "Cass",
       "state": "NE",
-      "dominant_soil": "Monona silt loam, 17 to 30 percent slopes",
+      "dominant_soil": "Monona silt loam, 6 to 11 percent slopes, eroded",
       "land_capability_class": "II",
       "k_factor_avg": 0.321,
       "slope_avg": 6.8,
@@ -28348,7 +28348,7 @@
     "31027": {
       "county": "Cedar",
       "state": "NE",
-      "dominant_soil": "Moody silty clay loam, 6 to 11 percent slopes, eroded",
+      "dominant_soil": "Moody loam, 2 to 6 percent slopes",
       "land_capability_class": "II",
       "k_factor_avg": 0.283,
       "slope_avg": 7.3,
@@ -28365,7 +28365,7 @@
     "31029": {
       "county": "Chase",
       "state": "NE",
-      "dominant_soil": "Sulco silt loam, 9 to 30 percent slopes",
+      "dominant_soil": "Sulco silt loam, 30 to 60 percent slopes",
       "land_capability_class": "II",
       "k_factor_avg": 0.312,
       "slope_avg": 5.5,
@@ -28399,7 +28399,7 @@
     "31033": {
       "county": "Cheyenne",
       "state": "NE",
-      "dominant_soil": "Bayard fine sandy loam, 9 to 20 percent slopes",
+      "dominant_soil": "Bayard fine sandy loam, 0 to 1 percent slopes",
       "land_capability_class": "III",
       "k_factor_avg": 0.282,
       "slope_avg": 6.7,
@@ -28450,7 +28450,7 @@
     "31039": {
       "county": "Cuming",
       "state": "NE",
-      "dominant_soil": "Moody silty clay loam, 6 to 11 percent slopes, eroded",
+      "dominant_soil": "Moody silty clay loam, 2 to 6 percent slopes, eroded",
       "land_capability_class": "II",
       "k_factor_avg": 0.281,
       "slope_avg": 4.3,
@@ -28467,7 +28467,7 @@
     "31041": {
       "county": "Custer",
       "state": "NE",
-      "dominant_soil": "Valentine loamy fine sand, rolling,  9 to 24 percent slopes, moist",
+      "dominant_soil": "Valentine loamy fine sand, 0 to 3 percent slopes, moist",
       "land_capability_class": "VI",
       "k_factor_avg": 0.287,
       "slope_avg": 6.5,
@@ -28484,7 +28484,7 @@
     "31043": {
       "county": "Dakota",
       "state": "NE",
-      "dominant_soil": "Nora silt loam, 11 to 17 percent slopes, eroded",
+      "dominant_soil": "Nora silt loam, 11 to 17 percent slopes",
       "land_capability_class": "II",
       "k_factor_avg": 0.336,
       "slope_avg": 7.7,
@@ -28501,7 +28501,7 @@
     "31045": {
       "county": "Dawes",
       "state": "NE",
-      "dominant_soil": "Bridget silt loam, 9 to 20 percent slopes",
+      "dominant_soil": "Bridget loam, 0 to 1 percent slopes",
       "land_capability_class": "VI",
       "k_factor_avg": 0.329,
       "slope_avg": 7.9,
@@ -28552,7 +28552,7 @@
     "31051": {
       "county": "Dixon",
       "state": "NE",
-      "dominant_soil": "Nora silt loam, 11 to 17 percent slopes",
+      "dominant_soil": "Nora silt loam, 11 to 17 percent slopes, eroded",
       "land_capability_class": "II",
       "k_factor_avg": 0.268,
       "slope_avg": 6.5,
@@ -28569,7 +28569,7 @@
     "31053": {
       "county": "Dodge",
       "state": "NE",
-      "dominant_soil": "Cass fine sandy loam, clayey substratum, rarely flooded",
+      "dominant_soil": "Cass loam, clayey substratum, rarely flooded",
       "land_capability_class": "II",
       "k_factor_avg": 0.278,
       "slope_avg": 4.6,
@@ -28620,7 +28620,7 @@
     "31059": {
       "county": "Fillmore",
       "state": "NE",
-      "dominant_soil": "Crete silty clay loam, 1 to 3 percent slopes",
+      "dominant_soil": "Crete silt loam, 0 to 1 percent slopes",
       "land_capability_class": "II",
       "k_factor_avg": 0.366,
       "slope_avg": 4.3,
@@ -28705,7 +28705,7 @@
     "31069": {
       "county": "Garden",
       "state": "NE",
-      "dominant_soil": "Valentine loamy fine sand, 0 to 3 percent slopes, dry",
+      "dominant_soil": "Valentine loamy fine sand, 0 to 3 percent slopes",
       "land_capability_class": "VI",
       "k_factor_avg": 0.215,
       "slope_avg": 6.7,
@@ -28773,7 +28773,7 @@
     "31077": {
       "county": "Greeley",
       "state": "NE",
-      "dominant_soil": "Valentine fine sand, rolling",
+      "dominant_soil": "Valentine fine sand, 3 to 9 percent slopes",
       "land_capability_class": "VI",
       "k_factor_avg": 0.273,
       "slope_avg": 6.1,
@@ -28790,7 +28790,7 @@
     "31079": {
       "county": "Hall",
       "state": "NE",
-      "dominant_soil": "Valentine fine sand, 3 to 9 percent slopes",
+      "dominant_soil": "Valentine fine sand, rolling",
       "land_capability_class": "II",
       "k_factor_avg": 0.269,
       "slope_avg": 2.9,
@@ -28841,7 +28841,7 @@
     "31085": {
       "county": "Hayes",
       "state": "NE",
-      "dominant_soil": "Sarben loamy very fine sand, 9 to 20 percent slopes",
+      "dominant_soil": "Sarben loamy very fine sand, 0 to 3 percent slopes",
       "land_capability_class": "II",
       "k_factor_avg": 0.34,
       "slope_avg": 8.8,
@@ -28858,7 +28858,7 @@
     "31087": {
       "county": "Hitchcock",
       "state": "NE",
-      "dominant_soil": "Sulco silt loam, 6 to 9 percent slopes",
+      "dominant_soil": "Sulco silt loam, 9 to 30 percent slopes",
       "land_capability_class": "II",
       "k_factor_avg": 0.342,
       "slope_avg": 5.2,
@@ -28875,7 +28875,7 @@
     "31089": {
       "county": "Holt",
       "state": "NE",
-      "dominant_soil": "Valentine fine sand, 3 to 9 percent slopes",
+      "dominant_soil": "Valentine loamy fine sand, 0 to 3 percent slopes",
       "land_capability_class": "VI",
       "k_factor_avg": 0.164,
       "slope_avg": 5.0,
@@ -28909,7 +28909,7 @@
     "31093": {
       "county": "Howard",
       "state": "NE",
-      "dominant_soil": "Coly silt loam, 11 to 30 percent slopes, moist",
+      "dominant_soil": "Coly silt loam, 3 to 6 percent slopes",
       "land_capability_class": "II",
       "k_factor_avg": 0.273,
       "slope_avg": 4.4,
@@ -28994,7 +28994,7 @@
     "31103": {
       "county": "Keya Paha",
       "state": "NE",
-      "dominant_soil": "Valentine loamy sand, 0 to 3 percent slopes",
+      "dominant_soil": "Valentine fine sand, hilly",
       "land_capability_class": "VI",
       "k_factor_avg": 0.199,
       "slope_avg": 6.2,
@@ -29130,7 +29130,7 @@
     "31119": {
       "county": "Madison",
       "state": "NE",
-      "dominant_soil": "Nora silt loam, 2 to 6 percent slopes, eroded",
+      "dominant_soil": "Nora silty clay loam, 11 to 17 percent slopes",
       "land_capability_class": "II",
       "k_factor_avg": 0.252,
       "slope_avg": 3.6,
@@ -29147,7 +29147,7 @@
     "31121": {
       "county": "Merrick",
       "state": "NE",
-      "dominant_soil": "Valentine loamy fine sand, 3 to 9 percent slopes",
+      "dominant_soil": "Valentine fine sand, 3 to 9 percent slopes",
       "land_capability_class": "II",
       "k_factor_avg": 0.255,
       "slope_avg": 2.4,
@@ -29164,7 +29164,7 @@
     "31123": {
       "county": "Morrill",
       "state": "NE",
-      "dominant_soil": "Busher very fine sandy loam, 9 to 20 percent slopes",
+      "dominant_soil": "Busher very fine sandy loam, 6 to 9 percent slopes",
       "land_capability_class": "VI",
       "k_factor_avg": 0.286,
       "slope_avg": 7.9,
@@ -29181,7 +29181,7 @@
     "31125": {
       "county": "Nance",
       "state": "NE",
-      "dominant_soil": "Hord fine sandy loam, 1 to 3 percent slopes",
+      "dominant_soil": "Hord silt loam, 3 to 6 percent slopes",
       "land_capability_class": "II",
       "k_factor_avg": 0.282,
       "slope_avg": 4.8,
@@ -29249,7 +29249,7 @@
     "31133": {
       "county": "Pawnee",
       "state": "NE",
-      "dominant_soil": "Wymore silty clay loam, 3 to 11 percent slopes, eroded",
+      "dominant_soil": "Wymore silty clay loam, 0 to 2 percent slopes",
       "land_capability_class": "IV",
       "k_factor_avg": 0.291,
       "slope_avg": 7.5,
@@ -29283,7 +29283,7 @@
     "31137": {
       "county": "Phelps",
       "state": "NE",
-      "dominant_soil": "Coly silt loam, 6 to 11 percent slopes, eroded",
+      "dominant_soil": "Coly silt loam, 30 to 60 percent slopes",
       "land_capability_class": "II",
       "k_factor_avg": 0.35,
       "slope_avg": 5.0,
@@ -29300,7 +29300,7 @@
     "31139": {
       "county": "Pierce",
       "state": "NE",
-      "dominant_soil": "Nora silt loam, 2 to 6 percent slopes, eroded",
+      "dominant_soil": "Nora silt loam, 11 to 17 percent slopes",
       "land_capability_class": "II",
       "k_factor_avg": 0.261,
       "slope_avg": 3.8,
@@ -29317,7 +29317,7 @@
     "31141": {
       "county": "Platte",
       "state": "NE",
-      "dominant_soil": "Moody silty clay loam, terrace, 0 to 2 percent slopes",
+      "dominant_soil": "Moody silty clay loam, 6 to 11 percent slopes, eroded",
       "land_capability_class": "II",
       "k_factor_avg": 0.261,
       "slope_avg": 4.2,
@@ -29453,7 +29453,7 @@
     "31157": {
       "county": "Scotts Bluff",
       "state": "NE",
-      "dominant_soil": "Mitchell very fine sandy loam, 1 to 3 percent slopes",
+      "dominant_soil": "Mitchell fine sandy loam, 6 to 9 percent slopes",
       "land_capability_class": "IV",
       "k_factor_avg": 0.299,
       "slope_avg": 7.2,
@@ -29470,7 +29470,7 @@
     "31159": {
       "county": "Seward",
       "state": "NE",
-      "dominant_soil": "Hastings silty clay loam, 7 to 11 percent slopes, severely eroded",
+      "dominant_soil": "Hastings silty clay loam, 11 to 17 percent slopes, severely eroded",
       "land_capability_class": "II",
       "k_factor_avg": 0.321,
       "slope_avg": 7.7,
@@ -29487,7 +29487,7 @@
     "31161": {
       "county": "Sheridan",
       "state": "NE",
-      "dominant_soil": "Valentine loamy fine sand, 0 to 3 percent slopes",
+      "dominant_soil": "Valentine loamy fine sand, 0 to 3 percent slopes, dry",
       "land_capability_class": "VI",
       "k_factor_avg": 0.23,
       "slope_avg": 6.2,
@@ -29521,7 +29521,7 @@
     "31165": {
       "county": "Sioux",
       "state": "NE",
-      "dominant_soil": "Mitchell very fine sandy loam, 1 to 3 percent slopes",
+      "dominant_soil": "Mitchell silt loam, 3 to 6 percent slopes",
       "land_capability_class": "VI",
       "k_factor_avg": 0.324,
       "slope_avg": 7.0,
@@ -29538,7 +29538,7 @@
     "31167": {
       "county": "Stanton",
       "state": "NE",
-      "dominant_soil": "Crofton silt loam, 6 to 11 percent slopes, eroded",
+      "dominant_soil": "Crofton silt loam, 2 to 6 percent slopes, eroded",
       "land_capability_class": "II",
       "k_factor_avg": 0.261,
       "slope_avg": 4.2,
@@ -29555,7 +29555,7 @@
     "31169": {
       "county": "Thayer",
       "state": "NE",
-      "dominant_soil": "Geary silty clay loam, 11 to 30 percent slopes",
+      "dominant_soil": "Geary silty clay loam, 7 to 11 percent slopes, severely eroded",
       "land_capability_class": "IV",
       "k_factor_avg": 0.337,
       "slope_avg": 7.1,
@@ -29606,7 +29606,7 @@
     "31175": {
       "county": "Valley",
       "state": "NE",
-      "dominant_soil": "Valentine loamy fine sand, 0 to 3 percent slopes",
+      "dominant_soil": "Valentine fine sand, rolling",
       "land_capability_class": "II",
       "k_factor_avg": 0.285,
       "slope_avg": 6.2,
@@ -29623,7 +29623,7 @@
     "31177": {
       "county": "Washington",
       "state": "NE",
-      "dominant_soil": "Monona silt loam, 1 to 6 percent slopes, eroded",
+      "dominant_soil": "Monona silt loam, terrace, 0 to 2 percent slopes",
       "land_capability_class": "II",
       "k_factor_avg": 0.325,
       "slope_avg": 6.0,
@@ -29640,7 +29640,7 @@
     "31179": {
       "county": "Wayne",
       "state": "NE",
-      "dominant_soil": "Nora silty clay loam, 11 to 17 percent slopes",
+      "dominant_soil": "Nora silt loam, 11 to 17 percent slopes, eroded",
       "land_capability_class": "II",
       "k_factor_avg": 0.282,
       "slope_avg": 4.9,
@@ -42985,7 +42985,7 @@
     "48011": {
       "county": "Armstrong",
       "state": "TX",
-      "dominant_soil": "Wichita loam, 3 to 5 percent slopes",
+      "dominant_soil": "Wichita loam, 0 to 1 percent slopes",
       "land_capability_class": "III",
       "k_factor_avg": 0.278,
       "slope_avg": 3.8,
@@ -43121,7 +43121,7 @@
     "48027": {
       "county": "Bell",
       "state": "TX",
-      "dominant_soil": "Wilson clay loam, 2 to 5 percent slopes",
+      "dominant_soil": "Wilson loam, 0 to 1 percent slopes",
       "land_capability_class": "III",
       "k_factor_avg": 0.246,
       "slope_avg": 2.9,
@@ -43478,7 +43478,7 @@
     "48069": {
       "county": "Castro",
       "state": "TX",
-      "dominant_soil": "Estacado loam, 1 to 3 percent slopes",
+      "dominant_soil": "Estacado loam, 0 to 1 percent slopes",
       "land_capability_class": "III",
       "k_factor_avg": 0.272,
       "slope_avg": 2.2,
@@ -43512,7 +43512,7 @@
     "48073": {
       "county": "Cherokee",
       "state": "TX",
-      "dominant_soil": "Sacul sandy clay loam, strongly sloping, severely eroded",
+      "dominant_soil": "Sacul fine sandy loam, strongly sloping, eroded",
       "land_capability_class": "IV",
       "k_factor_avg": 0.264,
       "slope_avg": 5.0,
@@ -43682,7 +43682,7 @@
     "48093": {
       "county": "Comanche",
       "state": "TX",
-      "dominant_soil": "Pedernales fine sandy loam, 1 to 5 percent slopes, moderately eroded",
+      "dominant_soil": "Pedernales fine sandy loam, 1 to 3 percent slopes",
       "land_capability_class": "III",
       "k_factor_avg": 0.243,
       "slope_avg": 3.5,
@@ -43818,7 +43818,7 @@
     "48109": {
       "county": "Culberson",
       "state": "TX",
-      "dominant_soil": "Bissett-Rock outcrop complex, moist, 20 to 65 percent slopes",
+      "dominant_soil": "Bissett-Rock outcrop complex, moist, 3 to 20 percent slopes",
       "land_capability_class": "VII",
       "k_factor_avg": 0.24,
       "slope_avg": 13.3,
@@ -43903,7 +43903,7 @@
     "48119": {
       "county": "Delta",
       "state": "TX",
-      "dominant_soil": "Severn very fine loam, 0 to 2 percent slopes",
+      "dominant_soil": "Severn silty clay loam, 0 to 1 percent slopes, overwash",
       "land_capability_class": "III",
       "k_factor_avg": 0.33,
       "slope_avg": 2.1,
@@ -43920,7 +43920,7 @@
     "48121": {
       "county": "Denton",
       "state": "TX",
-      "dominant_soil": "Navo clay loam, 1 to 3 percent slopes",
+      "dominant_soil": "Navo clay loam, 0 to 1 percent slopes",
       "land_capability_class": "III",
       "k_factor_avg": 0.245,
       "slope_avg": 3.1,
@@ -44022,7 +44022,7 @@
     "48133": {
       "county": "Eastland",
       "state": "TX",
-      "dominant_soil": "Pedernales fine sandy loam, 3 to 5 percent slopes",
+      "dominant_soil": "Pedernales fine sandy loam, 1 to 5 percent slopes, moderately eroded",
       "land_capability_class": "III",
       "k_factor_avg": 0.273,
       "slope_avg": 3.6,
@@ -44090,7 +44090,7 @@
     "48141": {
       "county": "El Paso",
       "state": "TX",
-      "dominant_soil": "Reyab silt loam, 0 to 1 percent slopes",
+      "dominant_soil": "Reyab loam, 0 to 1 percent slopes, ponded",
       "land_capability_class": "VII",
       "k_factor_avg": 0.178,
       "slope_avg": 14.7,
@@ -44141,7 +44141,7 @@
     "48147": {
       "county": "Fannin",
       "state": "TX",
-      "dominant_soil": "Whakana very fine sandy loam, 5 to 12 percent slopes",
+      "dominant_soil": "Whakana very fine sandy loam, 1 to 3 percent slopes",
       "land_capability_class": "II",
       "k_factor_avg": 0.333,
       "slope_avg": 3.2,
@@ -44158,7 +44158,7 @@
     "48149": {
       "county": "Fayette",
       "state": "TX",
-      "dominant_soil": "Gad loamy fine sand, rarely flooded",
+      "dominant_soil": "Gad loamy fine sand, occasionally flooded",
       "land_capability_class": "III",
       "k_factor_avg": 0.259,
       "slope_avg": 4.0,
@@ -44396,7 +44396,7 @@
     "48177": {
       "county": "Gonzales",
       "state": "TX",
-      "dominant_soil": "Edge fine sandy loam, 3 to 8 percent slopes, severely eroded",
+      "dominant_soil": "Edge gravelly fine sandy loam, 2 to 5 percent slopes",
       "land_capability_class": "III",
       "k_factor_avg": 0.263,
       "slope_avg": 3.4,
@@ -44651,7 +44651,7 @@
     "48207": {
       "county": "Haskell",
       "state": "TX",
-      "dominant_soil": "Miles fine sandy loam, 3 to 5 percent slopes, eroded",
+      "dominant_soil": "Miles fine sandy loam, undulating, eroded",
       "land_capability_class": "II",
       "k_factor_avg": 0.235,
       "slope_avg": 3.3,
@@ -45076,7 +45076,7 @@
     "48257": {
       "county": "Kaufman",
       "state": "TX",
-      "dominant_soil": "Wilson silt loam, 1 to 3 percent slopes",
+      "dominant_soil": "Wilson clay loam, 2 to 5 percent slopes, eroded",
       "land_capability_class": "III",
       "k_factor_avg": 0.278,
       "slope_avg": 2.9,
@@ -45212,7 +45212,7 @@
     "48273": {
       "county": "Kleberg",
       "state": "TX",
-      "dominant_soil": "Palobia fine sandy loam, 0 to 3 percent slopes",
+      "dominant_soil": "Palobia loamy fine sand, 0 to 1 percent slopes",
       "land_capability_class": "IV",
       "k_factor_avg": 0.16,
       "slope_avg": 1.7,
@@ -45263,7 +45263,7 @@
     "48279": {
       "county": "Lamb",
       "state": "TX",
-      "dominant_soil": "Mansker loam, 3 to 5 percent slopes",
+      "dominant_soil": "Mansker loam, 1 to 3 percent slopes",
       "land_capability_class": "III",
       "k_factor_avg": 0.253,
       "slope_avg": 2.5,
@@ -45348,7 +45348,7 @@
     "48289": {
       "county": "Leon",
       "state": "TX",
-      "dominant_soil": "Hearne fine sandy loam, graded, 5 to 20 percent slopes",
+      "dominant_soil": "Hearne fine sandy loam, 5 to 20 percent slopes, stony",
       "land_capability_class": "III",
       "k_factor_avg": 0.264,
       "slope_avg": 4.4,
@@ -45399,7 +45399,7 @@
     "48295": {
       "county": "Lipscomb",
       "state": "TX",
-      "dominant_soil": "Mobeetie fine sandy loam, 3 to 5 percent slopes, cool",
+      "dominant_soil": "Mobeetie fine sandy loam, 5 to 8 percent slopes, cool",
       "land_capability_class": "III",
       "k_factor_avg": 0.273,
       "slope_avg": 3.3,
@@ -45416,7 +45416,7 @@
     "48297": {
       "county": "Live Oak",
       "state": "TX",
-      "dominant_soil": "Esseville clay, 0 to 1 percent slopes",
+      "dominant_soil": "Esseville clay, 1 to 3 percent slopes",
       "land_capability_class": "II",
       "k_factor_avg": 0.219,
       "slope_avg": 2.6,
@@ -45467,7 +45467,7 @@
     "48303": {
       "county": "Lubbock",
       "state": "TX",
-      "dominant_soil": "Posey fine sandy loam, 1 to 3 percent slopes",
+      "dominant_soil": "Posey fine sandy loam, 0 to 1 percent slopes",
       "land_capability_class": "III",
       "k_factor_avg": 0.282,
       "slope_avg": 3.1,
@@ -45518,7 +45518,7 @@
     "48309": {
       "county": "McLennan",
       "state": "TX",
-      "dominant_soil": "Heiden clay, 1 to 3 percent slopes",
+      "dominant_soil": "Heiden clay, 5 to 8 percent slopes",
       "land_capability_class": "III",
       "k_factor_avg": 0.245,
       "slope_avg": 4.4,
@@ -45552,7 +45552,7 @@
     "48313": {
       "county": "Madison",
       "state": "TX",
-      "dominant_soil": "Zack fine sandy loam, 1 to 5 percent slopes",
+      "dominant_soil": "Zack fine sandy loam, 3 to 8 percent slopes, eroded",
       "land_capability_class": "III",
       "k_factor_avg": 0.308,
       "slope_avg": 2.7,
@@ -45909,7 +45909,7 @@
     "48355": {
       "county": "Nueces",
       "state": "TX",
-      "dominant_soil": "Aransas clay, 0 to 1 percent slopes, occasionally flooded",
+      "dominant_soil": "Aransas clay, 0 to 1 percent slopes, slightly saline, moderately sodic, frequently flooded",
       "land_capability_class": "II",
       "k_factor_avg": 0.211,
       "slope_avg": 2.9,
@@ -46521,7 +46521,7 @@
     "48427": {
       "county": "Starr",
       "state": "TX",
-      "dominant_soil": "Rio Grande silt loam, 0 to 1 percent slopes",
+      "dominant_soil": "Rio Grande silt loam, 1 to 3 percent slopes",
       "land_capability_class": "III",
       "k_factor_avg": 0.278,
       "slope_avg": 1.7,
@@ -46742,7 +46742,7 @@
     "48453": {
       "county": "Travis",
       "state": "TX",
-      "dominant_soil": "Bergstrom silty clay loam, 0 to 1 percent slopes, rarely flooded",
+      "dominant_soil": "Bergstrom silt loam, 1 to 3 percent slopes, rarely flooded",
       "land_capability_class": "III",
       "k_factor_avg": 0.223,
       "slope_avg": 4.7,
@@ -46861,7 +46861,7 @@
     "48467": {
       "county": "Van Zandt",
       "state": "TX",
-      "dominant_soil": "Crockett loam, 3 to 5 percent slopes",
+      "dominant_soil": "Crockett loam, 0 to 1 percent slopes",
       "land_capability_class": "VI",
       "k_factor_avg": 0.309,
       "slope_avg": 4.9,
@@ -47065,7 +47065,7 @@
     "48491": {
       "county": "Williamson",
       "state": "TX",
-      "dominant_soil": "Wilson loam, 0 to 1 percent slopes",
+      "dominant_soil": "Wilson clay loam, 2 to 5 percent slopes",
       "land_capability_class": "III",
       "k_factor_avg": 0.257,
       "slope_avg": 2.9,
@@ -47150,7 +47150,7 @@
     "48501": {
       "county": "Yoakum",
       "state": "TX",
-      "dominant_soil": "Midessa fine sandy loam, 3 to 8 percent slopes",
+      "dominant_soil": "Midessa fine sandy loam, 1 to 3 percent slopes",
       "land_capability_class": "III",
       "k_factor_avg": 0.228,
       "slope_avg": 2.5,
