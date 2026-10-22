@@ -1,14 +1,14 @@
 {
-  "report_date": "2026-10-21",
-  "composite": 74.5,
-  "composite_change": -4.03,
+  "report_date": "2026-10-22",
+  "composite": 75.23,
+  "composite_change": 0.73,
   "primals": {
-    "loin": 78.35,
-    "butt": 102.62,
-    "picnic": 55.51,
-    "rib": 140.89,
-    "ham": 61.43,
-    "belly": 77.66
+    "loin": 77.84,
+    "butt": 99.68,
+    "picnic": 55.3,
+    "rib": 142.72,
+    "ham": 61.2,
+    "belly": 84.59
   },
-  "fetched_at": "2026-10-22T19:35:10.671366"
+  "fetched_at": "2026-10-22T22:56:45.851256"
 }
