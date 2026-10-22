@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-21T22:52:54Z",
+  "fetched": "2026-10-22T19:26:40Z",
   "note": "Public AMS PDFs parsed via pdftotext. Sorghum from TX/KS daily grain bids; barley from MT daily; DDGs from weekly national grain co-products report; rice from weekly national rice summary. Closes freshness audit items 8-9.",
   "sorghum_tx": {
     "slug": "2711",
@@ -32,40 +32,40 @@
     "source": "Kansas Daily Grain Bids",
     "frequency": "daily",
     "unit": "$/bu",
-    "report_date": "2026-10-21",
-    "avg": 3.9044,
+    "report_date": "2026-10-22",
+    "avg": 3.8769,
     "rows": [
       {
         "region": "Northwest",
-        "price": 4.0075
+        "price": 3.98
       },
       {
         "region": "Southwest",
-        "price": 3.9325
+        "price": 3.905
       },
       {
         "region": "South",
-        "price": 3.8825
+        "price": 3.855
       },
       {
         "region": "West",
-        "price": 3.9325
+        "price": 3.905
       },
       {
         "region": "Central",
-        "price": 3.7825
+        "price": 3.755
       },
       {
         "region": "Southeast",
-        "price": 3.8325
+        "price": 3.805
       },
       {
         "region": "North",
-        "price": 3.8325
+        "price": 3.805
       },
       {
         "region": "East",
-        "price": 4.0325
+        "price": 4.005
       }
     ]
   },
@@ -74,7 +74,7 @@
     "source": "Montana Daily Elevator Grain Bids",
     "frequency": "daily",
     "unit": "$/bu",
-    "report_date": "2026-10-21",
+    "report_date": "2026-10-22",
     "avg": 3.64,
     "rows": [
       {
@@ -88,32 +88,32 @@
     "source": "National Weekly Grain Co-Products Report",
     "frequency": "weekly",
     "unit": "$/ton",
-    "report_date": "2026-10-05",
-    "avg_dried": 195.75,
+    "report_date": "2026-10-12",
+    "avg_dried": 194.76,
     "rows_dried": [
       {
         "region": "Illinois",
-        "price": 202.5
+        "price": 208.5
       },
       {
         "region": "Indiana",
-        "price": 187.88
+        "price": 183.5
       },
       {
         "region": "Iowa",
-        "price": 182.71
+        "price": 184.38
       },
       {
         "region": "Kansas",
-        "price": 217.5
+        "price": 220.0
       },
       {
         "region": "Michigan",
-        "price": 191.0
+        "price": 186.13
       },
       {
         "region": "Minnesota",
-        "price": 188.75
+        "price": 185.25
       },
       {
         "region": "Missouri",
@@ -121,22 +121,22 @@
       },
       {
         "region": "Nebraska",
-        "price": 207.5
+        "price": 205.0
       },
       {
         "region": "Ohio",
-        "price": 192.88
+        "price": 188.75
       },
       {
         "region": "South Dakota",
-        "price": 195.0
+        "price": 193.33
       },
       {
         "region": "Wisconsin",
         "price": 175.0
       }
     ],
-    "avg_wet": 61.19,
+    "avg_wet": 61.3,
     "rows_wet": [
       {
         "region": "Iowa",
@@ -144,7 +144,7 @@
       },
       {
         "region": "Kansas",
-        "price": 70.33
+        "price": 71.0
       },
       {
         "region": "Minnesota",
