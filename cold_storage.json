@@ -1,20 +1,20 @@
 {
-  "fetched": "2026-10-22T22:56:48Z",
-  "report_month": "August 2026",
+  "fetched": "2026-10-23T19:39:03Z",
+  "report_month": "September 2026",
   "beef": {
-    "total_lbs_million": 407,
-    "year_ago_lbs_million": 387,
-    "pct_of_year_ago": 105.2
+    "total_lbs_million": 400,
+    "year_ago_lbs_million": 403,
+    "pct_of_year_ago": 99.3
   },
   "pork": {
-    "total_lbs_million": 436,
-    "year_ago_lbs_million": 389,
-    "pct_of_year_ago": 112.0
+    "total_lbs_million": 428,
+    "year_ago_lbs_million": 393,
+    "pct_of_year_ago": 108.8
   },
   "total": {
     "label": "beef + pork",
-    "total_lbs_million": 843,
-    "year_ago_lbs_million": 777,
-    "pct_of_year_ago": 108.6
+    "total_lbs_million": 828,
+    "year_ago_lbs_million": 796,
+    "pct_of_year_ago": 104.0
   }
 }
