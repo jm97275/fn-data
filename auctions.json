@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-23T22:52:23Z",
+  "fetched_at": "2026-10-24T18:30:25Z",
   "markets": [
     {
       "slug": "1979",
@@ -9887,89 +9887,83 @@
       "state": "NM",
       "lat": 34.7666,
       "lon": -106.8085,
-      "sale_date": "2026-10-16",
-      "receipts": 624,
+      "sale_date": "2026-10-23",
+      "receipts": 296,
       "feeder_steers": {
-        "5_6": {
-          "avg": 365.3,
-          "low": 332.5,
-          "high": 430.0,
-          "head": 74
-        },
-        "3_4": {
-          "avg": 479.88,
-          "low": 445.0,
-          "high": 510.0,
-          "head": 43
-        },
         "6_7": {
-          "avg": 334.34,
-          "low": 327.0,
-          "high": 370.0,
-          "head": 51
-        },
-        "8_9": {
-          "avg": 302.5,
-          "low": 280.0,
-          "high": 325.0,
-          "head": 2
-        },
-        "7_8": {
-          "avg": 312.75,
-          "low": 305.0,
-          "high": 325.0,
-          "head": 9
+          "avg": 334.27,
+          "low": 330.0,
+          "high": 355.0,
+          "head": 8
         },
         "4_5": {
-          "avg": 439.48,
-          "low": 400.0,
-          "high": 490.0,
-          "head": 59
+          "avg": 419.1,
+          "low": 405.0,
+          "high": 435.0,
+          "head": 18
+        },
+        "5_6": {
+          "avg": 375.7,
+          "low": 345.0,
+          "high": 420.0,
+          "head": 15
+        },
+        "3_4": {
+          "avg": 459.18,
+          "low": 450.0,
+          "high": 475.0,
+          "head": 11
+        },
+        "7_8": {
+          "avg": 320.41,
+          "low": 305.0,
+          "high": 337.0,
+          "head": 5
         }
       },
       "feeder_heifers": {
-        "3_4": {
-          "avg": 399.6,
-          "low": 370.0,
-          "high": 445.0,
-          "head": 29
-        },
-        "5_6": {
-          "avg": 341.59,
-          "low": 305.0,
-          "high": 365.0,
-          "head": 61
-        },
-        "4_5": {
-          "avg": 396.79,
-          "low": 365.0,
-          "high": 435.0,
-          "head": 22
-        },
-        "7_8": {
-          "avg": 310.0,
-          "low": 310.0,
-          "high": 310.0,
-          "head": 2
+        "8_9": {
+          "avg": 297.29,
+          "low": 292.0,
+          "high": 300.0,
+          "head": 3
         },
         "6_7": {
-          "avg": 334.1,
+          "avg": 336.19,
           "low": 330.0,
           "high": 350.0,
-          "head": 5
+          "head": 4
         },
-        "8_9": {
-          "avg": 290.0,
-          "low": 290.0,
-          "high": 290.0,
-          "head": 1
+        "3_4": {
+          "avg": 426.98,
+          "low": 365.0,
+          "high": 450.0,
+          "head": 8
+        },
+        "4_5": {
+          "avg": 401.71,
+          "low": 380.0,
+          "high": 435.0,
+          "head": 16
+        },
+        "7_8": {
+          "avg": 313.0,
+          "low": 313.0,
+          "high": 313.0,
+          "head": 3
+        },
+        "5_6": {
+          "avg": 350.6,
+          "low": 330.0,
+          "high": 375.0,
+          "head": 24
         }
       },
       "slaughter_cows": {
-        "avg": 148.85,
-        "head": 211
+        "avg": 141.08,
+        "head": 131
       },
-      "five_wt_steer_avg": 365.3,
+      "five_wt_steer_avg": 375.7,
       "grade_used": "Medium and Large 1",
       "grade_fallback": false
     },
@@ -14310,89 +14304,182 @@
       "grade_fallback": false
     },
     {
+      "slug": "1880",
+      "name": "Jackson County Regional Livestock Market",
+      "city": "Ripley",
+      "state": "WV",
+      "lat": 38.8216,
+      "lon": -81.7093,
+      "sale_date": "2026-10-17",
+      "receipts": 498,
+      "feeder_steers": {
+        "6_7": {
+          "avg": 344.87,
+          "low": 327.0,
+          "high": 354.0,
+          "head": 43
+        },
+        "4_5": {
+          "avg": 420.84,
+          "low": 380.0,
+          "high": 450.0,
+          "head": 27
+        },
+        "3_4": {
+          "avg": 432.31,
+          "low": 410.0,
+          "high": 470.0,
+          "head": 16
+        },
+        "8_9": {
+          "avg": 335.44,
+          "low": 310.0,
+          "high": 336.5,
+          "head": 49
+        },
+        "5_6": {
+          "avg": 394.97,
+          "low": 332.0,
+          "high": 435.0,
+          "head": 25
+        }
+      },
+      "feeder_heifers": {
+        "3_4": {
+          "avg": 396.92,
+          "low": 370.0,
+          "high": 445.0,
+          "head": 17
+        },
+        "4_5": {
+          "avg": 352.95,
+          "low": 345.0,
+          "high": 372.5,
+          "head": 10
+        },
+        "6_7": {
+          "avg": 300.12,
+          "low": 285.0,
+          "high": 322.0,
+          "head": 11
+        },
+        "5_6": {
+          "avg": 326.3,
+          "low": 280.0,
+          "high": 352.0,
+          "head": 20
+        },
+        "7_8": {
+          "avg": 287.0,
+          "low": 287.0,
+          "high": 287.0,
+          "head": 1
+        },
+        "8_9": {
+          "avg": 263.5,
+          "low": 235.0,
+          "high": 292.0,
+          "head": 2
+        }
+      },
+      "slaughter_cows": {
+        "avg": 131.57,
+        "head": 46
+      },
+      "five_wt_steer_avg": 394.97,
+      "grade_used": "Medium and Large 1",
+      "grade_fallback": false
+    },
+    {
       "slug": "1876",
       "name": "Preston Farmers Market",
       "city": "Terra Alta",
       "state": "WV",
       "lat": 39.4443,
       "lon": -79.5436,
-      "sale_date": "2026-10-16",
-      "receipts": 203,
+      "sale_date": "2026-10-23",
+      "receipts": 89,
       "feeder_steers": {
         "4_5": {
-          "avg": 380.0,
-          "low": 335.0,
-          "high": 395.0,
-          "head": 4
-        },
-        "5_6": {
-          "avg": 382.9,
-          "low": 360.0,
-          "high": 395.0,
-          "head": 20
+          "avg": 420.0,
+          "low": 420.0,
+          "high": 420.0,
+          "head": 1
         },
         "3_4": {
-          "avg": 419.0,
-          "low": 415.0,
+          "avg": 425.0,
+          "low": 420.0,
           "high": 435.0,
-          "head": 5
-        },
-        "7_8": {
-          "avg": 335.0,
-          "low": 335.0,
-          "high": 335.0,
           "head": 3
         },
-        "6_7": {
-          "avg": 301.23,
-          "low": 285.0,
-          "high": 315.0,
-          "head": 17
+        "5_6": {
+          "avg": 382.86,
+          "low": 375.0,
+          "high": 386.0,
+          "head": 7
         },
         "8_9": {
-          "avg": 294.5,
-          "low": 292.5,
-          "high": 300.0,
-          "head": 8
+          "avg": 270.0,
+          "low": 270.0,
+          "high": 270.0,
+          "head": 1
+        },
+        "6_7": {
+          "avg": 340.0,
+          "low": 340.0,
+          "high": 340.0,
+          "head": 1
+        },
+        "7_8": {
+          "avg": 310.0,
+          "low": 310.0,
+          "high": 310.0,
+          "head": 1
         }
       },
       "feeder_heifers": {
         "5_6": {
-          "avg": 326.36,
-          "low": 300.0,
-          "high": 340.0,
-          "head": 22
-        },
-        "3_4": {
-          "avg": 330.0,
-          "low": 330.0,
-          "high": 330.0,
-          "head": 1
-        },
-        "6_7": {
-          "avg": 277.88,
-          "low": 240.0,
-          "high": 285.0,
-          "head": 7
-        },
-        "7_8": {
-          "avg": 220.06,
-          "low": 210.0,
-          "high": 230.0,
-          "head": 2
+          "avg": 310.25,
+          "low": 275.0,
+          "high": 327.5,
+          "head": 10
         },
         "4_5": {
-          "avg": 405.0,
-          "low": 405.0,
-          "high": 405.0,
+          "avg": 351.93,
+          "low": 325.0,
+          "high": 375.0,
+          "head": 6
+        },
+        "6_7": {
+          "avg": 288.4,
+          "low": 250.0,
+          "high": 305.0,
+          "head": 9
+        },
+        "3_4": {
+          "avg": 305.28,
+          "low": 300.0,
+          "high": 310.0,
+          "head": 2
+        },
+        "8_9": {
+          "avg": 212.46,
+          "low": 200.0,
+          "high": 225.0,
+          "head": 2
+        },
+        "7_8": {
+          "avg": 292.15,
+          "low": 285.0,
+          "high": 295.0,
           "head": 7
         }
       },
       "slaughter_cows": {
-        "avg": 117.1,
-        "head": 31
+        "avg": 134.55,
+        "head": 30
       },
-      "five_wt_steer_avg": 382.9,
+      "five_wt_steer_avg": 382.86,
       "grade_used": "Medium and Large 1",
       "grade_fallback": false
     },
