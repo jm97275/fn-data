@@ -1,18 +1,15 @@
 {
-  "report_date": "2026-10-26",
-  "fetched": "2026-10-26T20:43:42Z",
+  "report_date": "2026-10-27",
+  "fetched": "2026-10-27T20:13:08Z",
   "five_area": {
-    "live_weighted_avg": 227.29,
+    "live_weighted_avg": 222.0,
     "live_range": [
-      224.0,
-      228.5
+      222.0,
+      222.0
     ],
-    "dressed_weighted_avg": 357.76,
-    "dressed_range": [
-      355.0,
-      358.0
-    ],
-    "head_count": 22200
+    "dressed_weighted_avg": null,
+    "dressed_range": null,
+    "head_count": 32
   },
-  "prior_week_live_avg": 224.46
+  "prior_week_live_avg": 227.29
 }
