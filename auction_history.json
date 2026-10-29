@@ -1,0 +1,456 @@
+{
+  "updated": "2026-10-29",
+  "latest_sale": "2026-10-29",
+  "windows": {
+    "this_week": [
+      "2026-10-23",
+      "2026-10-29"
+    ],
+    "avg_4wk": [
+      "2026-10-02",
+      "2026-10-29"
+    ],
+    "year_ago": [
+      "2025-10-24",
+      "2025-10-30"
+    ]
+  },
+  "method": "$/cwt, head-weighted across market sales in each window; Medium and Large 1 rows only (no fallback grades), captured since 2026-10-10T15:27:56Z. Regions: all_markets, then states.",
+  "source": "USDA AMS Market News, livestock auction reports (MARS API)",
+  "source_url": "https://www.ams.usda.gov/market-news",
+  "archive": "https://github.com/jm97275/fn-data/tree/main/auction_archive",
+  "regions": {
+    "all_markets": {
+      "this_week": {
+        "steers_500_600": 445.41,
+        "steers_600_700": 397.07,
+        "heifers_500_600": 394.58
+      },
+      "avg_4wk": {
+        "steers_500_600": 442.08,
+        "steers_600_700": 393.2,
+        "heifers_500_600": 389.03
+      },
+      "year_ago": {
+        "steers_500_600": null,
+        "steers_600_700": null,
+        "heifers_500_600": null
+      },
+      "markets": 129
+    },
+    "al": {
+      "this_week": {
+        "steers_500_600": 400.12,
+        "steers_600_700": 354.77,
+        "heifers_500_600": 334.9
+      },
+      "avg_4wk": {
+        "steers_500_600": 393.57,
+        "steers_600_700": 348.03,
+        "heifers_500_600": 343.08
+      },
+      "year_ago": {
+        "steers_500_600": null,
+        "steers_600_700": null,
+        "heifers_500_600": null
+      },
+      "markets": 8
+    },
+    "ar": {
+      "this_week": {
+        "steers_500_600": 378.95,
+        "steers_600_700": 346.67,
+        "heifers_500_600": 340.9
+      },
+      "avg_4wk": {
+        "steers_500_600": 387.94,
+        "steers_600_700": 346.71,
+        "heifers_500_600": 344.09
+      },
+      "year_ago": {
+        "steers_500_600": null,
+        "steers_600_700": null,
+        "heifers_500_600": null
+      },
+      "markets": 4
+    },
+    "co": {
+      "this_week": {
+        "steers_500_600": 456.09,
+        "steers_600_700": 403.04,
+        "heifers_500_600": 412.68
+      },
+      "avg_4wk": {
+        "steers_500_600": 450.37,
+        "steers_600_700": 393.11,
+        "heifers_500_600": 395.26
+      },
+      "year_ago": {
+        "steers_500_600": null,
+        "steers_600_700": null,
+        "heifers_500_600": null
+      },
+      "markets": 2
+    },
+    "fl": {
+      "this_week": {
+        "steers_500_600": 364.87,
+        "steers_600_700": 328.12,
+        "heifers_500_600": 327.48
+      },
+      "avg_4wk": {
+        "steers_500_600": 373.5,
+        "steers_600_700": 334.6,
+        "heifers_500_600": 336.09
+      },
+      "year_ago": {
+        "steers_500_600": null,
+        "steers_600_700": null,
+        "heifers_500_600": null
+      },
+      "markets": 5
+    },
+    "ga": {
+      "this_week": {
+        "steers_500_600": 384.2,
+        "steers_600_700": 349.49,
+        "heifers_500_600": 335.37
+      },
+      "avg_4wk": {
+        "steers_500_600": 381.55,
+        "steers_600_700": 347.02,
+        "heifers_500_600": 336.05
+      },
+      "year_ago": {
+        "steers_500_600": null,
+        "steers_600_700": null,
+        "heifers_500_600": null
+      },
+      "markets": 13
+    },
+    "ia": {
+      "this_week": {
+        "steers_500_600": 449.19,
+        "steers_600_700": 384.15,
+        "heifers_500_600": 393.94
+      },
+      "avg_4wk": {
+        "steers_500_600": 438.65,
+        "steers_600_700": 392.65,
+        "heifers_500_600": 382.64
+      },
+      "year_ago": {
+        "steers_500_600": null,
+        "steers_600_700": null,
+        "heifers_500_600": null
+      },
+      "markets": 4
+    },
+    "ks": {
+      "this_week": {
+        "steers_500_600": 433.55,
+        "steers_600_700": 396.44,
+        "heifers_500_600": 361.7
+      },
+      "avg_4wk": {
+        "steers_500_600": 442.67,
+        "steers_600_700": 393.22,
+        "heifers_500_600": 379.71
+      },
+      "year_ago": {
+        "steers_500_600": null,
+        "steers_600_700": null,
+        "heifers_500_600": null
+      },
+      "markets": 1
+    },
+    "mo": {
+      "this_week": {
+        "steers_500_600": 426.91,
+        "steers_600_700": 389.76,
+        "heifers_500_600": 379.64
+      },
+      "avg_4wk": {
+        "steers_500_600": 421.73,
+        "steers_600_700": 384.91,
+        "heifers_500_600": 376.44
+      },
+      "year_ago": {
+        "steers_500_600": null,
+        "steers_600_700": null,
+        "heifers_500_600": null
+      },
+      "markets": 16
+    },
+    "ms": {
+      "this_week": {
+        "steers_500_600": 370.45,
+        "steers_600_700": 335.37,
+        "heifers_500_600": 322.06
+      },
+      "avg_4wk": {
+        "steers_500_600": 366.19,
+        "steers_600_700": 334.98,
+        "heifers_500_600": 330.1
+      },
+      "year_ago": {
+        "steers_500_600": null,
+        "steers_600_700": null,
+        "heifers_500_600": null
+      },
+      "markets": 13
+    },
+    "mt": {
+      "this_week": {
+        "steers_500_600": 453.73,
+        "steers_600_700": 405.39,
+        "heifers_500_600": 387.85
+      },
+      "avg_4wk": {
+        "steers_500_600": 442.67,
+        "steers_600_700": 404.4,
+        "heifers_500_600": 397.59
+      },
+      "year_ago": {
+        "steers_500_600": null,
+        "steers_600_700": null,
+        "heifers_500_600": null
+      },
+      "markets": 2
+    },
+    "nc": {
+      "this_week": {
+        "steers_500_600": 366.21,
+        "steers_600_700": 330.14,
+        "heifers_500_600": 325.36
+      },
+      "avg_4wk": {
+        "steers_500_600": 361.39,
+        "steers_600_700": 334.41,
+        "heifers_500_600": 323.05
+      },
+      "year_ago": {
+        "steers_500_600": null,
+        "steers_600_700": null,
+        "heifers_500_600": null
+      },
+      "markets": 7
+    },
+    "nd": {
+      "this_week": {
+        "steers_500_600": 451.05,
+        "steers_600_700": 414.19,
+        "heifers_500_600": 409.94
+      },
+      "avg_4wk": {
+        "steers_500_600": 447.32,
+        "steers_600_700": 405.47,
+        "heifers_500_600": 402.25
+      },
+      "year_ago": {
+        "steers_500_600": null,
+        "steers_600_700": null,
+        "heifers_500_600": null
+      },
+      "markets": 1
+    },
+    "ne": {
+      "this_week": {
+        "steers_500_600": 459.54,
+        "steers_600_700": 415.83,
+        "heifers_500_600": 421.58
+      },
+      "avg_4wk": {
+        "steers_500_600": 461.97,
+        "steers_600_700": 416.17,
+        "heifers_500_600": 427.8
+      },
+      "year_ago": {
+        "steers_500_600": null,
+        "steers_600_700": null,
+        "heifers_500_600": null
+      },
+      "markets": 7
+    },
+    "nm": {
+      "this_week": {
+        "steers_500_600": 392.77,
+        "steers_600_700": 350.43,
+        "heifers_500_600": 338.28
+      },
+      "avg_4wk": {
+        "steers_500_600": 401.39,
+        "steers_600_700": 350.61,
+        "heifers_500_600": 342.38
+      },
+      "year_ago": {
+        "steers_500_600": null,
+        "steers_600_700": null,
+        "heifers_500_600": null
+      },
+      "markets": 3
+    },
+    "ok": {
+      "this_week": {
+        "steers_500_600": 431.07,
+        "steers_600_700": 382.11,
+        "heifers_500_600": 371.12
+      },
+      "avg_4wk": {
+        "steers_500_600": 415.05,
+        "steers_600_700": 375.9,
+        "heifers_500_600": 361.77
+      },
+      "year_ago": {
+        "steers_500_600": null,
+        "steers_600_700": null,
+        "heifers_500_600": null
+      },
+      "markets": 6
+    },
+    "sc": {
+      "this_week": {
+        "steers_500_600": 369.96,
+        "steers_600_700": 331.88,
+        "heifers_500_600": 327.63
+      },
+      "avg_4wk": {
+        "steers_500_600": 368.86,
+        "steers_600_700": 331.81,
+        "heifers_500_600": 331.72
+      },
+      "year_ago": {
+        "steers_500_600": null,
+        "steers_600_700": null,
+        "heifers_500_600": null
+      },
+      "markets": 5
+    },
+    "sd": {
+      "this_week": {
+        "steers_500_600": 464.64,
+        "steers_600_700": 427.95,
+        "heifers_500_600": 435.28
+      },
+      "avg_4wk": {
+        "steers_500_600": 461.59,
+        "steers_600_700": 424.25,
+        "heifers_500_600": 423.38
+      },
+      "year_ago": {
+        "steers_500_600": null,
+        "steers_600_700": null,
+        "heifers_500_600": null
+      },
+      "markets": 6
+    },
+    "tn": {
+      "this_week": {
+        "steers_500_600": 391.34,
+        "steers_600_700": 355.06,
+        "heifers_500_600": 342.49
+      },
+      "avg_4wk": {
+        "steers_500_600": 383.45,
+        "steers_600_700": 349.83,
+        "heifers_500_600": 344.48
+      },
+      "year_ago": {
+        "steers_500_600": null,
+        "steers_600_700": null,
+        "heifers_500_600": null
+      },
+      "markets": 10
+    },
+    "tx": {
+      "this_week": {
+        "steers_500_600": 380.55,
+        "steers_600_700": 353.21,
+        "heifers_500_600": 380.53
+      },
+      "avg_4wk": {
+        "steers_500_600": 395.84,
+        "steers_600_700": 349.19,
+        "heifers_500_600": 357.25
+      },
+      "year_ago": {
+        "steers_500_600": null,
+        "steers_600_700": null,
+        "heifers_500_600": null
+      },
+      "markets": 2
+    },
+    "ut": {
+      "this_week": {
+        "steers_500_600": 423.87,
+        "steers_600_700": 380.57,
+        "heifers_500_600": 387.45
+      },
+      "avg_4wk": {
+        "steers_500_600": 427.7,
+        "steers_600_700": 383.95,
+        "heifers_500_600": 391.94
+      },
+      "year_ago": {
+        "steers_500_600": null,
+        "steers_600_700": null,
+        "heifers_500_600": null
+      },
+      "markets": 2
+    },
+    "va": {
+      "this_week": {
+        "steers_500_600": 394.95,
+        "steers_600_700": 355.68,
+        "heifers_500_600": 338.5
+      },
+      "avg_4wk": {
+        "steers_500_600": 396.03,
+        "steers_600_700": 351.56,
+        "heifers_500_600": 331.43
+      },
+      "year_ago": {
+        "steers_500_600": null,
+        "steers_600_700": null,
+        "heifers_500_600": null
+      },
+      "markets": 8
+    },
+    "wv": {
+      "this_week": {
+        "steers_500_600": 385.23,
+        "steers_600_700": 326.67,
+        "heifers_500_600": 298.01
+      },
+      "avg_4wk": {
+        "steers_500_600": 386.09,
+        "steers_600_700": 340.65,
+        "heifers_500_600": 318.8
+      },
+      "year_ago": {
+        "steers_500_600": null,
+        "steers_600_700": null,
+        "heifers_500_600": null
+      },
+      "markets": 2
+    },
+    "wy": {
+      "this_week": {
+        "steers_500_600": 455.12,
+        "steers_600_700": 406.98,
+        "heifers_500_600": 409.47
+      },
+      "avg_4wk": {
+        "steers_500_600": 457.66,
+        "steers_600_700": 411.13,
+        "heifers_500_600": 413.75
+      },
+      "year_ago": {
+        "steers_500_600": null,
+        "steers_600_700": null,
+        "heifers_500_600": null
+      },
+      "markets": 2
+    }
+  }
+}

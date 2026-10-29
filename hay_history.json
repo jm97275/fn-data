@@ -885,5 +885,45 @@
         "WA"
       ]
     }
+  },
+  {
+    "date": "2026-10-30",
+    "prices": {
+      "alfalfa": 260,
+      "grass": 183
+    },
+    "method": "ams_direct_hay_latest_week_v2",
+    "source": "USDA AMS Direct Hay Reports, per-ton quotes, latest report week",
+    "states": {
+      "alfalfa": [
+        "CA",
+        "ID",
+        "KS",
+        "MO",
+        "MT",
+        "NE",
+        "NM",
+        "OK",
+        "OR",
+        "SD",
+        "TX",
+        "WA",
+        "WY"
+      ],
+      "grass": [
+        "CA",
+        "CO",
+        "IA",
+        "KS",
+        "MO",
+        "MT",
+        "NE",
+        "OK",
+        "OR",
+        "SD",
+        "TX",
+        "WA"
+      ]
+    }
   }
 ]
