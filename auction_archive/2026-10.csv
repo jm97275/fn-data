@@ -7280,6 +7280,8 @@ sale_date,state,slug,market,class,bracket,head,avg,low,high,receipts,grade_used,
 2026-10-29,NE,1856,Valentine Livestock Auction,feeder_heifer,500-600,362,447.48,416.00,515.00,4005,Medium and Large 1,false,head_weighted,2026-10-30T20:19:38Z
 2026-10-29,NE,1856,Valentine Livestock Auction,feeder_heifer,600-700,115,460.88,396.00,502.50,4005,Medium and Large 1,false,head_weighted,2026-10-30T20:19:38Z
 2026-10-29,NE,1856,Valentine Livestock Auction,feeder_heifer,800-900,32,294.42,288.00,304.00,4005,Medium and Large 1,false,head_weighted,2026-10-30T20:19:38Z
+2026-10-29,NY,3692,Empire Livestock Sale,feeder_heifer,400-500,1,320.00,320.00,320.00,79,medium and large 2,true,head_weighted,2026-10-30T23:29:47Z
+2026-10-29,NY,3692,Empire Livestock Sale,slaughter_cow,,60,107.52,,,79,,,head_weighted,2026-10-30T23:29:47Z
 2026-10-29,OK,1828,Woodward Livestock Auction Feeder Cattle,feeder_steer,300-400,2,580.00,580.00,580.00,1603,Medium and Large 1,false,head_weighted,2026-10-30T20:19:38Z
 2026-10-29,OK,1828,Woodward Livestock Auction Feeder Cattle,feeder_steer,400-500,21,512.65,444.00,550.00,1603,Medium and Large 1,false,head_weighted,2026-10-30T20:19:38Z
 2026-10-29,OK,1828,Woodward Livestock Auction Feeder Cattle,feeder_steer,500-600,71,406.86,367.50,447.50,1603,Medium and Large 1,false,head_weighted,2026-10-30T20:19:38Z
@@ -7372,6 +7374,20 @@ sale_date,state,slug,market,class,bracket,head,avg,low,high,receipts,grade_used,
 2026-10-30,KY,2210,Blue Grass Stockyards,feeder_heifer,700-800,11,304.98,275.00,320.00,639,medium and large 1-2,true,head_weighted,2026-10-30T20:19:38Z
 2026-10-30,KY,2210,Blue Grass Stockyards,feeder_heifer,800-900,4,315.00,315.00,315.00,639,medium and large 1-2,true,head_weighted,2026-10-30T20:19:38Z
 2026-10-30,KY,2210,Blue Grass Stockyards,slaughter_cow,,23,107.13,,,639,,,head_weighted,2026-10-30T20:19:38Z
+2026-10-30,MO,1810,Eastern MO Commission Company,feeder_steer,400-500,7,479.22,475.00,482.50,331,Medium and Large 1,false,head_weighted,2026-10-30T23:29:47Z
+2026-10-30,MO,1810,Eastern MO Commission Company,feeder_steer,500-600,5,433.01,430.00,435.00,331,Medium and Large 1,false,head_weighted,2026-10-30T23:29:47Z
+2026-10-30,MO,1810,Eastern MO Commission Company,feeder_heifer,500-600,7,385.00,385.00,385.00,331,Medium and Large 1,false,head_weighted,2026-10-30T23:29:47Z
+2026-10-30,MO,1810,Eastern MO Commission Company,slaughter_cow,,94,138.82,,,331,,,head_weighted,2026-10-30T23:29:47Z
+2026-10-30,NE,1849,Lexington Livestock Market,feeder_steer,300-400,6,549.00,549.00,549.00,1935,Medium and Large 1,false,head_weighted,2026-10-30T23:29:47Z
+2026-10-30,NE,1849,Lexington Livestock Market,feeder_steer,400-500,99,489.36,461.00,514.00,1935,Medium and Large 1,false,head_weighted,2026-10-30T23:29:47Z
+2026-10-30,NE,1849,Lexington Livestock Market,feeder_steer,500-600,456,440.97,400.00,482.00,1935,Medium and Large 1,false,head_weighted,2026-10-30T23:29:47Z
+2026-10-30,NE,1849,Lexington Livestock Market,feeder_steer,600-700,432,384.54,350.00,398.50,1935,Medium and Large 1,false,head_weighted,2026-10-30T23:29:47Z
+2026-10-30,NE,1849,Lexington Livestock Market,feeder_steer,700-800,49,340.00,340.00,340.00,1935,Medium and Large 1,false,head_weighted,2026-10-30T23:29:47Z
+2026-10-30,NE,1849,Lexington Livestock Market,feeder_heifer,300-400,14,511.50,480.00,529.00,1935,Medium and Large 1,false,head_weighted,2026-10-30T23:29:47Z
+2026-10-30,NE,1849,Lexington Livestock Market,feeder_heifer,400-500,101,436.65,420.00,461.00,1935,Medium and Large 1,false,head_weighted,2026-10-30T23:29:47Z
+2026-10-30,NE,1849,Lexington Livestock Market,feeder_heifer,500-600,235,391.43,352.50,414.00,1935,Medium and Large 1,false,head_weighted,2026-10-30T23:29:47Z
+2026-10-30,NE,1849,Lexington Livestock Market,feeder_heifer,600-700,161,347.86,311.00,363.00,1935,Medium and Large 1,false,head_weighted,2026-10-30T23:29:47Z
+2026-10-30,NE,1849,Lexington Livestock Market,feeder_heifer,700-800,10,300.00,300.00,300.00,1935,Medium and Large 1,false,head_weighted,2026-10-30T23:29:47Z
 2026-10-30,NE,1851,Burwell Livestock Market,feeder_steer,300-400,46,547.79,520.00,557.50,1300,Medium and Large 1,false,head_weighted,2026-10-30T20:19:38Z
 2026-10-30,NE,1851,Burwell Livestock Market,feeder_steer,400-500,244,505.44,475.00,531.00,1300,Medium and Large 1,false,head_weighted,2026-10-30T20:19:38Z
 2026-10-30,NE,1851,Burwell Livestock Market,feeder_steer,500-600,202,430.15,412.00,467.50,1300,Medium and Large 1,false,head_weighted,2026-10-30T20:19:38Z
@@ -7386,3 +7402,15 @@ sale_date,state,slug,market,class,bracket,head,avg,low,high,receipts,grade_used,
 2026-10-30,NM,1290,Santa Teresa Livestock Auction,feeder_steer,500-600,46,378.50,378.50,378.50,263,Medium and Large 1,false,head_weighted,2026-10-30T20:19:38Z
 2026-10-30,NM,1290,Santa Teresa Livestock Auction,feeder_steer,600-700,82,365.50,365.50,365.50,263,Medium and Large 1,false,head_weighted,2026-10-30T20:19:38Z
 2026-10-30,NM,1290,Santa Teresa Livestock Auction,feeder_heifer,700-800,59,307.00,307.00,307.00,263,Medium and Large 1,false,head_weighted,2026-10-30T20:19:38Z
+2026-10-30,SD,2024,Herreid Livestock Market,feeder_steer,300-400,67,585.77,574.00,610.00,4752,Medium and Large 1,false,head_weighted,2026-10-30T23:29:47Z
+2026-10-30,SD,2024,Herreid Livestock Market,feeder_steer,400-500,526,506.54,481.00,530.25,4752,Medium and Large 1,false,head_weighted,2026-10-30T23:29:47Z
+2026-10-30,SD,2024,Herreid Livestock Market,feeder_steer,500-600,510,443.74,416.00,482.00,4752,Medium and Large 1,false,head_weighted,2026-10-30T23:29:47Z
+2026-10-30,SD,2024,Herreid Livestock Market,feeder_steer,600-700,251,392.34,356.00,403.75,4752,Medium and Large 1,false,head_weighted,2026-10-30T23:29:47Z
+2026-10-30,SD,2024,Herreid Livestock Market,feeder_steer,700-800,116,356.12,348.00,359.75,4752,Medium and Large 1,false,head_weighted,2026-10-30T23:29:47Z
+2026-10-30,SD,2024,Herreid Livestock Market,feeder_steer,800-900,15,328.00,328.00,328.00,4752,Medium and Large 1,false,head_weighted,2026-10-30T23:29:47Z
+2026-10-30,SD,2024,Herreid Livestock Market,feeder_heifer,300-400,64,481.89,462.00,501.00,4752,Medium and Large 1,false,head_weighted,2026-10-30T23:29:47Z
+2026-10-30,SD,2024,Herreid Livestock Market,feeder_heifer,400-500,317,441.66,401.00,472.50,4752,Medium and Large 1,false,head_weighted,2026-10-30T23:29:47Z
+2026-10-30,SD,2024,Herreid Livestock Market,feeder_heifer,500-600,391,396.17,353.00,425.25,4752,Medium and Large 1,false,head_weighted,2026-10-30T23:29:47Z
+2026-10-30,SD,2024,Herreid Livestock Market,feeder_heifer,600-700,12,343.00,343.00,343.00,4752,Medium and Large 1,false,head_weighted,2026-10-30T23:29:47Z
+2026-10-30,SD,2024,Herreid Livestock Market,feeder_heifer,700-800,31,316.00,316.00,316.00,4752,Medium and Large 1,false,head_weighted,2026-10-30T23:29:47Z
+2026-10-30,SD,2024,Herreid Livestock Market,feeder_heifer,800-900,62,285.00,285.00,285.00,4752,Medium and Large 1,false,head_weighted,2026-10-30T23:29:47Z
