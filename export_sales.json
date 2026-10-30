@@ -1,9 +1,9 @@
 {
-  "fetched": "2026-10-16T19:16:53Z",
-  "week_ending": "2026-10-15",
+  "fetched": "2026-10-30T20:20:04Z",
+  "week_ending": "2026-10-29",
   "is_stub": true,
   "stub_reason": "All automated sources failed. FAS data requires manual seeding or FAS_API_KEY.",
-  "stub_generated_at": "2026-10-16T19:16:53Z",
+  "stub_generated_at": "2026-10-30T20:20:04Z",
   "commodities": {
     "corn": {
       "net_sales_mt": null,

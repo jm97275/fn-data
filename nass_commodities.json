@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-29T23:50:10.997307",
+  "generated": "2026-10-30T20:19:49.118856",
   "commodities": {
     "peanuts": {
       "name": "Peanuts",
       "unit": "$/lb",
       "fmt": "lb",
-      "latest": 0.232,
-      "latest_date": "2026-08-15",
-      "avg5": 0.2561,
+      "latest": 0.226,
+      "latest_date": "2026-09-15",
+      "avg5": 0.2556,
       "change": 0,
       "archetypes": [
         "grain"
@@ -284,6 +284,10 @@
         {
           "date": "2026-08-15",
           "price": 0.232
+        },
+        {
+          "date": "2026-09-15",
+          "price": 0.226
         }
       ]
     },
@@ -291,9 +295,9 @@
       "name": "Sunflowers",
       "unit": "$/cwt",
       "fmt": "cwt",
-      "latest": 29.8,
-      "latest_date": "2026-08-15",
-      "avg5": 26.4776,
+      "latest": 29.1,
+      "latest_date": "2026-09-15",
+      "avg5": 26.522,
       "change": 0,
       "archetypes": [
         "grain"
@@ -570,6 +574,10 @@
         {
           "date": "2026-08-15",
           "price": 29.8
+        },
+        {
+          "date": "2026-09-15",
+          "price": 29.1
         }
       ]
     },
@@ -577,9 +585,9 @@
       "name": "Canola",
       "unit": "$/cwt",
       "fmt": "cwt",
-      "latest": 25.7,
-      "latest_date": "2026-08-15",
-      "avg5": 26.2776,
+      "latest": 23.2,
+      "latest_date": "2026-09-15",
+      "avg5": 26.2254,
       "change": 0,
       "archetypes": [
         "grain"
@@ -856,6 +864,10 @@
         {
           "date": "2026-08-15",
           "price": 25.7
+        },
+        {
+          "date": "2026-09-15",
+          "price": 23.2
         }
       ]
     },
@@ -863,9 +875,9 @@
       "name": "Sorghum",
       "unit": "$/cwt",
       "fmt": "cwt",
-      "latest": 7.7,
-      "latest_date": "2026-08-15",
-      "avg5": 9.1414,
+      "latest": 8.09,
+      "latest_date": "2026-09-15",
+      "avg5": 9.1236,
       "change": 0,
       "archetypes": [
         "grain"
@@ -1142,6 +1154,10 @@
         {
           "date": "2026-08-15",
           "price": 7.7
+        },
+        {
+          "date": "2026-09-15",
+          "price": 8.09
         }
       ]
     }
