@@ -7361,6 +7361,15 @@ sale_date,state,slug,market,class,bracket,head,avg,low,high,receipts,grade_used,
 2026-10-30,AR,2059,Ash Flat Livestock Auction,feeder_heifer,500-600,12,315.76,280.00,335.00,522,Medium and Large 1,false,head_weighted,2026-10-31T19:38:49Z
 2026-10-30,AR,2059,Ash Flat Livestock Auction,feeder_heifer,600-700,13,291.52,260.00,300.00,522,Medium and Large 1,false,head_weighted,2026-10-31T19:38:49Z
 2026-10-30,AR,2059,Ash Flat Livestock Auction,slaughter_cow,,28,113.30,,,522,,,head_weighted,2026-10-31T19:38:49Z
+2026-10-30,CO,1906,Livestock Exchange Feeder Cattle Auction (Friday),feeder_steer,400-500,3,540.00,540.00,540.00,1145,Medium and Large 1,false,head_weighted,2026-10-31T23:03:12Z
+2026-10-30,CO,1906,Livestock Exchange Feeder Cattle Auction (Friday),feeder_steer,500-600,47,446.99,446.00,454.00,1145,Medium and Large 1,false,head_weighted,2026-10-31T23:03:12Z
+2026-10-30,CO,1906,Livestock Exchange Feeder Cattle Auction (Friday),feeder_steer,600-700,90,404.34,392.50,410.00,1145,Medium and Large 1,false,head_weighted,2026-10-31T23:03:12Z
+2026-10-30,CO,1906,Livestock Exchange Feeder Cattle Auction (Friday),feeder_steer,700-800,35,353.91,345.00,358.00,1145,Medium and Large 1,false,head_weighted,2026-10-31T23:03:12Z
+2026-10-30,CO,1906,Livestock Exchange Feeder Cattle Auction (Friday),feeder_steer,800-900,38,336.00,336.00,336.00,1145,Medium and Large 1,false,head_weighted,2026-10-31T23:03:12Z
+2026-10-30,CO,1906,Livestock Exchange Feeder Cattle Auction (Friday),feeder_heifer,400-500,18,422.50,422.50,422.50,1145,Medium and Large 1,false,head_weighted,2026-10-31T23:03:12Z
+2026-10-30,CO,1906,Livestock Exchange Feeder Cattle Auction (Friday),feeder_heifer,500-600,106,366.19,357.50,382.50,1145,Medium and Large 1,false,head_weighted,2026-10-31T23:03:12Z
+2026-10-30,CO,1906,Livestock Exchange Feeder Cattle Auction (Friday),feeder_heifer,600-700,25,352.50,352.50,352.50,1145,Medium and Large 1,false,head_weighted,2026-10-31T23:03:12Z
+2026-10-30,CO,1906,Livestock Exchange Feeder Cattle Auction (Friday),feeder_heifer,800-900,42,293.67,290.00,304.00,1145,Medium and Large 1,false,head_weighted,2026-10-31T23:03:12Z
 2026-10-30,IA,2155,Dunlap Livestock Feeder Cattle,feeder_steer,300-400,3,514.00,514.00,514.00,746,Medium and Large 1,false,head_weighted,2026-10-30T20:19:38Z
 2026-10-30,IA,2155,Dunlap Livestock Feeder Cattle,feeder_steer,400-500,37,462.06,447.00,468.00,746,Medium and Large 1,false,head_weighted,2026-10-30T20:19:38Z
 2026-10-30,IA,2155,Dunlap Livestock Feeder Cattle,feeder_steer,500-600,156,426.33,410.00,451.00,746,Medium and Large 1,false,head_weighted,2026-10-30T20:19:38Z
@@ -7447,3 +7456,27 @@ sale_date,state,slug,market,class,bracket,head,avg,low,high,receipts,grade_used,
 2026-10-30,SD,2024,Herreid Livestock Market,feeder_heifer,600-700,12,343.00,343.00,343.00,4752,Medium and Large 1,false,head_weighted,2026-10-30T23:29:47Z
 2026-10-30,SD,2024,Herreid Livestock Market,feeder_heifer,700-800,31,316.00,316.00,316.00,4752,Medium and Large 1,false,head_weighted,2026-10-30T23:29:47Z
 2026-10-30,SD,2024,Herreid Livestock Market,feeder_heifer,800-900,62,285.00,285.00,285.00,4752,Medium and Large 1,false,head_weighted,2026-10-30T23:29:47Z
+2026-10-31,NE,1853,Ericson Livestock Market,feeder_steer,300-400,25,538.30,535.00,542.50,1933,Medium and Large 1,false,head_weighted,2026-10-31T23:03:12Z
+2026-10-31,NE,1853,Ericson Livestock Market,feeder_steer,400-500,143,506.64,493.00,535.00,1933,Medium and Large 1,false,head_weighted,2026-10-31T23:03:12Z
+2026-10-31,NE,1853,Ericson Livestock Market,feeder_steer,500-600,541,450.68,405.00,484.00,1933,Medium and Large 1,false,head_weighted,2026-10-31T23:03:12Z
+2026-10-31,NE,1853,Ericson Livestock Market,feeder_steer,600-700,218,406.30,375.00,421.00,1933,Medium and Large 1,false,head_weighted,2026-10-31T23:03:12Z
+2026-10-31,NE,1853,Ericson Livestock Market,feeder_steer,700-800,113,360.00,360.00,360.00,1933,Medium and Large 1,false,head_weighted,2026-10-31T23:03:12Z
+2026-10-31,NE,1853,Ericson Livestock Market,feeder_steer,800-900,57,334.00,334.00,334.00,1933,Medium and Large 1,false,head_weighted,2026-10-31T23:03:12Z
+2026-10-31,NE,1853,Ericson Livestock Market,feeder_heifer,300-400,20,502.51,500.00,505.00,1933,Medium and Large 1,false,head_weighted,2026-10-31T23:03:12Z
+2026-10-31,NE,1853,Ericson Livestock Market,feeder_heifer,400-500,126,439.85,427.50,470.00,1933,Medium and Large 1,false,head_weighted,2026-10-31T23:03:12Z
+2026-10-31,NE,1853,Ericson Livestock Market,feeder_heifer,500-600,228,431.70,392.50,455.00,1933,Medium and Large 1,false,head_weighted,2026-10-31T23:03:12Z
+2026-10-31,NE,1853,Ericson Livestock Market,feeder_heifer,600-700,21,420.00,420.00,420.00,1933,Medium and Large 1,false,head_weighted,2026-10-31T23:03:12Z
+2026-10-31,NE,1853,Ericson Livestock Market,feeder_heifer,800-900,135,310.50,310.50,310.50,1933,Medium and Large 1,false,head_weighted,2026-10-31T23:03:12Z
+2026-10-31,TN,2061,Crossville Stockyard,feeder_steer,300-400,2,445.00,445.00,445.00,248,Medium and Large 1,false,head_weighted,2026-10-31T23:03:12Z
+2026-10-31,TN,2061,Crossville Stockyard,feeder_steer,400-500,4,403.13,380.00,422.00,248,Medium and Large 1,false,head_weighted,2026-10-31T23:03:12Z
+2026-10-31,TN,2061,Crossville Stockyard,feeder_steer,500-600,9,348.48,335.00,376.00,248,Medium and Large 1,false,head_weighted,2026-10-31T23:03:12Z
+2026-10-31,TN,2061,Crossville Stockyard,feeder_steer,600-700,6,356.33,341.00,364.00,248,Medium and Large 1,false,head_weighted,2026-10-31T23:03:12Z
+2026-10-31,TN,2061,Crossville Stockyard,feeder_steer,700-800,6,345.00,345.00,345.00,248,Medium and Large 1,false,head_weighted,2026-10-31T23:03:12Z
+2026-10-31,TN,2061,Crossville Stockyard,feeder_steer,800-900,1,280.00,280.00,280.00,248,Medium and Large 1,false,head_weighted,2026-10-31T23:03:12Z
+2026-10-31,TN,2061,Crossville Stockyard,feeder_heifer,300-400,6,367.00,367.00,367.00,248,Medium and Large 1,false,head_weighted,2026-10-31T23:03:12Z
+2026-10-31,TN,2061,Crossville Stockyard,feeder_heifer,400-500,21,349.17,335.00,367.00,248,Medium and Large 1,false,head_weighted,2026-10-31T23:03:12Z
+2026-10-31,TN,2061,Crossville Stockyard,feeder_heifer,500-600,28,325.28,270.00,341.00,248,Medium and Large 1,false,head_weighted,2026-10-31T23:03:12Z
+2026-10-31,TN,2061,Crossville Stockyard,feeder_heifer,600-700,6,288.17,260.00,295.00,248,Medium and Large 1,false,head_weighted,2026-10-31T23:03:12Z
+2026-10-31,TN,2061,Crossville Stockyard,feeder_heifer,700-800,7,292.59,285.00,303.00,248,Medium and Large 1,false,head_weighted,2026-10-31T23:03:12Z
+2026-10-31,TN,2061,Crossville Stockyard,feeder_heifer,800-900,3,252.95,245.00,257.00,248,Medium and Large 1,false,head_weighted,2026-10-31T23:03:12Z
+2026-10-31,TN,2061,Crossville Stockyard,slaughter_cow,,39,110.82,,,248,,,head_weighted,2026-10-31T23:03:12Z

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-31T19:38:49Z",
+  "fetched_at": "2026-10-31T23:03:12Z",
   "markets": [
     {
       "slug": "1979",
@@ -1240,6 +1240,78 @@
         "head": 77
       },
       "five_wt_steer_avg": 414.33,
+      "grade_used": "Medium and Large 1",
+      "grade_fallback": false
+    },
+    {
+      "slug": "1906",
+      "name": "Livestock Exchange Feeder Cattle Auction (Friday)",
+      "city": "Brush",
+      "state": "CO",
+      "lat": 40.2593,
+      "lon": -103.6363,
+      "sale_date": "2026-10-30",
+      "receipts": 1145,
+      "feeder_steers": {
+        "7_8": {
+          "avg": 353.91,
+          "low": 345.0,
+          "high": 358.0,
+          "head": 35
+        },
+        "6_7": {
+          "avg": 404.34,
+          "low": 392.5,
+          "high": 410.0,
+          "head": 90
+        },
+        "4_5": {
+          "avg": 540.0,
+          "low": 540.0,
+          "high": 540.0,
+          "head": 3
+        },
+        "5_6": {
+          "avg": 446.99,
+          "low": 446.0,
+          "high": 454.0,
+          "head": 47
+        },
+        "8_9": {
+          "avg": 336.0,
+          "low": 336.0,
+          "high": 336.0,
+          "head": 38
+        }
+      },
+      "feeder_heifers": {
+        "6_7": {
+          "avg": 352.5,
+          "low": 352.5,
+          "high": 352.5,
+          "head": 25
+        },
+        "5_6": {
+          "avg": 366.19,
+          "low": 357.5,
+          "high": 382.5,
+          "head": 106
+        },
+        "8_9": {
+          "avg": 293.67,
+          "low": 290.0,
+          "high": 304.0,
+          "head": 42
+        },
+        "4_5": {
+          "avg": 422.5,
+          "low": 422.5,
+          "high": 422.5,
+          "head": 18
+        }
+      },
+      "slaughter_cows": null,
+      "five_wt_steer_avg": 446.99,
       "grade_used": "Medium and Large 1",
       "grade_fallback": false
     },
@@ -9146,80 +9218,80 @@
       "state": "NE",
       "lat": 41.7804,
       "lon": -98.6786,
-      "sale_date": "2026-10-24",
-      "receipts": 3670,
+      "sale_date": "2026-10-31",
+      "receipts": 1933,
       "feeder_steers": {
-        "8_9": {
-          "avg": 357.0,
-          "low": 357.0,
-          "high": 357.0,
-          "head": 120
-        },
-        "3_4": {
-          "avg": 562.01,
-          "low": 540.0,
-          "high": 591.0,
-          "head": 71
-        },
-        "4_5": {
-          "avg": 523.63,
-          "low": 495.0,
-          "high": 572.5,
-          "head": 308
-        },
         "5_6": {
-          "avg": 462.14,
-          "low": 418.0,
-          "high": 507.5,
-          "head": 606
-        },
-        "6_7": {
-          "avg": 413.0,
-          "low": 391.0,
-          "high": 426.0,
-          "head": 289
+          "avg": 450.68,
+          "low": 405.0,
+          "high": 484.0,
+          "head": 541
         },
         "7_8": {
-          "avg": 361.0,
-          "low": 361.0,
-          "high": 361.0,
+          "avg": 360.0,
+          "low": 360.0,
+          "high": 360.0,
+          "head": 113
+        },
+        "4_5": {
+          "avg": 506.64,
+          "low": 493.0,
+          "high": 535.0,
+          "head": 143
+        },
+        "8_9": {
+          "avg": 334.0,
+          "low": 334.0,
+          "high": 334.0,
+          "head": 57
+        },
+        "6_7": {
+          "avg": 406.3,
+          "low": 375.0,
+          "high": 421.0,
+          "head": 218
+        },
+        "3_4": {
+          "avg": 538.3,
+          "low": 535.0,
+          "high": 542.5,
           "head": 25
         }
       },
       "feeder_heifers": {
-        "5_6": {
-          "avg": 428.38,
-          "low": 377.5,
-          "high": 490.0,
-          "head": 433
+        "6_7": {
+          "avg": 420.0,
+          "low": 420.0,
+          "high": 420.0,
+          "head": 21
         },
-        "4_5": {
-          "avg": 470.27,
-          "low": 422.5,
-          "high": 520.0,
-          "head": 325
+        "5_6": {
+          "avg": 431.7,
+          "low": 392.5,
+          "high": 455.0,
+          "head": 228
         },
         "8_9": {
-          "avg": 340.05,
-          "low": 331.0,
-          "high": 352.0,
-          "head": 301
+          "avg": 310.5,
+          "low": 310.5,
+          "high": 310.5,
+          "head": 135
         },
         "3_4": {
-          "avg": 515.83,
-          "low": 475.0,
-          "high": 547.5,
-          "head": 59
+          "avg": 502.51,
+          "low": 500.0,
+          "high": 505.0,
+          "head": 20
         },
-        "6_7": {
-          "avg": 388.0,
-          "low": 388.0,
-          "high": 388.0,
-          "head": 33
+        "4_5": {
+          "avg": 439.85,
+          "low": 427.5,
+          "high": 470.0,
+          "head": 126
         }
       },
       "slaughter_cows": null,
-      "five_wt_steer_avg": 462.14,
+      "five_wt_steer_avg": 450.68,
       "grade_used": "Medium and Large 1",
       "grade_fallback": false
     },
@@ -12079,83 +12151,89 @@
       "state": "TN",
       "lat": 35.9534,
       "lon": -85.0302,
-      "sale_date": "2026-10-24",
-      "receipts": 263,
+      "sale_date": "2026-10-31",
+      "receipts": 248,
       "feeder_steers": {
-        "6_7": {
-          "avg": 329.05,
-          "low": 322.0,
-          "high": 351.0,
-          "head": 23
-        },
-        "5_6": {
-          "avg": 385.42,
-          "low": 330.0,
-          "high": 415.0,
-          "head": 10
-        },
-        "4_5": {
-          "avg": 472.65,
-          "low": 422.0,
-          "high": 500.0,
-          "head": 10
-        },
         "3_4": {
-          "avg": 507.5,
-          "low": 470.0,
-          "high": 550.0,
-          "head": 4
-        },
-        "7_8": {
-          "avg": 323.18,
-          "low": 314.0,
-          "high": 327.0,
-          "head": 6
+          "avg": 445.0,
+          "low": 445.0,
+          "high": 445.0,
+          "head": 2
         },
         "8_9": {
-          "avg": 314.0,
-          "low": 314.0,
-          "high": 314.0,
-          "head": 2
+          "avg": 280.0,
+          "low": 280.0,
+          "high": 280.0,
+          "head": 1
+        },
+        "4_5": {
+          "avg": 403.13,
+          "low": 380.0,
+          "high": 422.0,
+          "head": 4
+        },
+        "5_6": {
+          "avg": 348.48,
+          "low": 335.0,
+          "high": 376.0,
+          "head": 9
+        },
+        "6_7": {
+          "avg": 356.33,
+          "low": 341.0,
+          "high": 364.0,
+          "head": 6
+        },
+        "7_8": {
+          "avg": 345.0,
+          "low": 345.0,
+          "high": 345.0,
+          "head": 6
         }
       },
       "feeder_heifers": {
         "4_5": {
-          "avg": 367.88,
-          "low": 328.0,
-          "high": 391.0,
-          "head": 23
+          "avg": 349.17,
+          "low": 335.0,
+          "high": 367.0,
+          "head": 21
         },
         "5_6": {
-          "avg": 340.0,
-          "low": 310.0,
-          "high": 359.0,
-          "head": 26
-        },
-        "3_4": {
-          "avg": 376.75,
-          "low": 355.0,
-          "high": 395.0,
-          "head": 4
-        },
-        "7_8": {
-          "avg": 306.5,
-          "low": 300.0,
-          "high": 313.0,
-          "head": 2
+          "avg": 325.28,
+          "low": 270.0,
+          "high": 341.0,
+          "head": 28
         },
         "6_7": {
-          "avg": 315.99,
-          "low": 306.0,
-          "high": 319.0,
-          "head": 17
+          "avg": 288.17,
+          "low": 260.0,
+          "high": 295.0,
+          "head": 6
+        },
+        "3_4": {
+          "avg": 367.0,
+          "low": 367.0,
+          "high": 367.0,
+          "head": 6
+        },
+        "7_8": {
+          "avg": 292.59,
+          "low": 285.0,
+          "high": 303.0,
+          "head": 7
+        },
+        "8_9": {
+          "avg": 252.95,
+          "low": 245.0,
+          "high": 257.0,
+          "head": 3
         }
       },
       "slaughter_cows": {
-        "avg": 121.07,
-        "head": 54
+        "avg": 110.82,
+        "head": 39
       },
-      "five_wt_steer_avg": 385.42,
+      "five_wt_steer_avg": 348.48,
       "grade_used": "Medium and Large 1",
       "grade_fallback": false
     },
