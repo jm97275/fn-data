@@ -1,4 +1,9 @@
 sale_date,state,slug,market,class,bracket,head,avg,low,high,receipts,grade_used,grade_fallback,method,fetched_at
+2026-11-02,AL,1986,Coffee County Stockyards,feeder_steer,300-400,7,494.18,465.00,510.00,328,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,AL,1986,Coffee County Stockyards,feeder_steer,400-500,4,422.53,420.00,425.00,328,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,AL,1986,Coffee County Stockyards,feeder_heifer,300-400,9,417.70,395.00,435.00,328,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,AL,1986,Coffee County Stockyards,feeder_heifer,400-500,5,378.90,365.00,395.00,328,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,AL,1986,Coffee County Stockyards,slaughter_cow,,16,127.84,,,328,,,head_weighted,2026-11-03T21:23:35Z
 2026-11-02,AL,1997,Tennessee Valley Livestock,feeder_steer,500-600,8,390.61,390.00,395.00,434,Medium and Large 1,false,head_weighted,2026-11-03T02:04:43Z
 2026-11-02,AL,1997,Tennessee Valley Livestock,feeder_steer,600-700,12,350.81,340.00,375.00,434,Medium and Large 1,false,head_weighted,2026-11-03T02:04:43Z
 2026-11-02,AL,1997,Tennessee Valley Livestock,feeder_steer,700-800,3,321.69,320.00,322.50,434,Medium and Large 1,false,head_weighted,2026-11-03T02:04:43Z
@@ -9,12 +14,90 @@ sale_date,state,slug,market,class,bracket,head,avg,low,high,receipts,grade_used,
 2026-11-02,AL,1997,Tennessee Valley Livestock,feeder_heifer,700-800,4,291.89,290.00,295.00,434,Medium and Large 1,false,head_weighted,2026-11-03T02:04:43Z
 2026-11-02,AL,1997,Tennessee Valley Livestock,feeder_heifer,800-900,3,280.00,280.00,280.00,434,Medium and Large 1,false,head_weighted,2026-11-03T02:04:43Z
 2026-11-02,AL,1997,Tennessee Valley Livestock,slaughter_cow,,37,117.59,,,434,,,head_weighted,2026-11-03T02:04:43Z
+2026-11-02,AL,2003,Ashville Stockyard,feeder_steer,300-400,1,520.00,520.00,520.00,292,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,AL,2003,Ashville Stockyard,feeder_steer,500-600,7,380.73,380.00,385.00,292,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,AL,2003,Ashville Stockyard,feeder_steer,600-700,11,332.45,325.00,335.00,292,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,AL,2003,Ashville Stockyard,feeder_heifer,300-400,9,388.87,380.00,400.00,292,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,AL,2003,Ashville Stockyard,feeder_heifer,400-500,3,366.68,365.00,370.00,292,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,AL,2003,Ashville Stockyard,feeder_heifer,500-600,12,317.50,310.00,335.00,292,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,AL,2003,Ashville Stockyard,feeder_heifer,600-700,9,292.23,290.00,300.00,292,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,AL,2003,Ashville Stockyard,feeder_heifer,700-800,2,282.49,280.00,285.00,292,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,AL,2003,Ashville Stockyard,slaughter_cow,,2,120.00,,,292,,,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,AL,2007,Northwest Alabama Livestock Cattle Sale,feeder_steer,500-600,18,377.12,360.00,392.50,413,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,AL,2007,Northwest Alabama Livestock Cattle Sale,feeder_steer,600-700,44,361.51,330.00,370.00,413,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,AL,2007,Northwest Alabama Livestock Cattle Sale,feeder_steer,700-800,15,336.34,310.00,340.00,413,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,AL,2007,Northwest Alabama Livestock Cattle Sale,feeder_heifer,300-400,8,385.61,375.00,395.00,413,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,AL,2007,Northwest Alabama Livestock Cattle Sale,feeder_heifer,400-500,10,363.92,345.00,385.00,413,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,AL,2007,Northwest Alabama Livestock Cattle Sale,feeder_heifer,500-600,40,330.49,315.00,350.00,413,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,AL,2007,Northwest Alabama Livestock Cattle Sale,feeder_heifer,600-700,30,315.50,300.00,325.00,413,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,AL,2007,Northwest Alabama Livestock Cattle Sale,feeder_heifer,700-800,2,295.00,290.00,300.00,413,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,AL,2007,Northwest Alabama Livestock Cattle Sale,slaughter_cow,,33,125.88,,,413,,,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,AR,2055,Cleburne County Livestock Auction,feeder_steer,300-400,5,476.34,450.00,500.00,865,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,AR,2055,Cleburne County Livestock Auction,feeder_steer,400-500,21,411.28,385.00,435.00,865,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,AR,2055,Cleburne County Livestock Auction,feeder_steer,500-600,35,384.45,355.00,395.00,865,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,AR,2055,Cleburne County Livestock Auction,feeder_steer,600-700,39,346.38,325.00,360.00,865,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,AR,2055,Cleburne County Livestock Auction,feeder_steer,700-800,27,336.83,317.50,339.00,865,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,AR,2055,Cleburne County Livestock Auction,feeder_steer,800-900,2,312.50,310.00,315.00,865,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,AR,2055,Cleburne County Livestock Auction,feeder_heifer,300-400,7,417.05,400.00,425.00,865,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,AR,2055,Cleburne County Livestock Auction,feeder_heifer,400-500,42,392.05,370.00,410.00,865,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,AR,2055,Cleburne County Livestock Auction,feeder_heifer,500-600,29,344.79,325.00,360.00,865,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,AR,2055,Cleburne County Livestock Auction,feeder_heifer,600-700,27,321.83,295.00,336.00,865,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,AR,2055,Cleburne County Livestock Auction,feeder_heifer,700-800,4,303.72,295.00,312.50,865,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,AR,2055,Cleburne County Livestock Auction,feeder_heifer,800-900,4,270.00,260.00,300.00,865,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,AR,2055,Cleburne County Livestock Auction,slaughter_cow,,17,110.25,,,865,,,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,CO,1902,Winter Livestock Seasonal Feeder Cattle Sale (Monday),feeder_steer,300-400,154,592.13,540.00,635.00,6763,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,CO,1902,Winter Livestock Seasonal Feeder Cattle Sale (Monday),feeder_steer,400-500,488,520.50,495.00,570.00,6763,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,CO,1902,Winter Livestock Seasonal Feeder Cattle Sale (Monday),feeder_steer,500-600,1001,440.35,394.00,481.00,6763,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,CO,1902,Winter Livestock Seasonal Feeder Cattle Sale (Monday),feeder_steer,600-700,595,371.13,342.00,406.00,6763,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,CO,1902,Winter Livestock Seasonal Feeder Cattle Sale (Monday),feeder_steer,700-800,145,338.72,318.00,358.00,6763,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,CO,1902,Winter Livestock Seasonal Feeder Cattle Sale (Monday),feeder_heifer,300-400,187,467.75,415.00,515.00,6763,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,CO,1902,Winter Livestock Seasonal Feeder Cattle Sale (Monday),feeder_heifer,400-500,534,424.25,390.00,448.00,6763,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,CO,1902,Winter Livestock Seasonal Feeder Cattle Sale (Monday),feeder_heifer,500-600,506,392.84,356.00,420.00,6763,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,CO,1902,Winter Livestock Seasonal Feeder Cattle Sale (Monday),feeder_heifer,600-700,472,326.59,271.00,370.00,6763,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,CO,1902,Winter Livestock Seasonal Feeder Cattle Sale (Monday),feeder_heifer,700-800,17,297.14,290.00,305.00,6763,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,CO,1902,Winter Livestock Seasonal Feeder Cattle Sale (Monday),feeder_heifer,800-900,9,283.00,283.00,283.00,6763,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,FL,1418,Columbia Livestock Auction,feeder_steer,300-400,10,523.58,490.00,560.00,453,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,FL,1418,Columbia Livestock Auction,feeder_steer,400-500,10,456.03,395.00,500.00,453,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,FL,1418,Columbia Livestock Auction,feeder_steer,500-600,10,357.19,330.00,380.00,453,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,FL,1418,Columbia Livestock Auction,feeder_steer,600-700,6,332.80,320.00,345.00,453,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,FL,1418,Columbia Livestock Auction,feeder_heifer,300-400,26,469.26,420.00,515.00,453,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,FL,1418,Columbia Livestock Auction,feeder_heifer,400-500,15,400.62,370.00,440.00,453,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,FL,1418,Columbia Livestock Auction,feeder_heifer,500-600,12,351.62,330.00,375.00,453,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,FL,1418,Columbia Livestock Auction,slaughter_cow,,70,165.09,,,453,,,head_weighted,2026-11-03T21:23:35Z
 2026-11-02,GA,1930,Eastanollee Livestock,feeder_steer,500-600,3,378.24,370.00,385.00,225,Medium and Large 1,false,head_weighted,2026-11-03T02:04:43Z
 2026-11-02,GA,1930,Eastanollee Livestock,feeder_heifer,400-500,1,435.00,435.00,435.00,225,Medium and Large 1,false,head_weighted,2026-11-03T02:04:43Z
 2026-11-02,GA,1930,Eastanollee Livestock,feeder_heifer,500-600,4,326.21,320.00,335.00,225,Medium and Large 1,false,head_weighted,2026-11-03T02:04:43Z
 2026-11-02,GA,1930,Eastanollee Livestock,feeder_heifer,600-700,3,293.30,290.00,295.00,225,Medium and Large 1,false,head_weighted,2026-11-03T02:04:43Z
 2026-11-02,GA,1930,Eastanollee Livestock,feeder_heifer,700-800,1,297.50,297.50,297.50,225,Medium and Large 1,false,head_weighted,2026-11-03T02:04:43Z
 2026-11-02,GA,1930,Eastanollee Livestock,slaughter_cow,,15,142.27,,,225,,,head_weighted,2026-11-03T02:04:43Z
+2026-11-02,GA,1941,Seminole Livestock Exchange,feeder_steer,300-400,1,510.00,510.00,510.00,330,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,GA,1941,Seminole Livestock Exchange,feeder_steer,400-500,6,439.03,410.00,465.00,330,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,GA,1941,Seminole Livestock Exchange,feeder_steer,600-700,16,346.87,340.00,360.00,330,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,GA,1941,Seminole Livestock Exchange,feeder_steer,700-800,2,312.47,310.00,315.00,330,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,GA,1941,Seminole Livestock Exchange,feeder_steer,800-900,8,300.00,300.00,300.00,330,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,GA,1941,Seminole Livestock Exchange,feeder_heifer,300-400,5,432.00,420.00,440.00,330,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,GA,1941,Seminole Livestock Exchange,feeder_heifer,400-500,13,376.14,370.00,400.00,330,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,GA,1941,Seminole Livestock Exchange,feeder_heifer,600-700,1,300.00,300.00,300.00,330,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,GA,1941,Seminole Livestock Exchange,slaughter_cow,,12,137.14,,,330,,,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,GA,1948,Duvall Livestock,feeder_steer,400-500,6,403.89,395.00,430.00,375,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,GA,1948,Duvall Livestock,feeder_steer,500-600,8,368.74,355.00,375.00,375,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,GA,1948,Duvall Livestock,feeder_steer,600-700,4,331.18,320.00,340.00,375,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,GA,1948,Duvall Livestock,feeder_steer,700-800,3,304.99,300.00,310.00,375,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,GA,1948,Duvall Livestock,feeder_heifer,300-400,9,402.19,395.00,435.00,375,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,GA,1948,Duvall Livestock,feeder_heifer,400-500,20,371.87,350.00,390.00,375,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,GA,1948,Duvall Livestock,feeder_heifer,500-600,7,322.67,310.00,340.00,375,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,GA,1948,Duvall Livestock,feeder_heifer,600-700,7,282.16,270.00,290.00,375,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,GA,1948,Duvall Livestock,feeder_heifer,700-800,1,250.00,250.00,250.00,375,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,GA,1948,Duvall Livestock,slaughter_cow,,75,121.06,,,375,,,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,GA,1949,Carroll County Livestock,feeder_steer,300-400,1,475.00,475.00,475.00,523,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,GA,1949,Carroll County Livestock,feeder_steer,400-500,1,430.00,430.00,430.00,523,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,GA,1949,Carroll County Livestock,feeder_steer,500-600,5,388.47,385.00,392.50,523,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,GA,1949,Carroll County Livestock,feeder_steer,600-700,12,341.00,341.00,341.00,523,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,GA,1949,Carroll County Livestock,feeder_steer,700-800,1,300.00,300.00,300.00,523,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,GA,1949,Carroll County Livestock,feeder_heifer,300-400,1,405.00,405.00,405.00,523,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,GA,1949,Carroll County Livestock,feeder_heifer,400-500,4,363.75,352.50,375.00,523,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,GA,1949,Carroll County Livestock,feeder_heifer,500-600,14,340.00,340.00,340.00,523,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,GA,1949,Carroll County Livestock,slaughter_cow,,47,124.94,,,523,,,head_weighted,2026-11-03T21:23:35Z
 2026-11-02,IA,2152,Keoco Feeder Cattle Auction,feeder_steer,300-400,11,554.87,527.50,600.00,825,Medium and Large 1,false,head_weighted,2026-11-03T02:04:43Z
 2026-11-02,IA,2152,Keoco Feeder Cattle Auction,feeder_steer,400-500,62,501.66,465.00,545.00,825,Medium and Large 1,false,head_weighted,2026-11-03T02:04:43Z
 2026-11-02,IA,2152,Keoco Feeder Cattle Auction,feeder_steer,500-600,199,430.89,402.00,462.50,825,Medium and Large 1,false,head_weighted,2026-11-03T02:04:43Z
@@ -26,6 +109,30 @@ sale_date,state,slug,market,class,bracket,head,avg,low,high,receipts,grade_used,
 2026-11-02,IA,2152,Keoco Feeder Cattle Auction,feeder_heifer,500-600,121,372.04,341.00,403.00,825,Medium and Large 1,false,head_weighted,2026-11-03T02:04:43Z
 2026-11-02,IA,2152,Keoco Feeder Cattle Auction,feeder_heifer,600-700,10,360.22,359.00,361.00,825,Medium and Large 1,false,head_weighted,2026-11-03T02:04:43Z
 2026-11-02,IA,2152,Keoco Feeder Cattle Auction,feeder_heifer,700-800,40,339.00,339.00,339.00,825,Medium and Large 1,false,head_weighted,2026-11-03T02:04:43Z
+2026-11-02,KY,2198,Farmers Regional Livestock Market,feeder_steer,400-500,8,391.00,391.00,391.00,670,medium and large 1-2,true,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,KY,2198,Farmers Regional Livestock Market,feeder_steer,500-600,24,336.45,330.00,337.00,670,medium and large 1-2,true,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,KY,2198,Farmers Regional Livestock Market,feeder_steer,600-700,23,334.09,320.00,345.00,670,medium and large 1-2,true,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,KY,2198,Farmers Regional Livestock Market,feeder_steer,700-800,9,326.67,315.00,336.00,670,medium and large 1-2,true,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,KY,2198,Farmers Regional Livestock Market,feeder_steer,800-900,52,319.66,310.00,320.25,670,medium and large 1-2,true,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,KY,2198,Farmers Regional Livestock Market,feeder_heifer,300-400,44,375.70,365.00,377.00,670,medium and large 1-2,true,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,KY,2198,Farmers Regional Livestock Market,feeder_heifer,400-500,26,350.00,350.00,350.00,670,medium and large 1-2,true,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,KY,2198,Farmers Regional Livestock Market,feeder_heifer,500-600,68,327.46,317.50,341.00,670,medium and large 1-2,true,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,KY,2198,Farmers Regional Livestock Market,feeder_heifer,600-700,18,308.86,307.00,318.00,670,medium and large 1-2,true,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,KY,2198,Farmers Regional Livestock Market,feeder_heifer,700-800,5,273.00,273.00,273.00,670,medium and large 1-2,true,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,KY,2198,Farmers Regional Livestock Market,slaughter_cow,,98,127.66,,,670,,,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,KY,2201,Kentuckiana Livestock Market,feeder_steer,400-500,7,406.86,400.00,445.00,174,medium and large 1-2,true,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,KY,2201,Kentuckiana Livestock Market,feeder_steer,500-600,4,371.00,371.00,371.00,174,medium and large 1-2,true,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,KY,2201,Kentuckiana Livestock Market,feeder_steer,600-700,24,358.08,345.00,369.00,174,medium and large 1-2,true,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,KY,2201,Kentuckiana Livestock Market,feeder_steer,700-800,10,315.00,310.00,335.00,174,medium and large 1-2,true,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,KY,2201,Kentuckiana Livestock Market,feeder_steer,800-900,2,300.00,300.00,300.00,174,medium and large 1-2,true,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,KY,2201,Kentuckiana Livestock Market,feeder_heifer,300-400,10,430.40,412.00,460.00,174,medium and large 1-2,true,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,KY,2201,Kentuckiana Livestock Market,feeder_heifer,400-500,11,430.00,430.00,430.00,174,medium and large 1-2,true,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,KY,2201,Kentuckiana Livestock Market,feeder_heifer,500-600,13,356.77,342.00,366.00,174,medium and large 1-2,true,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,KY,2201,Kentuckiana Livestock Market,feeder_heifer,600-700,6,321.00,321.00,321.00,174,medium and large 1-2,true,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,KY,2201,Kentuckiana Livestock Market,feeder_heifer,700-800,2,309.00,309.00,309.00,174,medium and large 1-2,true,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,KY,2201,Kentuckiana Livestock Market,slaughter_cow,,19,123.79,,,174,,,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,KY,2207,United Producers Inc.,feeder_heifer,400-500,2,345.00,345.00,345.00,580,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,KY,2207,United Producers Inc.,slaughter_cow,,36,129.73,,,580,,,head_weighted,2026-11-03T21:23:35Z
 2026-11-02,MO,1245,Joplin Regional Stockyards Feeder Cattle,feeder_steer,400-500,73,455.19,434.00,480.00,5943,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
 2026-11-02,MO,1245,Joplin Regional Stockyards Feeder Cattle,feeder_steer,500-600,192,406.69,390.00,440.00,5943,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
 2026-11-02,MO,1245,Joplin Regional Stockyards Feeder Cattle,feeder_steer,600-700,296,373.42,357.00,400.00,5943,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
@@ -37,6 +144,33 @@ sale_date,state,slug,market,class,bracket,head,avg,low,high,receipts,grade_used,
 2026-11-02,MO,1245,Joplin Regional Stockyards Feeder Cattle,feeder_heifer,600-700,85,342.86,338.00,355.00,5943,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
 2026-11-02,MO,1245,Joplin Regional Stockyards Feeder Cattle,feeder_heifer,700-800,185,321.64,317.00,327.50,5943,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
 2026-11-02,MO,1245,Joplin Regional Stockyards Feeder Cattle,feeder_heifer,800-900,128,296.39,294.00,298.50,5943,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
+2026-11-02,MO,1819,Callaway Livestock Center,feeder_steer,400-500,26,470.42,461.00,498.00,1849,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,MO,1819,Callaway Livestock Center,feeder_steer,500-600,193,421.10,387.00,446.00,1849,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,MO,1819,Callaway Livestock Center,feeder_steer,600-700,53,372.14,365.00,379.00,1849,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,MO,1819,Callaway Livestock Center,feeder_steer,700-800,35,352.89,341.50,361.00,1849,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,MO,1819,Callaway Livestock Center,feeder_steer,800-900,242,337.14,334.50,339.75,1849,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,MO,1819,Callaway Livestock Center,feeder_heifer,300-400,17,487.88,486.00,490.00,1849,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,MO,1819,Callaway Livestock Center,feeder_heifer,400-500,56,406.26,392.00,432.00,1849,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,MO,1819,Callaway Livestock Center,feeder_heifer,500-600,65,372.12,353.00,390.00,1849,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,MO,1819,Callaway Livestock Center,feeder_heifer,600-700,148,358.48,350.00,364.00,1849,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,MO,1819,Callaway Livestock Center,feeder_heifer,700-800,18,346.36,332.00,355.50,1849,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,MO,1819,Callaway Livestock Center,slaughter_cow,,123,126.07,,,1849,,,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,MO,3635,Tina Livestock Market Cattle Auction,feeder_steer,400-500,14,488.37,465.00,512.50,821,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,MO,3635,Tina Livestock Market Cattle Auction,feeder_steer,500-600,72,429.15,403.00,454.00,821,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,MO,3635,Tina Livestock Market Cattle Auction,feeder_steer,600-700,58,391.56,361.00,415.00,821,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,MO,3635,Tina Livestock Market Cattle Auction,feeder_steer,700-800,9,330.00,330.00,330.00,821,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,MO,3635,Tina Livestock Market Cattle Auction,feeder_steer,800-900,60,331.25,331.25,331.25,821,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,MO,3635,Tina Livestock Market Cattle Auction,feeder_heifer,300-400,17,461.47,445.00,495.00,821,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,MO,3635,Tina Livestock Market Cattle Auction,feeder_heifer,400-500,35,422.20,397.50,455.00,821,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,MO,3635,Tina Livestock Market Cattle Auction,feeder_heifer,500-600,60,402.14,366.00,410.00,821,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,MO,3635,Tina Livestock Market Cattle Auction,feeder_heifer,600-700,29,351.73,331.00,369.00,821,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,MO,3635,Tina Livestock Market Cattle Auction,feeder_heifer,700-800,5,327.50,327.50,327.50,821,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,MO,3635,Tina Livestock Market Cattle Auction,slaughter_cow,,59,123.57,,,821,,,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,MS,2112,Meridian Stockyard,feeder_steer,300-400,2,495.00,490.00,500.00,304,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,MS,2112,Meridian Stockyard,feeder_steer,700-800,1,324.00,324.00,324.00,304,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,MS,2112,Meridian Stockyard,feeder_heifer,400-500,4,385.00,385.00,385.00,304,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,MS,2112,Meridian Stockyard,feeder_heifer,500-600,1,330.00,330.00,330.00,304,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,MS,2112,Meridian Stockyard,slaughter_cow,,13,123.66,,,304,,,head_weighted,2026-11-03T21:23:35Z
 2026-11-02,MS,2113,Southeast Mississippi Livestock,feeder_steer,300-400,4,524.86,510.00,540.00,236,Medium and Large 1,false,head_weighted,2026-11-03T02:04:43Z
 2026-11-02,MS,2113,Southeast Mississippi Livestock,feeder_steer,400-500,3,476.67,460.00,490.00,236,Medium and Large 1,false,head_weighted,2026-11-03T02:04:43Z
 2026-11-02,MS,2113,Southeast Mississippi Livestock,feeder_steer,500-600,5,340.91,330.00,355.00,236,Medium and Large 1,false,head_weighted,2026-11-03T02:04:43Z
@@ -48,6 +182,16 @@ sale_date,state,slug,market,class,bracket,head,avg,low,high,receipts,grade_used,
 2026-11-02,MS,2113,Southeast Mississippi Livestock,feeder_heifer,600-700,2,295.06,290.00,300.00,236,Medium and Large 1,false,head_weighted,2026-11-03T02:04:43Z
 2026-11-02,MS,2113,Southeast Mississippi Livestock,feeder_heifer,700-800,1,390.00,390.00,390.00,236,Medium and Large 1,false,head_weighted,2026-11-03T02:04:43Z
 2026-11-02,MS,2113,Southeast Mississippi Livestock,slaughter_cow,,17,120.93,,,236,,,head_weighted,2026-11-03T02:04:43Z
+2026-11-02,MS,2114,Tadlock Stockyards,feeder_steer,300-400,12,505.94,475.00,540.00,997,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,MS,2114,Tadlock Stockyards,feeder_steer,400-500,12,447.09,400.00,500.00,997,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,MS,2114,Tadlock Stockyards,feeder_steer,500-600,30,370.54,350.00,400.00,997,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,MS,2114,Tadlock Stockyards,feeder_steer,600-700,26,333.62,320.00,350.00,997,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,MS,2114,Tadlock Stockyards,feeder_steer,700-800,24,318.54,310.00,335.00,997,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,MS,2114,Tadlock Stockyards,feeder_heifer,400-500,34,351.11,330.00,380.00,997,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,MS,2114,Tadlock Stockyards,feeder_heifer,500-600,28,311.97,290.00,327.50,997,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,MS,2114,Tadlock Stockyards,feeder_heifer,600-700,16,290.34,280.00,300.00,997,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,MS,2114,Tadlock Stockyards,feeder_heifer,700-800,6,297.73,290.00,305.00,997,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,MS,2114,Tadlock Stockyards,slaughter_cow,,34,118.30,,,997,,,head_weighted,2026-11-03T21:23:35Z
 2026-11-02,MS,2122,Macon Stockyard,feeder_steer,300-400,6,460.04,450.00,480.00,323,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
 2026-11-02,MS,2122,Macon Stockyard,feeder_steer,400-500,9,403.09,390.00,430.00,323,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
 2026-11-02,MS,2122,Macon Stockyard,feeder_steer,500-600,7,370.97,360.00,385.00,323,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
@@ -58,6 +202,9 @@ sale_date,state,slug,market,class,bracket,head,avg,low,high,receipts,grade_used,
 2026-11-02,MS,2122,Macon Stockyard,feeder_heifer,500-600,5,322.11,310.00,330.00,323,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
 2026-11-02,MS,2122,Macon Stockyard,feeder_heifer,600-700,4,296.98,290.00,300.00,323,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
 2026-11-02,MS,2122,Macon Stockyard,slaughter_cow,,13,106.87,,,323,,,head_weighted,2026-11-02T23:21:20Z
+2026-11-02,MS,2123,Peoples Livestock Auction,feeder_heifer,400-500,3,333.28,330.00,335.00,42,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,MS,2123,Peoples Livestock Auction,feeder_heifer,500-600,5,306.27,255.00,325.00,42,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,MS,2123,Peoples Livestock Auction,slaughter_cow,,8,101.06,,,42,,,head_weighted,2026-11-03T21:23:35Z
 2026-11-02,MS,2124,Grenada Stockyard,feeder_steer,400-500,3,391.23,365.00,432.50,84,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
 2026-11-02,MS,2124,Grenada Stockyard,feeder_steer,500-600,4,356.25,350.00,365.00,84,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
 2026-11-02,MS,2124,Grenada Stockyard,feeder_steer,600-700,2,325.00,315.00,335.00,84,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
@@ -81,24 +228,37 @@ sale_date,state,slug,market,class,bracket,head,avg,low,high,receipts,grade_used,
 2026-11-02,MT,1775,Billings Livestock Commission Cattle Auction,feeder_heifer,400-500,76,459.91,440.00,472.00,689,Medium and Large 1,false,head_weighted,2026-11-03T02:04:43Z
 2026-11-02,MT,1775,Billings Livestock Commission Cattle Auction,feeder_heifer,500-600,24,360.71,353.00,390.00,689,Medium and Large 1,false,head_weighted,2026-11-03T02:04:43Z
 2026-11-02,MT,1775,Billings Livestock Commission Cattle Auction,slaughter_cow,,509,151.94,,,689,,,head_weighted,2026-11-03T02:04:43Z
-2026-11-02,NC,2090,WNC Regional Livestock Center,feeder_steer,300-400,2,417.50,400.00,435.00,88,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
-2026-11-02,NC,2090,WNC Regional Livestock Center,feeder_steer,400-500,1,465.00,465.00,465.00,88,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
-2026-11-02,NC,2090,WNC Regional Livestock Center,feeder_steer,500-600,11,361.35,350.00,370.00,88,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
-2026-11-02,NC,2090,WNC Regional Livestock Center,feeder_steer,600-700,1,310.00,310.00,310.00,88,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
-2026-11-02,NC,2090,WNC Regional Livestock Center,feeder_steer,700-800,1,255.00,255.00,255.00,88,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
-2026-11-02,NC,2090,WNC Regional Livestock Center,feeder_heifer,400-500,7,374.29,370.00,380.00,88,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
-2026-11-02,NC,2090,WNC Regional Livestock Center,feeder_heifer,500-600,1,350.00,350.00,350.00,88,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
-2026-11-02,NC,2090,WNC Regional Livestock Center,feeder_heifer,600-700,1,307.50,307.50,307.50,88,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
-2026-11-02,NC,2090,WNC Regional Livestock Center,slaughter_cow,,48,120.65,,,88,,,head_weighted,2026-11-02T23:21:20Z
-2026-11-02,NC,2095,Carolina Stockyards Livestock Auction (Monday),feeder_steer,400-500,1,322.00,322.00,322.00,84,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
-2026-11-02,NC,2095,Carolina Stockyards Livestock Auction (Monday),feeder_steer,500-600,2,332.50,325.00,340.00,84,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
-2026-11-02,NC,2095,Carolina Stockyards Livestock Auction (Monday),feeder_steer,600-700,5,322.56,315.00,327.00,84,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
-2026-11-02,NC,2095,Carolina Stockyards Livestock Auction (Monday),feeder_heifer,300-400,5,341.03,330.00,350.00,84,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
-2026-11-02,NC,2095,Carolina Stockyards Livestock Auction (Monday),feeder_heifer,400-500,1,320.00,320.00,320.00,84,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
-2026-11-02,NC,2095,Carolina Stockyards Livestock Auction (Monday),feeder_heifer,500-600,1,300.00,300.00,300.00,84,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
-2026-11-02,NC,2095,Carolina Stockyards Livestock Auction (Monday),feeder_heifer,600-700,3,273.35,245.00,325.00,84,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
-2026-11-02,NC,2095,Carolina Stockyards Livestock Auction (Monday),feeder_heifer,700-800,1,225.00,225.00,225.00,84,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
-2026-11-02,NC,2095,Carolina Stockyards Livestock Auction (Monday),slaughter_cow,,15,123.43,,,84,,,head_weighted,2026-11-02T23:21:20Z
+2026-11-02,NC,2088,Harward Brothers Livestock Market,feeder_steer,300-400,5,443.39,400.00,485.00,645,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,NC,2088,Harward Brothers Livestock Market,feeder_steer,400-500,9,403.24,370.00,445.00,645,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,NC,2088,Harward Brothers Livestock Market,feeder_steer,500-600,20,360.59,325.00,372.00,645,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,NC,2088,Harward Brothers Livestock Market,feeder_steer,600-700,12,337.09,316.00,355.00,645,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,NC,2088,Harward Brothers Livestock Market,feeder_steer,700-800,18,311.73,290.00,318.00,645,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,NC,2088,Harward Brothers Livestock Market,feeder_steer,800-900,2,244.74,230.00,260.00,645,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,NC,2088,Harward Brothers Livestock Market,feeder_heifer,300-400,19,395.78,365.00,420.00,645,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,NC,2088,Harward Brothers Livestock Market,feeder_heifer,400-500,34,336.11,300.00,370.00,645,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,NC,2088,Harward Brothers Livestock Market,feeder_heifer,500-600,33,314.09,290.00,337.00,645,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,NC,2088,Harward Brothers Livestock Market,feeder_heifer,600-700,31,283.73,240.00,318.00,645,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,NC,2088,Harward Brothers Livestock Market,feeder_heifer,700-800,13,243.34,206.00,269.00,645,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,NC,2088,Harward Brothers Livestock Market,feeder_heifer,800-900,7,234.80,212.00,250.00,645,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,NC,2088,Harward Brothers Livestock Market,slaughter_cow,,151,123.63,,,645,,,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,NC,2090,WNC Regional Livestock Center,feeder_steer,300-400,2,417.50,400.00,435.00,88,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,NC,2090,WNC Regional Livestock Center,feeder_steer,400-500,1,465.00,465.00,465.00,88,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,NC,2090,WNC Regional Livestock Center,feeder_steer,500-600,11,361.35,350.00,370.00,88,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,NC,2090,WNC Regional Livestock Center,feeder_steer,600-700,1,310.00,310.00,310.00,88,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,NC,2090,WNC Regional Livestock Center,feeder_steer,700-800,1,255.00,255.00,255.00,88,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,NC,2090,WNC Regional Livestock Center,feeder_heifer,400-500,7,374.29,370.00,380.00,88,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,NC,2090,WNC Regional Livestock Center,feeder_heifer,500-600,1,350.00,350.00,350.00,88,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,NC,2090,WNC Regional Livestock Center,feeder_heifer,600-700,1,307.50,307.50,307.50,88,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,NC,2090,WNC Regional Livestock Center,slaughter_cow,,45,134.36,,,88,,,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,NC,2095,Carolina Stockyards Livestock Auction (Monday),feeder_steer,400-500,1,322.00,322.00,322.00,84,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,NC,2095,Carolina Stockyards Livestock Auction (Monday),feeder_steer,500-600,2,332.50,325.00,340.00,84,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,NC,2095,Carolina Stockyards Livestock Auction (Monday),feeder_steer,600-700,5,322.56,315.00,327.00,84,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,NC,2095,Carolina Stockyards Livestock Auction (Monday),feeder_heifer,300-400,5,341.03,330.00,350.00,84,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,NC,2095,Carolina Stockyards Livestock Auction (Monday),feeder_heifer,400-500,1,320.00,320.00,320.00,84,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,NC,2095,Carolina Stockyards Livestock Auction (Monday),feeder_heifer,500-600,1,300.00,300.00,300.00,84,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,NC,2095,Carolina Stockyards Livestock Auction (Monday),feeder_heifer,600-700,1,325.00,325.00,325.00,84,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,NC,2095,Carolina Stockyards Livestock Auction (Monday),feeder_heifer,700-800,1,225.00,225.00,225.00,84,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,NC,2095,Carolina Stockyards Livestock Auction (Monday),slaughter_cow,,15,123.43,,,84,,,head_weighted,2026-11-03T21:23:35Z
 2026-11-02,NC,3775,"Southeastern Auction Co Inc – Chadbourn, NC",feeder_heifer,300-400,2,327.50,320.00,335.00,54,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
 2026-11-02,NC,3775,"Southeastern Auction Co Inc – Chadbourn, NC",feeder_heifer,400-500,3,325.02,320.00,330.00,54,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
 2026-11-02,NC,3775,"Southeastern Auction Co Inc – Chadbourn, NC",feeder_heifer,500-600,4,300.00,270.00,310.00,54,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
@@ -115,18 +275,43 @@ sale_date,state,slug,market,class,bracket,head,avg,low,high,receipts,grade_used,
 2026-11-02,NE,2248,West Point Livestock Feeder Cattle,feeder_heifer,500-600,74,405.09,373.00,411.00,846,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
 2026-11-02,NE,2248,West Point Livestock Feeder Cattle,feeder_heifer,600-700,79,338.48,329.00,370.00,846,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
 2026-11-02,NE,2248,West Point Livestock Feeder Cattle,feeder_heifer,700-800,9,303.00,303.00,303.00,846,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
-2026-11-02,OK,1280,Oklahoma National Stockyards Feeder Cattle,feeder_steer,300-400,23,555.05,520.00,585.00,4600,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
-2026-11-02,OK,1280,Oklahoma National Stockyards Feeder Cattle,feeder_steer,400-500,176,471.56,405.00,535.00,4600,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
-2026-11-02,OK,1280,Oklahoma National Stockyards Feeder Cattle,feeder_steer,500-600,371,418.74,369.00,459.00,4600,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
-2026-11-02,OK,1280,Oklahoma National Stockyards Feeder Cattle,feeder_steer,600-700,352,369.52,332.00,403.00,4600,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
-2026-11-02,OK,1280,Oklahoma National Stockyards Feeder Cattle,feeder_steer,700-800,322,351.94,320.00,368.00,4600,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
-2026-11-02,OK,1280,Oklahoma National Stockyards Feeder Cattle,feeder_steer,800-900,25,333.16,317.00,351.00,4600,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
-2026-11-02,OK,1280,Oklahoma National Stockyards Feeder Cattle,feeder_heifer,300-400,23,450.83,420.00,495.00,4600,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
-2026-11-02,OK,1280,Oklahoma National Stockyards Feeder Cattle,feeder_heifer,400-500,287,405.74,360.00,455.00,4600,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
-2026-11-02,OK,1280,Oklahoma National Stockyards Feeder Cattle,feeder_heifer,500-600,471,359.65,320.00,401.00,4600,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
-2026-11-02,OK,1280,Oklahoma National Stockyards Feeder Cattle,feeder_heifer,600-700,155,337.85,305.00,351.00,4600,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
-2026-11-02,OK,1280,Oklahoma National Stockyards Feeder Cattle,feeder_heifer,700-800,76,348.29,305.00,605.00,4600,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
-2026-11-02,OK,1280,Oklahoma National Stockyards Feeder Cattle,feeder_heifer,800-900,63,312.99,308.00,317.00,4600,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
+2026-11-02,NM,1782,Roswell Livestock Auction,feeder_steer,300-400,16,536.32,475.00,565.00,909,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,NM,1782,Roswell Livestock Auction,feeder_steer,400-500,68,490.98,457.00,530.00,909,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,NM,1782,Roswell Livestock Auction,feeder_steer,500-600,103,409.70,380.00,460.00,909,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,NM,1782,Roswell Livestock Auction,feeder_steer,600-700,45,353.42,320.00,380.00,909,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,NM,1782,Roswell Livestock Auction,feeder_steer,700-800,27,315.72,292.00,340.00,909,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,NM,1782,Roswell Livestock Auction,feeder_steer,800-900,8,309.75,280.00,314.00,909,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,NM,1782,Roswell Livestock Auction,feeder_heifer,300-400,30,490.09,455.00,535.00,909,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,NM,1782,Roswell Livestock Auction,feeder_heifer,400-500,58,430.69,400.00,465.00,909,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,NM,1782,Roswell Livestock Auction,feeder_heifer,500-600,55,350.63,300.00,415.00,909,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,NM,1782,Roswell Livestock Auction,feeder_heifer,600-700,12,358.69,350.00,365.00,909,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,NM,1782,Roswell Livestock Auction,feeder_heifer,700-800,5,286.05,270.00,300.00,909,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,NM,1782,Roswell Livestock Auction,slaughter_cow,,223,172.12,,,909,,,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,OK,1280,Oklahoma National Stockyards Feeder Cattle,feeder_steer,300-400,27,554.27,520.00,585.00,4394,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,OK,1280,Oklahoma National Stockyards Feeder Cattle,feeder_steer,400-500,185,475.92,422.00,535.00,4394,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,OK,1280,Oklahoma National Stockyards Feeder Cattle,feeder_steer,500-600,361,420.57,369.00,459.00,4394,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,OK,1280,Oklahoma National Stockyards Feeder Cattle,feeder_steer,600-700,332,370.76,332.00,403.00,4394,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,OK,1280,Oklahoma National Stockyards Feeder Cattle,feeder_steer,700-800,322,351.94,320.00,368.00,4394,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,OK,1280,Oklahoma National Stockyards Feeder Cattle,feeder_steer,800-900,25,333.16,317.00,351.00,4394,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,OK,1280,Oklahoma National Stockyards Feeder Cattle,feeder_heifer,300-400,23,450.83,420.00,495.00,4394,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,OK,1280,Oklahoma National Stockyards Feeder Cattle,feeder_heifer,400-500,287,405.74,360.00,455.00,4394,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,OK,1280,Oklahoma National Stockyards Feeder Cattle,feeder_heifer,500-600,508,360.33,320.00,401.00,4394,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,OK,1280,Oklahoma National Stockyards Feeder Cattle,feeder_heifer,600-700,162,336.19,300.00,351.00,4394,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,OK,1280,Oklahoma National Stockyards Feeder Cattle,feeder_heifer,700-800,69,322.25,305.00,330.00,4394,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,OK,1280,Oklahoma National Stockyards Feeder Cattle,feeder_heifer,800-900,63,312.99,308.00,317.00,4394,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,OK,1832,Tulsa Livestock Auction,feeder_steer,300-400,19,483.29,395.00,585.00,2155,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,OK,1832,Tulsa Livestock Auction,feeder_steer,400-500,130,441.43,400.00,469.00,2155,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,OK,1832,Tulsa Livestock Auction,feeder_steer,500-600,270,406.31,330.00,455.00,2155,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,OK,1832,Tulsa Livestock Auction,feeder_steer,600-700,117,343.17,320.00,375.00,2155,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,OK,1832,Tulsa Livestock Auction,feeder_steer,700-800,20,318.82,291.00,337.00,2155,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,OK,1832,Tulsa Livestock Auction,feeder_steer,800-900,11,305.80,275.00,317.00,2155,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,OK,1832,Tulsa Livestock Auction,feeder_heifer,300-400,44,412.08,395.00,443.00,2155,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,OK,1832,Tulsa Livestock Auction,feeder_heifer,400-500,151,373.46,302.50,437.00,2155,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,OK,1832,Tulsa Livestock Auction,feeder_heifer,500-600,136,327.78,270.00,363.00,2155,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,OK,1832,Tulsa Livestock Auction,feeder_heifer,600-700,61,314.28,270.00,337.00,2155,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,OK,1832,Tulsa Livestock Auction,feeder_heifer,700-800,13,290.00,257.00,304.00,2155,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,OK,1832,Tulsa Livestock Auction,feeder_heifer,800-900,3,295.00,291.00,297.00,2155,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,OK,1832,Tulsa Livestock Auction,slaughter_cow,,106,107.14,,,2155,,,head_weighted,2026-11-03T21:23:35Z
 2026-11-02,SC,1961,Saluda Stockyards,feeder_steer,400-500,7,423.61,400.00,445.00,154,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
 2026-11-02,SC,1961,Saluda Stockyards,feeder_steer,500-600,4,376.25,375.00,380.00,154,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
 2026-11-02,SC,1961,Saluda Stockyards,feeder_steer,600-700,1,340.00,340.00,340.00,154,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
@@ -160,3 +345,80 @@ sale_date,state,slug,market,class,bracket,head,avg,low,high,receipts,grade_used,
 2026-11-02,TN,2069,Mid-South Livestock Regional Center LLC,feeder_heifer,600-700,20,316.04,290.00,322.50,476,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
 2026-11-02,TN,2069,Mid-South Livestock Regional Center LLC,feeder_heifer,700-800,4,285.00,285.00,285.00,476,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
 2026-11-02,TN,2069,Mid-South Livestock Regional Center LLC,slaughter_cow,,43,118.48,,,476,,,head_weighted,2026-11-02T23:21:20Z
+2026-11-02,TX,3724,Giddings Livestock Auction,feeder_steer,300-400,28,464.90,420.00,525.00,1014,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,TX,3724,Giddings Livestock Auction,feeder_steer,400-500,47,409.51,390.00,445.00,1014,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,TX,3724,Giddings Livestock Auction,feeder_steer,500-600,68,352.12,335.00,420.00,1014,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,TX,3724,Giddings Livestock Auction,feeder_steer,600-700,47,337.69,320.00,365.00,1014,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,TX,3724,Giddings Livestock Auction,feeder_steer,700-800,11,313.20,310.00,320.00,1014,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,TX,3724,Giddings Livestock Auction,feeder_steer,800-900,1,300.00,300.00,300.00,1014,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,TX,3724,Giddings Livestock Auction,feeder_heifer,300-400,28,422.03,390.00,505.00,1014,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,TX,3724,Giddings Livestock Auction,feeder_heifer,400-500,36,382.48,360.00,500.00,1014,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,TX,3724,Giddings Livestock Auction,feeder_heifer,500-600,49,341.92,320.00,425.00,1014,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,TX,3724,Giddings Livestock Auction,feeder_heifer,600-700,18,323.70,305.00,400.00,1014,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,TX,3724,Giddings Livestock Auction,feeder_heifer,700-800,7,309.11,300.00,320.00,1014,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,TX,3724,Giddings Livestock Auction,feeder_heifer,800-900,1,372.00,372.00,372.00,1014,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-02,TX,3724,Giddings Livestock Auction,slaughter_cow,,124,112.25,,,1014,,,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,FL,1419,Okeechobee Livestock Auction,feeder_steer,300-400,23,578.54,530.00,640.00,357,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,FL,1419,Okeechobee Livestock Auction,feeder_steer,400-500,32,475.61,420.00,525.00,357,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,FL,1419,Okeechobee Livestock Auction,feeder_steer,500-600,25,388.43,360.00,410.00,357,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,FL,1419,Okeechobee Livestock Auction,feeder_steer,600-700,5,349.17,340.00,355.00,357,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,FL,1419,Okeechobee Livestock Auction,feeder_heifer,300-400,25,465.92,420.00,520.00,357,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,FL,1419,Okeechobee Livestock Auction,feeder_heifer,400-500,25,400.12,360.00,450.00,357,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,FL,1419,Okeechobee Livestock Auction,feeder_heifer,500-600,23,337.71,320.00,360.00,357,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,FL,1419,Okeechobee Livestock Auction,slaughter_cow,,31,117.06,,,357,,,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,FL,1607,Cattlemen's Livestock Auction,feeder_steer,300-400,8,572.49,500.00,620.00,253,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,FL,1607,Cattlemen's Livestock Auction,feeder_steer,400-500,10,434.92,400.00,475.00,253,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,FL,1607,Cattlemen's Livestock Auction,feeder_steer,500-600,7,377.69,355.00,400.00,253,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,FL,1607,Cattlemen's Livestock Auction,feeder_steer,600-700,4,338.74,325.00,360.00,253,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,FL,1607,Cattlemen's Livestock Auction,feeder_steer,700-800,1,290.00,290.00,290.00,253,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,FL,1607,Cattlemen's Livestock Auction,feeder_heifer,300-400,11,457.01,430.00,510.00,253,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,FL,1607,Cattlemen's Livestock Auction,feeder_heifer,400-500,15,383.50,325.00,440.00,253,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,FL,1607,Cattlemen's Livestock Auction,feeder_heifer,500-600,16,328.71,310.00,345.00,253,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,FL,1607,Cattlemen's Livestock Auction,feeder_heifer,600-700,7,302.11,285.00,340.00,253,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,FL,1607,Cattlemen's Livestock Auction,feeder_heifer,700-800,1,285.00,285.00,285.00,253,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,FL,1607,Cattlemen's Livestock Auction,slaughter_cow,,47,113.53,,,253,,,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,GA,1950,Mosely Livestock Feeder Cattle Board Sale,feeder_steer,600-700,80,341.50,341.50,341.50,347,medium and large 1-2,true,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,GA,1950,Mosely Livestock Feeder Cattle Board Sale,feeder_steer,700-800,73,342.00,342.00,342.00,347,medium and large 1-2,true,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,GA,1950,Mosely Livestock Feeder Cattle Board Sale,feeder_steer,800-900,54,311.00,311.00,311.00,347,medium and large 1-2,true,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,GA,1950,Mosely Livestock Feeder Cattle Board Sale,feeder_heifer,700-800,140,315.00,315.00,315.00,347,medium and large 1-2,true,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,KY,2188,United Producers Inc.,feeder_heifer,400-500,1,360.00,360.00,360.00,24,medium and large 1-2,true,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,KY,2188,United Producers Inc.,feeder_heifer,600-700,2,285.00,285.00,285.00,24,medium and large 1-2,true,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,KY,2188,United Producers Inc.,slaughter_cow,,5,108.50,,,24,,,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,OK,1281,OKC West Livestock Auction,feeder_steer,300-400,43,525.48,500.00,600.00,3500,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,OK,1281,OKC West Livestock Auction,feeder_steer,400-500,86,499.92,450.00,530.00,3500,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,OK,1281,OKC West Livestock Auction,feeder_steer,500-600,230,448.28,375.00,485.00,3500,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,OK,1281,OKC West Livestock Auction,feeder_steer,600-700,297,358.36,325.00,390.00,3500,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,OK,1281,OKC West Livestock Auction,feeder_steer,700-800,18,321.94,315.00,340.00,3500,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,OK,1281,OKC West Livestock Auction,feeder_heifer,300-400,69,471.07,450.00,500.00,3500,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,OK,1281,OKC West Livestock Auction,feeder_heifer,400-500,231,405.08,370.00,460.00,3500,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,OK,1281,OKC West Livestock Auction,feeder_heifer,500-600,165,343.71,310.00,390.00,3500,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,OK,1281,OKC West Livestock Auction,feeder_heifer,600-700,141,336.16,310.00,350.00,3500,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,OK,1281,OKC West Livestock Auction,feeder_heifer,700-800,9,300.00,300.00,300.00,3500,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,SC,1956,Low Country Livestock Exchange,feeder_steer,300-400,1,465.00,465.00,465.00,150,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,SC,1956,Low Country Livestock Exchange,feeder_steer,400-500,2,420.00,420.00,420.00,150,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,SC,1956,Low Country Livestock Exchange,feeder_steer,500-600,1,350.00,350.00,350.00,150,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,SC,1956,Low Country Livestock Exchange,feeder_heifer,300-400,7,389.37,380.00,400.00,150,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,SC,1956,Low Country Livestock Exchange,feeder_heifer,400-500,6,376.64,355.00,390.00,150,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,SC,1956,Low Country Livestock Exchange,feeder_heifer,500-600,2,320.00,320.00,320.00,150,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,SC,1956,Low Country Livestock Exchange,slaughter_cow,,21,130.18,,,150,,,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,TN,2065,Dickson Regional Livestock West,feeder_steer,300-400,5,436.82,425.00,440.00,118,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,TN,2065,Dickson Regional Livestock West,feeder_steer,400-500,5,404.02,385.00,415.00,118,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,TN,2065,Dickson Regional Livestock West,feeder_steer,500-600,16,379.78,360.00,400.00,118,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,TN,2065,Dickson Regional Livestock West,feeder_steer,600-700,12,339.58,335.00,340.00,118,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,TN,2065,Dickson Regional Livestock West,feeder_steer,700-800,4,335.00,335.00,335.00,118,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,TN,2065,Dickson Regional Livestock West,feeder_heifer,300-400,7,409.24,405.00,420.00,118,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,TN,2065,Dickson Regional Livestock West,feeder_heifer,400-500,6,346.67,345.00,350.00,118,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,TN,2065,Dickson Regional Livestock West,feeder_heifer,500-600,12,346.67,330.00,355.00,118,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,TN,2065,Dickson Regional Livestock West,slaughter_cow,,24,121.70,,,118,,,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,TX,3365,Lonestar Stockyards,feeder_steer,300-400,42,549.90,538.00,580.00,706,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,TX,3365,Lonestar Stockyards,feeder_steer,400-500,29,465.49,457.00,510.00,706,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,TX,3365,Lonestar Stockyards,feeder_steer,500-600,84,408.06,380.00,430.00,706,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,TX,3365,Lonestar Stockyards,feeder_steer,600-700,30,350.13,332.00,352.00,706,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,TX,3365,Lonestar Stockyards,feeder_steer,700-800,4,313.00,313.00,313.00,706,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,TX,3365,Lonestar Stockyards,feeder_steer,800-900,17,318.12,312.00,325.00,706,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,TX,3365,Lonestar Stockyards,feeder_heifer,300-400,38,474.21,450.00,490.00,706,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,TX,3365,Lonestar Stockyards,feeder_heifer,400-500,22,399.99,370.00,423.00,706,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,TX,3365,Lonestar Stockyards,feeder_heifer,500-600,27,351.11,336.00,360.00,706,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,TX,3365,Lonestar Stockyards,feeder_heifer,700-800,12,312.50,305.00,315.00,706,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,TX,3365,Lonestar Stockyards,feeder_heifer,800-900,2,269.00,269.00,269.00,706,Medium and Large 1,false,head_weighted,2026-11-03T21:23:35Z
+2026-11-03,TX,3365,Lonestar Stockyards,slaughter_cow,,64,154.01,,,706,,,head_weighted,2026-11-03T21:23:35Z
