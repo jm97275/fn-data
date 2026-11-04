@@ -7547,6 +7547,9 @@ sale_date,state,slug,market,class,bracket,head,avg,low,high,receipts,grade_used,
 2026-10-31,VA,2186,Springlake Graded Feeder Cattle Sale,feeder_heifer,500-600,13,344.38,340.00,359.00,280,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
 2026-10-31,VA,2186,Springlake Graded Feeder Cattle Sale,feeder_heifer,600-700,7,315.07,297.50,318.00,280,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
 2026-10-31,VA,2186,Springlake Graded Feeder Cattle Sale,feeder_heifer,700-800,4,282.50,282.50,282.50,280,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
+2026-10-31,WV,1878,South Branch Valley Livestock Exchange,feeder_steer,500-600,8,402.50,402.50,402.50,424,Medium and Large 1,false,head_weighted,2026-11-04T21:36:57Z
+2026-10-31,WV,1878,South Branch Valley Livestock Exchange,feeder_heifer,600-700,6,315.00,315.00,315.00,424,Medium and Large 1,false,head_weighted,2026-11-04T21:36:57Z
+2026-10-31,WV,1878,South Branch Valley Livestock Exchange,slaughter_cow,,59,113.68,,,424,,,head_weighted,2026-11-04T21:36:57Z
 2026-10-31,WV,1879,Weston Livestock Marketing,feeder_steer,300-400,8,461.97,420.00,470.00,322,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
 2026-10-31,WV,1879,Weston Livestock Marketing,feeder_steer,400-500,12,406.94,360.00,450.00,322,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
 2026-10-31,WV,1879,Weston Livestock Marketing,feeder_steer,500-600,23,368.06,315.00,410.00,322,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
