@@ -1,110 +1,111 @@
 {
-  "fetched": "2026-07-01T00:00:00Z",
+  "fetched": "2026-09-01T00:00:00Z",
   "fiscal_year": 2026,
-  "national_avg_per_acre": 70.2,
+  "national_avg_per_acre": 70.21,
   "states": {
     "TX": {
-      "avg_per_acre": 33.1,
-      "enrolled_acres": 2192373,
-      "contracts": 13533
+      "avg_per_acre": 33.11,
+      "enrolled_acres": 2189151,
+      "contracts": 13514
     },
     "KS": {
-      "avg_per_acre": 37.46,
-      "enrolled_acres": 2068446,
-      "contracts": 26992
+      "avg_per_acre": 37.45,
+      "enrolled_acres": 2064769,
+      "contracts": 26940
     },
     "MT": {
       "avg_per_acre": 22.39,
-      "enrolled_acres": 938902,
-      "contracts": 5167
+      "enrolled_acres": 934163,
+      "contracts": 5150
     },
     "CO": {
-      "avg_per_acre": 23.31,
-      "enrolled_acres": 3107959,
-      "contracts": 11177
+      "avg_per_acre": 23.32,
+      "enrolled_acres": 3103564,
+      "contracts": 11161
     },
     "ND": {
-      "avg_per_acre": 61.7,
-      "enrolled_acres": 1201042,
-      "contracts": 18332
+      "avg_per_acre": 61.71,
+      "enrolled_acres": 1199223,
+      "contracts": 18316
     },
     "SD": {
-      "avg_per_acre": 53.44,
-      "enrolled_acres": 2746547,
-      "contracts": 32364
+      "avg_per_acre": 53.43,
+      "enrolled_acres": 2744787,
+      "contracts": 32360
     },
     "NE": {
-      "avg_per_acre": 38.44,
-      "enrolled_acres": 2499791,
-      "contracts": 20909
+      "avg_per_acre": 38.46,
+      "enrolled_acres": 2494295,
+      "contracts": 20885
     },
     "MN": {
-      "avg_per_acre": 167.24,
-      "enrolled_acres": 954697,
-      "contracts": 53487
+      "avg_per_acre": 167.19,
+      "enrolled_acres": 952377,
+      "contracts": 53406
     },
     "IA": {
-      "avg_per_acre": 240.38,
-      "enrolled_acres": 1628998,
-      "contracts": 102093
+      "avg_per_acre": 240.41,
+      "enrolled_acres": 1626724,
+      "contracts": 102057
     },
     "MO": {
-      "avg_per_acre": 149.62,
-      "enrolled_acres": 656871,
-      "contracts": 22009
+      "avg_per_acre": 149.63,
+      "enrolled_acres": 656325,
+      "contracts": 22003
     },
     "OK": {
-      "avg_per_acre": 20.57,
-      "enrolled_acres": 738396,
-      "contracts": 4251
+      "avg_per_acre": 20.56,
+      "enrolled_acres": 735615,
+      "contracts": 4237
     },
     "WA": {
-      "avg_per_acre": 61.59,
-      "enrolled_acres": 901593,
-      "contracts": 7892
+      "avg_per_acre": 61.62,
+      "enrolled_acres": 899857,
+      "contracts": 7884
     },
     "OR": {
-      "avg_per_acre": 35.29,
-      "enrolled_acres": 960295,
+      "avg_per_acre": 35.32,
+      "enrolled_acres": 959264,
       "contracts": 4178
     },
     "ID": {
-      "avg_per_acre": 46.06,
-      "enrolled_acres": 353266,
-      "contracts": 2221
+      "avg_per_acre": 46.04,
+      "enrolled_acres": 352485,
+      "contracts": 2210
     },
     "WY": {
-      "avg_per_acre": 14.99,
-      "enrolled_acres": 614252,
-      "contracts": 897
+      "avg_per_acre": 15.02,
+      "enrolled_acres": 610980,
+      "contracts": 891
     },
     "IL": {
-      "avg_per_acre": 220.89,
-      "enrolled_acres": 771561,
-      "contracts": 70600
+      "avg_per_acre": 220.91,
+      "enrolled_acres": 770682,
+      "contracts": 70591
     },
     "IN": {
-      "avg_per_acre": 218.66,
-      "enrolled_acres": 173779,
-      "contracts": 25967
+      "avg_per_acre": 218.64,
+      "enrolled_acres": 173549,
+      "contracts": 25920
     },
     "OH": {
-      "avg_per_acre": 234.97,
-      "enrolled_acres": 225194,
-      "contracts": 33399
+      "avg_per_acre": 235.22,
+      "enrolled_acres": 224572,
+      "contracts": 33351
     },
     "WI": {
-      "avg_per_acre": 179.84,
-      "enrolled_acres": 186177,
-      "contracts": 12774
+      "avg_per_acre": 179.83,
+      "enrolled_acres": 185739,
+      "contracts": 12763
     },
     "MI": {
-      "avg_per_acre": 130.1,
-      "enrolled_acres": 106028,
-      "contracts": 6865
+      "avg_per_acre": 130.01,
+      "enrolled_acres": 105731,
+      "contracts": 6838
     }
   },
-  "source": "USDA FSA CRP Monthly Summary, July 2026",
-  "as_of": "2026-07",
+  "source": "USDA FSA CRP Monthly Summary, September 2026",
+  "source_url": "https://www.fsa.usda.gov/sites/default/files/2026-10/CRPMonthlySeptember2026WithPageNumbers.pdf",
+  "as_of": "2026-09",
   "note": "State average rental rates. Actual rates vary by county and soil type."
 }
