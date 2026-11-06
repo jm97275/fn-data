@@ -7562,3 +7562,14 @@ sale_date,state,slug,market,class,bracket,head,avg,low,high,receipts,grade_used,
 2026-10-31,WV,1879,Weston Livestock Marketing,feeder_heifer,600-700,7,300.71,292.50,305.00,322,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
 2026-10-31,WV,1879,Weston Livestock Marketing,feeder_heifer,700-800,2,252.50,250.00,255.00,322,Medium and Large 1,false,head_weighted,2026-11-02T23:21:20Z
 2026-10-31,WV,1879,Weston Livestock Marketing,slaughter_cow,,49,104.24,,,322,,,head_weighted,2026-11-02T23:21:20Z
+2026-10-31,WV,1880,Jackson County Regional Livestock Market,feeder_steer,300-400,10,470.65,410.00,500.00,361,Medium and Large 1,false,head_weighted,2026-11-06T00:44:47Z
+2026-10-31,WV,1880,Jackson County Regional Livestock Market,feeder_steer,400-500,11,418.66,407.00,437.50,361,Medium and Large 1,false,head_weighted,2026-11-06T00:44:47Z
+2026-10-31,WV,1880,Jackson County Regional Livestock Market,feeder_steer,500-600,18,374.40,361.00,400.00,361,Medium and Large 1,false,head_weighted,2026-11-06T00:44:47Z
+2026-10-31,WV,1880,Jackson County Regional Livestock Market,feeder_steer,600-700,6,339.59,337.50,345.00,361,Medium and Large 1,false,head_weighted,2026-11-06T00:44:47Z
+2026-10-31,WV,1880,Jackson County Regional Livestock Market,feeder_steer,700-800,2,309.00,287.00,331.00,361,Medium and Large 1,false,head_weighted,2026-11-06T00:44:47Z
+2026-10-31,WV,1880,Jackson County Regional Livestock Market,feeder_heifer,300-400,14,424.51,380.00,455.00,361,Medium and Large 1,false,head_weighted,2026-11-06T00:44:47Z
+2026-10-31,WV,1880,Jackson County Regional Livestock Market,feeder_heifer,400-500,23,367.09,342.50,390.00,361,Medium and Large 1,false,head_weighted,2026-11-06T00:44:47Z
+2026-10-31,WV,1880,Jackson County Regional Livestock Market,feeder_heifer,500-600,28,334.32,311.00,350.00,361,Medium and Large 1,false,head_weighted,2026-11-06T00:44:47Z
+2026-10-31,WV,1880,Jackson County Regional Livestock Market,feeder_heifer,600-700,5,308.13,290.00,317.50,361,Medium and Large 1,false,head_weighted,2026-11-06T00:44:47Z
+2026-10-31,WV,1880,Jackson County Regional Livestock Market,feeder_heifer,700-800,4,269.57,262.50,276.00,361,Medium and Large 1,false,head_weighted,2026-11-06T00:44:47Z
+2026-10-31,WV,1880,Jackson County Regional Livestock Market,slaughter_cow,,31,144.56,,,361,,,head_weighted,2026-11-06T00:44:47Z
