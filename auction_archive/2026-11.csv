@@ -1513,6 +1513,14 @@ sale_date,state,slug,market,class,bracket,head,avg,low,high,receipts,grade_used,
 2026-11-05,WA,2132,Toppenish Livestock Auction,feeder_heifer,500-600,12,332.00,319.00,345.00,419,medium and large 1-2,true,head_weighted,2026-11-06T00:44:47Z
 2026-11-05,WA,2132,Toppenish Livestock Auction,feeder_heifer,600-700,15,294.20,257.00,319.00,419,medium and large 1-2,true,head_weighted,2026-11-06T00:44:47Z
 2026-11-05,WA,2132,Toppenish Livestock Auction,slaughter_cow,,277,134.38,,,419,,,head_weighted,2026-11-06T00:44:47Z
+2026-11-06,CO,1906,Livestock Exchange Feeder Cattle Auction (Friday),feeder_steer,300-400,7,510.00,510.00,510.00,925,Medium and Large 1,false,head_weighted,2026-11-06T23:59:27Z
+2026-11-06,CO,1906,Livestock Exchange Feeder Cattle Auction (Friday),feeder_steer,400-500,12,502.44,495.00,507.50,925,Medium and Large 1,false,head_weighted,2026-11-06T23:59:27Z
+2026-11-06,CO,1906,Livestock Exchange Feeder Cattle Auction (Friday),feeder_steer,500-600,69,436.13,415.00,460.00,925,Medium and Large 1,false,head_weighted,2026-11-06T23:59:27Z
+2026-11-06,CO,1906,Livestock Exchange Feeder Cattle Auction (Friday),feeder_steer,600-700,105,378.15,370.00,387.00,925,Medium and Large 1,false,head_weighted,2026-11-06T23:59:27Z
+2026-11-06,CO,1906,Livestock Exchange Feeder Cattle Auction (Friday),feeder_heifer,300-400,7,462.86,460.00,470.00,925,Medium and Large 1,false,head_weighted,2026-11-06T23:59:27Z
+2026-11-06,CO,1906,Livestock Exchange Feeder Cattle Auction (Friday),feeder_heifer,400-500,8,432.50,432.50,432.50,925,Medium and Large 1,false,head_weighted,2026-11-06T23:59:27Z
+2026-11-06,CO,1906,Livestock Exchange Feeder Cattle Auction (Friday),feeder_heifer,500-600,75,355.21,341.00,376.00,925,Medium and Large 1,false,head_weighted,2026-11-06T23:59:27Z
+2026-11-06,CO,1906,Livestock Exchange Feeder Cattle Auction (Friday),feeder_heifer,600-700,8,330.00,330.00,330.00,925,Medium and Large 1,false,head_weighted,2026-11-06T23:59:27Z
 2026-11-06,IA,2155,Dunlap Livestock Feeder Cattle,feeder_steer,500-600,45,376.52,355.00,409.00,581,Medium and Large 1,false,head_weighted,2026-11-06T21:09:31Z
 2026-11-06,IA,2155,Dunlap Livestock Feeder Cattle,feeder_steer,600-700,59,341.65,313.00,365.00,581,Medium and Large 1,false,head_weighted,2026-11-06T21:09:31Z
 2026-11-06,IA,2155,Dunlap Livestock Feeder Cattle,feeder_steer,700-800,91,335.69,323.00,341.00,581,Medium and Large 1,false,head_weighted,2026-11-06T21:09:31Z
@@ -1531,6 +1539,20 @@ sale_date,state,slug,market,class,bracket,head,avg,low,high,receipts,grade_used,
 2026-11-06,KY,2210,Blue Grass Stockyards,feeder_heifer,600-700,5,310.00,310.00,310.00,393,medium and large 1-2,true,head_weighted,2026-11-06T21:09:31Z
 2026-11-06,KY,2210,Blue Grass Stockyards,feeder_heifer,700-800,1,272.50,272.50,272.50,393,medium and large 1-2,true,head_weighted,2026-11-06T21:09:31Z
 2026-11-06,KY,2210,Blue Grass Stockyards,slaughter_cow,,17,106.77,,,393,,,head_weighted,2026-11-06T21:09:31Z
+2026-11-06,MO,1810,Eastern MO Commission Company,feeder_steer,400-500,8,467.50,467.50,467.50,410,Medium and Large 1,false,head_weighted,2026-11-06T23:59:27Z
+2026-11-06,MO,1810,Eastern MO Commission Company,feeder_steer,500-600,35,404.02,386.00,414.00,410,Medium and Large 1,false,head_weighted,2026-11-06T23:59:27Z
+2026-11-06,MO,1810,Eastern MO Commission Company,feeder_steer,600-700,16,381.00,381.00,381.00,410,Medium and Large 1,false,head_weighted,2026-11-06T23:59:27Z
+2026-11-06,MO,1810,Eastern MO Commission Company,feeder_heifer,500-600,3,342.50,342.50,342.50,410,Medium and Large 1,false,head_weighted,2026-11-06T23:59:27Z
+2026-11-06,MO,1810,Eastern MO Commission Company,slaughter_cow,,88,120.15,,,410,,,head_weighted,2026-11-06T23:59:27Z
+2026-11-06,NE,1849,Lexington Livestock Market,feeder_steer,300-400,50,559.87,535.00,567.00,1835,Medium and Large 1,false,head_weighted,2026-11-06T23:59:27Z
+2026-11-06,NE,1849,Lexington Livestock Market,feeder_steer,400-500,83,504.23,481.00,511.00,1835,Medium and Large 1,false,head_weighted,2026-11-06T23:59:27Z
+2026-11-06,NE,1849,Lexington Livestock Market,feeder_steer,500-600,297,457.54,414.00,495.00,1835,Medium and Large 1,false,head_weighted,2026-11-06T23:59:27Z
+2026-11-06,NE,1849,Lexington Livestock Market,feeder_steer,600-700,435,402.05,370.50,421.00,1835,Medium and Large 1,false,head_weighted,2026-11-06T23:59:27Z
+2026-11-06,NE,1849,Lexington Livestock Market,feeder_heifer,300-400,70,454.79,442.00,465.00,1835,Medium and Large 1,false,head_weighted,2026-11-06T23:59:27Z
+2026-11-06,NE,1849,Lexington Livestock Market,feeder_heifer,400-500,145,421.32,394.00,435.00,1835,Medium and Large 1,false,head_weighted,2026-11-06T23:59:27Z
+2026-11-06,NE,1849,Lexington Livestock Market,feeder_heifer,500-600,197,386.62,356.50,411.00,1835,Medium and Large 1,false,head_weighted,2026-11-06T23:59:27Z
+2026-11-06,NE,1849,Lexington Livestock Market,feeder_heifer,600-700,84,329.50,318.00,336.00,1835,Medium and Large 1,false,head_weighted,2026-11-06T23:59:27Z
+2026-11-06,NE,1849,Lexington Livestock Market,feeder_heifer,800-900,10,296.00,296.00,296.00,1835,Medium and Large 1,false,head_weighted,2026-11-06T23:59:27Z
 2026-11-06,NE,1854,Imperial Auction Market,feeder_steer,300-400,15,528.74,527.50,532.00,639,Medium and Large 1,false,head_weighted,2026-11-06T21:09:31Z
 2026-11-06,NE,1854,Imperial Auction Market,feeder_steer,400-500,32,497.88,480.00,506.00,639,Medium and Large 1,false,head_weighted,2026-11-06T21:09:31Z
 2026-11-06,NE,1854,Imperial Auction Market,feeder_steer,500-600,63,435.96,430.00,448.00,639,Medium and Large 1,false,head_weighted,2026-11-06T21:09:31Z
