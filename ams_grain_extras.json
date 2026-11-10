@@ -1,29 +1,29 @@
 {
-  "fetched": "2026-11-07T23:13:30Z",
+  "fetched": "2026-11-09T23:51:55Z",
   "note": "Public AMS PDFs parsed via pdftotext. Sorghum from TX/KS daily grain bids; barley from MT daily; DDGs from weekly national grain co-products report; rice from weekly national rice summary. Closes freshness audit items 8-9.",
   "sorghum_tx": {
     "slug": "2711",
     "source": "Texas Daily Grain Bids",
     "frequency": "daily",
     "unit": "$/bu",
-    "report_date": "2026-11-06",
-    "avg": 4.2713,
+    "report_date": "2026-11-09",
+    "avg": 4.2488,
     "rows": [
       {
         "region": "North Panhandle",
-        "price": 3.89
+        "price": 3.8675
       },
       {
         "region": "Central Panhandle",
-        "price": 3.94
+        "price": 3.9175
       },
       {
         "region": "South Panhandle",
-        "price": 4.265
+        "price": 4.2425
       },
       {
         "region": "South Plains",
-        "price": 4.99
+        "price": 4.9675
       }
     ]
   },
@@ -32,40 +32,40 @@
     "source": "Kansas Daily Grain Bids",
     "frequency": "daily",
     "unit": "$/bu",
-    "report_date": "2026-11-06",
-    "avg": 3.7119,
+    "report_date": "2026-11-09",
+    "avg": 3.6894,
     "rows": [
       {
         "region": "Northwest",
-        "price": 3.79
+        "price": 3.7675
       },
       {
         "region": "Southwest",
-        "price": 3.715
+        "price": 3.6925
       },
       {
         "region": "South",
-        "price": 3.715
+        "price": 3.6925
       },
       {
         "region": "West",
-        "price": 3.765
+        "price": 3.7425
       },
       {
         "region": "Central",
-        "price": 3.665
+        "price": 3.6425
       },
       {
         "region": "Southeast",
-        "price": 3.615
+        "price": 3.5925
       },
       {
         "region": "North",
-        "price": 3.615
+        "price": 3.5925
       },
       {
         "region": "East",
-        "price": 3.815
+        "price": 3.7925
       }
     ]
   },
@@ -155,7 +155,7 @@
     "source": "Weekly National Rice Summary",
     "frequency": "weekly",
     "unit": "$/cwt",
-    "report_date": "2026-11-02",
+    "report_date": "2026-11-09",
     "avg_long": 34.75,
     "rows_long": [
       {
