@@ -1,17 +1,13 @@
 {
-  "fetched": "2026-11-12T01:52:47Z",
-  "week_ending": "2026-10-30",
-  "production_kbd": 1143.0,
-  "prior_week_kbd": 1118.0,
-  "year_ago_kbd": 1123.0,
-  "pct_change_week": 2.2,
-  "pct_change_year": 1.8,
-  "stocks_mb": 24434.0,
+  "fetched": "2026-11-12T22:04:32Z",
+  "week_ending": "2026-11-06",
+  "production_kbd": 1130.0,
+  "prior_week_kbd": 1143.0,
+  "year_ago_kbd": 1075.0,
+  "pct_change_week": -1.1,
+  "pct_change_year": 5.1,
+  "stocks_mb": 24345.0,
   "history": [
-    {
-      "date": "2024-11-08",
-      "value": 1113.0
-    },
     {
       "date": "2024-11-15",
       "value": 1110.0
@@ -423,6 +419,10 @@
     {
       "date": "2026-10-30",
       "value": 1143.0
+    },
+    {
+      "date": "2026-11-06",
+      "value": 1130.0
     }
   ]
 }
