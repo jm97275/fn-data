@@ -3386,3 +3386,14 @@ sale_date,state,slug,market,class,bracket,head,avg,low,high,receipts,grade_used,
 2026-11-13,TN,2073,East Tennessee Livestock Center Graded Feeder Cattle Sale,feeder_heifer,600-700,44,316.03,280.00,322.00,620,Medium and Large 1,false,head_weighted,2026-11-14T20:12:07Z
 2026-11-13,TN,2073,East Tennessee Livestock Center Graded Feeder Cattle Sale,feeder_heifer,700-800,33,286.64,265.00,290.50,620,Medium and Large 1,false,head_weighted,2026-11-14T20:12:07Z
 2026-11-13,TN,2073,East Tennessee Livestock Center Graded Feeder Cattle Sale,feeder_heifer,800-900,2,237.50,237.50,237.50,620,Medium and Large 1,false,head_weighted,2026-11-14T20:12:07Z
+2026-11-14,TN,2061,Crossville Stockyard,feeder_steer,300-400,2,430.00,430.00,430.00,172,Medium and Large 1,false,head_weighted,2026-11-14T23:37:03Z
+2026-11-14,TN,2061,Crossville Stockyard,feeder_steer,400-500,4,426.14,370.00,460.00,172,Medium and Large 1,false,head_weighted,2026-11-14T23:37:03Z
+2026-11-14,TN,2061,Crossville Stockyard,feeder_steer,500-600,5,376.00,320.00,390.00,172,Medium and Large 1,false,head_weighted,2026-11-14T23:37:03Z
+2026-11-14,TN,2061,Crossville Stockyard,feeder_steer,600-700,11,336.36,310.00,340.00,172,Medium and Large 1,false,head_weighted,2026-11-14T23:37:03Z
+2026-11-14,TN,2061,Crossville Stockyard,feeder_steer,800-900,5,320.00,320.00,320.00,172,Medium and Large 1,false,head_weighted,2026-11-14T23:37:03Z
+2026-11-14,TN,2061,Crossville Stockyard,feeder_heifer,300-400,5,348.01,325.00,385.00,172,Medium and Large 1,false,head_weighted,2026-11-14T23:37:03Z
+2026-11-14,TN,2061,Crossville Stockyard,feeder_heifer,400-500,4,314.23,304.00,325.00,172,Medium and Large 1,false,head_weighted,2026-11-14T23:37:03Z
+2026-11-14,TN,2061,Crossville Stockyard,feeder_heifer,500-600,16,311.50,292.00,331.00,172,Medium and Large 1,false,head_weighted,2026-11-14T23:37:03Z
+2026-11-14,TN,2061,Crossville Stockyard,feeder_heifer,600-700,7,297.86,285.00,300.00,172,Medium and Large 1,false,head_weighted,2026-11-14T23:37:03Z
+2026-11-14,TN,2061,Crossville Stockyard,feeder_heifer,700-800,4,264.00,263.00,265.00,172,Medium and Large 1,false,head_weighted,2026-11-14T23:37:03Z
+2026-11-14,TN,2061,Crossville Stockyard,slaughter_cow,,27,107.60,,,172,,,head_weighted,2026-11-14T23:37:03Z
