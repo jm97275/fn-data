@@ -1,29 +1,29 @@
 {
-  "fetched": "2026-11-14T23:29:30Z",
+  "fetched": "2026-11-16T23:50:04Z",
   "note": "Public AMS PDFs parsed via pdftotext. Sorghum from TX/KS daily grain bids; barley from MT daily; DDGs from weekly national grain co-products report; rice from weekly national rice summary. Closes freshness audit items 8-9.",
   "sorghum_tx": {
     "slug": "2711",
     "source": "Texas Daily Grain Bids",
     "frequency": "daily",
     "unit": "$/bu",
-    "report_date": "2026-11-13",
-    "avg": 4.3113,
+    "report_date": "2026-11-16",
+    "avg": 4.3438,
     "rows": [
       {
         "region": "North Panhandle",
-        "price": 3.93
+        "price": 3.9625
       },
       {
         "region": "Central Panhandle",
-        "price": 3.98
+        "price": 4.0125
       },
       {
         "region": "South Panhandle",
-        "price": 4.305
+        "price": 4.3375
       },
       {
         "region": "South Plains",
-        "price": 5.03
+        "price": 5.0625
       }
     ]
   },
@@ -32,40 +32,40 @@
     "source": "Kansas Daily Grain Bids",
     "frequency": "daily",
     "unit": "$/bu",
-    "report_date": "2026-11-13",
-    "avg": 3.7581,
+    "report_date": "2026-11-16",
+    "avg": 3.7906,
     "rows": [
       {
         "region": "Northwest",
-        "price": 3.83
+        "price": 3.8625
       },
       {
         "region": "Southwest",
-        "price": 3.805
+        "price": 3.8375
       },
       {
         "region": "South",
-        "price": 3.755
+        "price": 3.7875
       },
       {
         "region": "West",
-        "price": 3.805
+        "price": 3.8375
       },
       {
         "region": "Central",
-        "price": 3.705
+        "price": 3.7375
       },
       {
         "region": "Southeast",
-        "price": 3.655
+        "price": 3.6875
       },
       {
         "region": "North",
-        "price": 3.655
+        "price": 3.6875
       },
       {
         "region": "East",
-        "price": 3.855
+        "price": 3.8875
       }
     ]
   },
@@ -74,63 +74,63 @@
     "source": "National Weekly Grain Co-Products Report",
     "frequency": "weekly",
     "unit": "$/ton",
-    "report_date": "2026-11-02",
-    "avg_dried": 183.98,
+    "report_date": "2026-11-09",
+    "avg_dried": 183.52,
     "rows_dried": [
       {
         "region": "Illinois",
-        "price": 192.5
+        "price": 201.0
       },
       {
         "region": "Indiana",
-        "price": 173.75
+        "price": 173.38
       },
       {
         "region": "Iowa",
-        "price": 166.56
+        "price": 165.19
       },
       {
         "region": "Kansas",
-        "price": 220.0
+        "price": 225.0
       },
       {
         "region": "Michigan",
-        "price": 179.2
+        "price": 176.5
       },
       {
         "region": "Minnesota",
-        "price": 172.5
+        "price": 166.25
       },
       {
         "region": "Missouri",
-        "price": 200.0
+        "price": 197.5
       },
       {
         "region": "Nebraska",
-        "price": 191.25
+        "price": 188.75
       },
       {
         "region": "Ohio",
-        "price": 181.88
+        "price": 180.63
       },
       {
         "region": "South Dakota",
-        "price": 176.67
+        "price": 175.0
       },
       {
         "region": "Wisconsin",
         "price": 169.5
       }
     ],
-    "avg_wet": 60.5,
+    "avg_wet": 62.83,
     "rows_wet": [
       {
         "region": "Iowa",
-        "price": 56.0
+        "price": 70.0
       },
       {
         "region": "Kansas",
-        "price": 70.0
+        "price": 69.33
       },
       {
         "region": "Minnesota",
@@ -142,7 +142,7 @@
       },
       {
         "region": "Nebraska",
-        "price": 60.0
+        "price": 60.67
       },
       {
         "region": "South Dakota",
@@ -155,8 +155,8 @@
     "source": "Weekly National Rice Summary",
     "frequency": "weekly",
     "unit": "$/cwt",
-    "report_date": "2026-11-09",
-    "avg_long": 34.75,
+    "report_date": "2026-11-16",
+    "avg_long": 34.31,
     "rows_long": [
       {
         "region": "Arkansas",
@@ -172,7 +172,7 @@
       },
       {
         "region": "Texas",
-        "price": 32.0
+        "price": 30.25
       }
     ],
     "avg_medium": 39.5,
