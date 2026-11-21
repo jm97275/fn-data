@@ -5048,8 +5048,29 @@ sale_date,state,slug,market,class,bracket,head,avg,low,high,receipts,grade_used,
 2026-11-20,IA,2155,Dunlap Livestock Feeder Cattle,feeder_heifer,600-700,73,365.52,321.00,419.00,1030,Medium and Large 1,false,head_weighted,2026-11-20T22:39:47Z
 2026-11-20,IA,2155,Dunlap Livestock Feeder Cattle,feeder_heifer,700-800,11,341.00,341.00,341.00,1030,Medium and Large 1,false,head_weighted,2026-11-20T22:39:47Z
 2026-11-20,IA,2155,Dunlap Livestock Feeder Cattle,feeder_heifer,800-900,144,315.91,314.00,321.50,1030,Medium and Large 1,false,head_weighted,2026-11-20T22:39:47Z
+2026-11-20,KY,2210,Blue Grass Stockyards,feeder_steer,400-500,3,381.69,372.50,387.50,1002,medium and large 1-2,true,head_weighted,2026-11-21T01:11:57Z
+2026-11-20,KY,2210,Blue Grass Stockyards,feeder_steer,500-600,19,388.79,375.00,410.00,1002,medium and large 1-2,true,head_weighted,2026-11-21T01:11:57Z
+2026-11-20,KY,2210,Blue Grass Stockyards,feeder_steer,600-700,10,353.25,352.50,360.00,1002,medium and large 1-2,true,head_weighted,2026-11-21T01:11:57Z
+2026-11-20,KY,2210,Blue Grass Stockyards,feeder_steer,700-800,22,323.64,310.00,346.00,1002,medium and large 1-2,true,head_weighted,2026-11-21T01:11:57Z
+2026-11-20,KY,2210,Blue Grass Stockyards,feeder_steer,800-900,75,329.79,319.00,333.00,1002,medium and large 1-2,true,head_weighted,2026-11-21T01:11:57Z
+2026-11-20,KY,2210,Blue Grass Stockyards,feeder_heifer,300-400,4,310.00,310.00,310.00,1002,medium and large 1-2,true,head_weighted,2026-11-21T01:11:57Z
+2026-11-20,KY,2210,Blue Grass Stockyards,feeder_heifer,400-500,21,330.02,305.00,342.50,1002,medium and large 1-2,true,head_weighted,2026-11-21T01:11:57Z
+2026-11-20,KY,2210,Blue Grass Stockyards,feeder_heifer,500-600,16,307.80,295.00,312.50,1002,medium and large 1-2,true,head_weighted,2026-11-21T01:11:57Z
+2026-11-20,KY,2210,Blue Grass Stockyards,feeder_heifer,600-700,9,278.85,260.00,295.00,1002,medium and large 1-2,true,head_weighted,2026-11-21T01:11:57Z
+2026-11-20,KY,2210,Blue Grass Stockyards,feeder_heifer,700-800,72,316.18,235.00,318.50,1002,medium and large 1-2,true,head_weighted,2026-11-21T01:11:57Z
+2026-11-20,KY,2210,Blue Grass Stockyards,feeder_heifer,800-900,1,200.00,200.00,200.00,1002,medium and large 1-2,true,head_weighted,2026-11-21T01:11:57Z
+2026-11-20,KY,2210,Blue Grass Stockyards,slaughter_cow,,27,99.92,,,1002,,,head_weighted,2026-11-21T01:11:57Z
 2026-11-20,MO,1810,Eastern MO Commission Company,feeder_heifer,500-600,7,368.94,367.50,370.00,380,Medium and Large 1,false,head_weighted,2026-11-20T22:39:47Z
 2026-11-20,MO,1810,Eastern MO Commission Company,slaughter_cow,,143,117.51,,,380,,,head_weighted,2026-11-20T22:39:47Z
+2026-11-20,NE,1849,Lexington Livestock Market,feeder_steer,400-500,36,517.55,487.50,570.00,2362,Medium and Large 1,false,head_weighted,2026-11-21T01:11:57Z
+2026-11-20,NE,1849,Lexington Livestock Market,feeder_steer,500-600,321,454.14,416.00,501.00,2362,Medium and Large 1,false,head_weighted,2026-11-21T01:11:57Z
+2026-11-20,NE,1849,Lexington Livestock Market,feeder_steer,600-700,711,407.73,371.00,439.50,2362,Medium and Large 1,false,head_weighted,2026-11-21T01:11:57Z
+2026-11-20,NE,1849,Lexington Livestock Market,feeder_steer,700-800,160,379.18,353.00,388.50,2362,Medium and Large 1,false,head_weighted,2026-11-21T01:11:57Z
+2026-11-20,NE,1849,Lexington Livestock Market,feeder_steer,800-900,142,348.48,346.50,352.75,2362,Medium and Large 1,false,head_weighted,2026-11-21T01:11:57Z
+2026-11-20,NE,1849,Lexington Livestock Market,feeder_heifer,400-500,121,428.39,403.00,446.50,2362,Medium and Large 1,false,head_weighted,2026-11-21T01:11:57Z
+2026-11-20,NE,1849,Lexington Livestock Market,feeder_heifer,500-600,410,380.31,360.00,397.00,2362,Medium and Large 1,false,head_weighted,2026-11-21T01:11:57Z
+2026-11-20,NE,1849,Lexington Livestock Market,feeder_heifer,600-700,159,347.83,339.00,364.00,2362,Medium and Large 1,false,head_weighted,2026-11-21T01:11:57Z
+2026-11-20,NE,1849,Lexington Livestock Market,feeder_heifer,700-800,43,346.50,346.50,346.50,2362,Medium and Large 1,false,head_weighted,2026-11-21T01:11:57Z
 2026-11-20,NE,1851,Burwell Livestock Market,feeder_steer,300-400,8,500.00,500.00,500.00,1055,Medium and Large 1,false,head_weighted,2026-11-20T22:39:47Z
 2026-11-20,NE,1851,Burwell Livestock Market,feeder_steer,400-500,117,466.20,465.00,485.00,1055,Medium and Large 1,false,head_weighted,2026-11-20T22:39:47Z
 2026-11-20,NE,1851,Burwell Livestock Market,feeder_steer,500-600,125,429.19,400.00,465.00,1055,Medium and Large 1,false,head_weighted,2026-11-20T22:39:47Z
