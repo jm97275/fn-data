@@ -22,21 +22,21 @@
   "regions": {
     "all_markets": {
       "this_week": {
-        "steers_500_600": 434.77,
-        "steers_600_700": 388.14,
-        "heifers_500_600": 379.11
+        "steers_500_600": 434.63,
+        "steers_600_700": 387.91,
+        "heifers_500_600": 379.07
       },
       "avg_4wk": {
-        "steers_500_600": 435.4,
-        "steers_600_700": 389.16,
-        "heifers_500_600": 381.17
+        "steers_500_600": 435.36,
+        "steers_600_700": 389.09,
+        "heifers_500_600": 381.13
       },
       "year_ago": {
         "steers_500_600": null,
         "steers_600_700": null,
         "heifers_500_600": null
       },
-      "markets": 133
+      "markets": 134
     },
     "al": {
       "this_week": {
@@ -166,14 +166,14 @@
     },
     "mo": {
       "this_week": {
-        "steers_500_600": 421.16,
-        "steers_600_700": 373.96,
-        "heifers_500_600": 367.32
+        "steers_500_600": 422.12,
+        "steers_600_700": 375.04,
+        "heifers_500_600": 368.75
       },
       "avg_4wk": {
-        "steers_500_600": 420.73,
-        "steers_600_700": 379.41,
-        "heifers_500_600": 373.89
+        "steers_500_600": 420.98,
+        "steers_600_700": 379.48,
+        "heifers_500_600": 374.11
       },
       "year_ago": {
         "steers_500_600": null,
@@ -274,21 +274,21 @@
     },
     "nm": {
       "this_week": {
-        "steers_500_600": 420.01,
-        "steers_600_700": 358.01,
-        "heifers_500_600": 370.07
+        "steers_500_600": 418.66,
+        "steers_600_700": 355.63,
+        "heifers_500_600": 368.76
       },
       "avg_4wk": {
-        "steers_500_600": 402.88,
-        "steers_600_700": 351.54,
-        "heifers_500_600": 355.29
+        "steers_500_600": 402.97,
+        "steers_600_700": 351.01,
+        "heifers_500_600": 355.51
       },
       "year_ago": {
         "steers_500_600": null,
         "steers_600_700": null,
         "heifers_500_600": null
       },
-      "markets": 3
+      "markets": 4
     },
     "ok": {
       "this_week": {
