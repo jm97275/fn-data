@@ -5150,3 +5150,26 @@ sale_date,state,slug,market,class,bracket,head,avg,low,high,receipts,grade_used,
 2026-11-20,SD,2024,Herreid Livestock Market,feeder_heifer,600-700,70,359.90,342.00,380.00,4080,Medium and Large 1,false,head_weighted,2026-11-20T22:39:47Z
 2026-11-20,SD,2024,Herreid Livestock Market,feeder_heifer,700-800,11,329.00,329.00,329.00,4080,Medium and Large 1,false,head_weighted,2026-11-20T22:39:47Z
 2026-11-20,SD,2024,Herreid Livestock Market,feeder_heifer,800-900,28,330.00,327.00,331.00,4080,Medium and Large 1,false,head_weighted,2026-11-20T22:39:47Z
+2026-11-21,NE,1853,Ericson Livestock Market,feeder_steer,300-400,14,600.00,600.00,600.00,2088,Medium and Large 1,false,head_weighted,2026-11-22T00:08:28Z
+2026-11-21,NE,1853,Ericson Livestock Market,feeder_steer,400-500,84,515.77,472.50,550.00,2088,Medium and Large 1,false,head_weighted,2026-11-22T00:08:28Z
+2026-11-21,NE,1853,Ericson Livestock Market,feeder_steer,500-600,343,475.26,424.00,505.00,2088,Medium and Large 1,false,head_weighted,2026-11-22T00:08:28Z
+2026-11-21,NE,1853,Ericson Livestock Market,feeder_steer,600-700,380,425.25,379.00,437.50,2088,Medium and Large 1,false,head_weighted,2026-11-22T00:08:28Z
+2026-11-21,NE,1853,Ericson Livestock Market,feeder_steer,700-800,36,363.19,358.00,369.00,2088,Medium and Large 1,false,head_weighted,2026-11-22T00:08:28Z
+2026-11-21,NE,1853,Ericson Livestock Market,feeder_steer,800-900,25,343.00,343.00,343.00,2088,Medium and Large 1,false,head_weighted,2026-11-22T00:08:28Z
+2026-11-21,NE,1853,Ericson Livestock Market,feeder_heifer,300-400,30,483.07,450.00,530.00,2088,Medium and Large 1,false,head_weighted,2026-11-22T00:08:28Z
+2026-11-21,NE,1853,Ericson Livestock Market,feeder_heifer,400-500,124,423.68,402.50,445.00,2088,Medium and Large 1,false,head_weighted,2026-11-22T00:08:28Z
+2026-11-21,NE,1853,Ericson Livestock Market,feeder_heifer,500-600,375,407.63,373.00,432.50,2088,Medium and Large 1,false,head_weighted,2026-11-22T00:08:28Z
+2026-11-21,NE,1853,Ericson Livestock Market,feeder_heifer,600-700,123,359.31,349.00,368.00,2088,Medium and Large 1,false,head_weighted,2026-11-22T00:08:28Z
+2026-11-21,NE,1853,Ericson Livestock Market,feeder_heifer,800-900,13,308.00,308.00,308.00,2088,Medium and Large 1,false,head_weighted,2026-11-22T00:08:28Z
+2026-11-21,TN,2061,Crossville Stockyard,feeder_steer,300-400,1,495.00,495.00,495.00,238,Medium and Large 1,false,head_weighted,2026-11-22T00:08:28Z
+2026-11-21,TN,2061,Crossville Stockyard,feeder_steer,400-500,13,452.25,422.00,475.00,238,Medium and Large 1,false,head_weighted,2026-11-22T00:08:28Z
+2026-11-21,TN,2061,Crossville Stockyard,feeder_steer,500-600,12,397.08,375.00,410.00,238,Medium and Large 1,false,head_weighted,2026-11-22T00:08:28Z
+2026-11-21,TN,2061,Crossville Stockyard,feeder_steer,600-700,8,327.37,311.00,350.00,238,Medium and Large 1,false,head_weighted,2026-11-22T00:08:28Z
+2026-11-21,TN,2061,Crossville Stockyard,feeder_steer,700-800,8,304.72,300.00,310.00,238,Medium and Large 1,false,head_weighted,2026-11-22T00:08:28Z
+2026-11-21,TN,2061,Crossville Stockyard,feeder_steer,800-900,1,290.00,290.00,290.00,238,Medium and Large 1,false,head_weighted,2026-11-22T00:08:28Z
+2026-11-21,TN,2061,Crossville Stockyard,feeder_heifer,300-400,6,350.00,350.00,350.00,238,Medium and Large 1,false,head_weighted,2026-11-22T00:08:28Z
+2026-11-21,TN,2061,Crossville Stockyard,feeder_heifer,400-500,16,339.61,250.00,360.00,238,Medium and Large 1,false,head_weighted,2026-11-22T00:08:28Z
+2026-11-21,TN,2061,Crossville Stockyard,feeder_heifer,500-600,32,327.17,280.00,364.00,238,Medium and Large 1,false,head_weighted,2026-11-22T00:08:28Z
+2026-11-21,TN,2061,Crossville Stockyard,feeder_heifer,600-700,4,293.75,280.00,300.00,238,Medium and Large 1,false,head_weighted,2026-11-22T00:08:28Z
+2026-11-21,TN,2061,Crossville Stockyard,feeder_heifer,700-800,2,265.00,265.00,265.00,238,Medium and Large 1,false,head_weighted,2026-11-22T00:08:28Z
+2026-11-21,TN,2061,Crossville Stockyard,slaughter_cow,,51,111.85,,,238,,,head_weighted,2026-11-22T00:08:28Z
