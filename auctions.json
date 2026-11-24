@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-24T03:18:55Z",
+  "fetched_at": "2026-11-24T04:46:55Z",
   "markets": [
     {
       "slug": "1979",
@@ -3363,6 +3363,84 @@
       },
       "slaughter_cows": null,
       "five_wt_steer_avg": 427.54,
+      "grade_used": "Medium and Large 1",
+      "grade_fallback": false
+    },
+    {
+      "slug": "2156",
+      "name": "Tama Livestock Feeder Cattle",
+      "city": "Tama",
+      "state": "IA",
+      "lat": 41.9651,
+      "lon": -92.5738,
+      "sale_date": "2026-11-23",
+      "receipts": 526,
+      "feeder_steers": {
+        "5_6": {
+          "avg": 412.04,
+          "low": 365.0,
+          "high": 435.0,
+          "head": 73
+        },
+        "6_7": {
+          "avg": 381.53,
+          "low": 340.0,
+          "high": 427.5,
+          "head": 55
+        },
+        "4_5": {
+          "avg": 527.86,
+          "low": 495.0,
+          "high": 545.0,
+          "head": 31
+        },
+        "7_8": {
+          "avg": 359.61,
+          "low": 344.0,
+          "high": 379.0,
+          "head": 20
+        },
+        "3_4": {
+          "avg": 500.62,
+          "low": 497.5,
+          "high": 505.0,
+          "head": 5
+        }
+      },
+      "feeder_heifers": {
+        "6_7": {
+          "avg": 300.0,
+          "low": 300.0,
+          "high": 300.0,
+          "head": 4
+        },
+        "5_6": {
+          "avg": 379.64,
+          "low": 365.0,
+          "high": 390.0,
+          "head": 65
+        },
+        "3_4": {
+          "avg": 465.16,
+          "low": 435.0,
+          "high": 500.0,
+          "head": 16
+        },
+        "4_5": {
+          "avg": 403.31,
+          "low": 365.0,
+          "high": 430.0,
+          "head": 53
+        },
+        "7_8": {
+          "avg": 310.0,
+          "low": 310.0,
+          "high": 310.0,
+          "head": 8
+        }
+      },
+      "slaughter_cows": null,
+      "five_wt_steer_avg": 412.04,
       "grade_used": "Medium and Large 1",
       "grade_fallback": false
     },

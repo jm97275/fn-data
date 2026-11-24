@@ -5236,6 +5236,16 @@ sale_date,state,slug,market,class,bracket,head,avg,low,high,receipts,grade_used,
 2026-11-21,VA,2186,Springlake Graded Feeder Cattle Sale,feeder_heifer,500-600,1,320.00,320.00,320.00,237,Medium and Large 1,false,head_weighted,2026-11-24T03:18:55Z
 2026-11-21,VA,2186,Springlake Graded Feeder Cattle Sale,feeder_heifer,600-700,6,295.00,295.00,295.00,237,Medium and Large 1,false,head_weighted,2026-11-24T03:18:55Z
 2026-11-21,VA,2186,Springlake Graded Feeder Cattle Sale,feeder_heifer,700-800,1,268.00,268.00,268.00,237,Medium and Large 1,false,head_weighted,2026-11-24T03:18:55Z
+2026-11-23,IA,2156,Tama Livestock Feeder Cattle,feeder_steer,300-400,5,500.62,497.50,505.00,526,Medium and Large 1,false,head_weighted,2026-11-24T04:46:55Z
+2026-11-23,IA,2156,Tama Livestock Feeder Cattle,feeder_steer,400-500,31,527.86,495.00,545.00,526,Medium and Large 1,false,head_weighted,2026-11-24T04:46:55Z
+2026-11-23,IA,2156,Tama Livestock Feeder Cattle,feeder_steer,500-600,73,412.04,365.00,435.00,526,Medium and Large 1,false,head_weighted,2026-11-24T04:46:55Z
+2026-11-23,IA,2156,Tama Livestock Feeder Cattle,feeder_steer,600-700,55,381.53,340.00,427.50,526,Medium and Large 1,false,head_weighted,2026-11-24T04:46:55Z
+2026-11-23,IA,2156,Tama Livestock Feeder Cattle,feeder_steer,700-800,20,359.61,344.00,379.00,526,Medium and Large 1,false,head_weighted,2026-11-24T04:46:55Z
+2026-11-23,IA,2156,Tama Livestock Feeder Cattle,feeder_heifer,300-400,16,465.16,435.00,500.00,526,Medium and Large 1,false,head_weighted,2026-11-24T04:46:55Z
+2026-11-23,IA,2156,Tama Livestock Feeder Cattle,feeder_heifer,400-500,53,403.31,365.00,430.00,526,Medium and Large 1,false,head_weighted,2026-11-24T04:46:55Z
+2026-11-23,IA,2156,Tama Livestock Feeder Cattle,feeder_heifer,500-600,65,379.64,365.00,390.00,526,Medium and Large 1,false,head_weighted,2026-11-24T04:46:55Z
+2026-11-23,IA,2156,Tama Livestock Feeder Cattle,feeder_heifer,600-700,4,300.00,300.00,300.00,526,Medium and Large 1,false,head_weighted,2026-11-24T04:46:55Z
+2026-11-23,IA,2156,Tama Livestock Feeder Cattle,feeder_heifer,700-800,8,310.00,310.00,310.00,526,Medium and Large 1,false,head_weighted,2026-11-24T04:46:55Z
 2026-11-23,IA,2159,Russell Livestock Feeder Cattle,feeder_steer,300-400,32,501.27,480.00,510.00,2503,Medium and Large 1,false,head_weighted,2026-11-24T03:18:55Z
 2026-11-23,IA,2159,Russell Livestock Feeder Cattle,feeder_steer,400-500,89,492.16,462.00,505.00,2503,Medium and Large 1,false,head_weighted,2026-11-24T03:18:55Z
 2026-11-23,IA,2159,Russell Livestock Feeder Cattle,feeder_steer,500-600,416,426.04,400.00,463.00,2503,Medium and Large 1,false,head_weighted,2026-11-24T03:18:55Z
