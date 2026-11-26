@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-26T00:06:22Z",
+  "fetched_at": "2026-11-26T02:43:31Z",
   "markets": [
     {
       "slug": "1979",
@@ -4439,90 +4439,6 @@
         "head": 56
       },
       "five_wt_steer_avg": 385.83,
-      "grade_used": "medium and large 1-2",
-      "grade_fallback": true
-    },
-    {
-      "slug": "2229",
-      "name": "Farmers Regional Livestock Market",
-      "city": "Monthly Cattle Sale - Glasgow",
-      "state": "KY",
-      "lat": 37.0048,
-      "lon": -85.9259,
-      "sale_date": "2026-11-12",
-      "receipts": 803,
-      "feeder_steers": {
-        "7_8": {
-          "avg": 332.56,
-          "low": 316.0,
-          "high": 340.0,
-          "head": 61
-        },
-        "4_5": {
-          "avg": 410.47,
-          "low": 392.5,
-          "high": 442.0,
-          "head": 33
-        },
-        "5_6": {
-          "avg": 386.11,
-          "low": 360.0,
-          "high": 400.0,
-          "head": 80
-        },
-        "6_7": {
-          "avg": 366.27,
-          "low": 330.0,
-          "high": 387.0,
-          "head": 120
-        },
-        "8_9": {
-          "avg": 312.8,
-          "low": 305.0,
-          "high": 319.0,
-          "head": 32
-        }
-      },
-      "feeder_heifers": {
-        "6_7": {
-          "avg": 310.7,
-          "low": 296.0,
-          "high": 322.5,
-          "head": 108
-        },
-        "5_6": {
-          "avg": 344.07,
-          "low": 320.0,
-          "high": 356.0,
-          "head": 99
-        },
-        "4_5": {
-          "avg": 359.23,
-          "low": 355.0,
-          "high": 377.0,
-          "head": 26
-        },
-        "8_9": {
-          "avg": 306.35,
-          "low": 255.0,
-          "high": 310.5,
-          "head": 75
-        },
-        "3_4": {
-          "avg": 413.12,
-          "low": 398.0,
-          "high": 437.0,
-          "head": 14
-        },
-        "7_8": {
-          "avg": 307.8,
-          "low": 270.0,
-          "high": 326.0,
-          "head": 21
-        }
-      },
-      "slaughter_cows": null,
-      "five_wt_steer_avg": 386.11,
       "grade_used": "medium and large 1-2",
       "grade_fallback": true
     },
