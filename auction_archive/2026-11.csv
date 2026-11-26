@@ -5392,6 +5392,8 @@ sale_date,state,slug,market,class,bracket,head,avg,low,high,receipts,grade_used,
 2026-11-23,VA,2184,Lynchburg Graded Feeder Cattle Sale,feeder_heifer,500-600,20,310.00,310.00,310.00,417,Medium and Large 1,false,head_weighted,2026-11-25T00:18:24Z
 2026-11-23,VA,2184,Lynchburg Graded Feeder Cattle Sale,feeder_heifer,600-700,21,285.14,280.00,286.00,417,Medium and Large 1,false,head_weighted,2026-11-25T00:18:24Z
 2026-11-23,VA,2184,Lynchburg Graded Feeder Cattle Sale,feeder_heifer,700-800,6,270.00,270.00,270.00,417,Medium and Large 1,false,head_weighted,2026-11-25T00:18:24Z
+2026-11-24,IN,3415,Topeka Livestock Auction,feeder_steer,300-400,1,290.00,290.00,290.00,196,Medium and Large 1,false,head_weighted,2026-11-26T00:06:22Z
+2026-11-24,IN,3415,Topeka Livestock Auction,slaughter_cow,,38,106.31,,,196,,,head_weighted,2026-11-26T00:06:22Z
 2026-11-24,KY,2128,Blue Grass Stockyards (Tuesday),feeder_steer,400-500,1,410.00,410.00,410.00,564,medium and large 1-2,true,head_weighted,2026-11-25T00:18:24Z
 2026-11-24,KY,2128,Blue Grass Stockyards (Tuesday),feeder_steer,500-600,6,385.83,385.00,390.00,564,medium and large 1-2,true,head_weighted,2026-11-25T00:18:24Z
 2026-11-24,KY,2128,Blue Grass Stockyards (Tuesday),feeder_steer,600-700,6,311.67,307.50,320.00,564,medium and large 1-2,true,head_weighted,2026-11-25T00:18:24Z
@@ -5417,6 +5419,17 @@ sale_date,state,slug,market,class,bracket,head,avg,low,high,receipts,grade_used,
 2026-11-24,KY,2199,Farmers Regional Livestock Auction of Glasgow Dairy Auction,feeder_heifer,700-800,2,198.00,195.00,201.00,285,medium and large 1-2,true,head_weighted,2026-11-25T03:23:22Z
 2026-11-24,KY,2199,Farmers Regional Livestock Auction of Glasgow Dairy Auction,feeder_heifer,800-900,1,220.00,220.00,220.00,285,medium and large 1-2,true,head_weighted,2026-11-25T03:23:22Z
 2026-11-24,KY,2199,Farmers Regional Livestock Auction of Glasgow Dairy Auction,slaughter_cow,,238,117.55,,,285,,,head_weighted,2026-11-25T03:23:22Z
+2026-11-24,MO,1237,Unionville Livestock Market,feeder_steer,400-500,97,490.34,470.00,518.00,1721,Medium and Large 1,false,head_weighted,2026-11-26T00:06:22Z
+2026-11-24,MO,1237,Unionville Livestock Market,feeder_steer,500-600,168,435.58,397.00,472.50,1721,Medium and Large 1,false,head_weighted,2026-11-26T00:06:22Z
+2026-11-24,MO,1237,Unionville Livestock Market,feeder_steer,600-700,212,392.62,338.00,417.00,1721,Medium and Large 1,false,head_weighted,2026-11-26T00:06:22Z
+2026-11-24,MO,1237,Unionville Livestock Market,feeder_steer,700-800,73,335.66,328.50,345.00,1721,Medium and Large 1,false,head_weighted,2026-11-26T00:06:22Z
+2026-11-24,MO,1237,Unionville Livestock Market,feeder_steer,800-900,128,334.11,326.00,335.75,1721,Medium and Large 1,false,head_weighted,2026-11-26T00:06:22Z
+2026-11-24,MO,1237,Unionville Livestock Market,feeder_heifer,300-400,11,459.77,455.00,472.50,1721,Medium and Large 1,false,head_weighted,2026-11-26T00:06:22Z
+2026-11-24,MO,1237,Unionville Livestock Market,feeder_heifer,400-500,67,397.96,370.00,442.50,1721,Medium and Large 1,false,head_weighted,2026-11-26T00:06:22Z
+2026-11-24,MO,1237,Unionville Livestock Market,feeder_heifer,500-600,141,369.23,350.00,397.50,1721,Medium and Large 1,false,head_weighted,2026-11-26T00:06:22Z
+2026-11-24,MO,1237,Unionville Livestock Market,feeder_heifer,600-700,105,339.38,279.00,390.00,1721,Medium and Large 1,false,head_weighted,2026-11-26T00:06:22Z
+2026-11-24,MO,1237,Unionville Livestock Market,feeder_heifer,700-800,25,329.50,329.50,329.50,1721,Medium and Large 1,false,head_weighted,2026-11-26T00:06:22Z
+2026-11-24,MO,1237,Unionville Livestock Market,slaughter_cow,,52,102.36,,,1721,,,head_weighted,2026-11-26T00:06:22Z
 2026-11-24,MO,1249,Ozarks Regional Stockyards Feeder Cattle,feeder_steer,300-400,22,534.55,530.00,540.00,1474,Medium and Large 1,false,head_weighted,2026-11-25T00:18:24Z
 2026-11-24,MO,1249,Ozarks Regional Stockyards Feeder Cattle,feeder_steer,400-500,18,520.00,520.00,520.00,1474,Medium and Large 1,false,head_weighted,2026-11-25T00:18:24Z
 2026-11-24,MO,1249,Ozarks Regional Stockyards Feeder Cattle,feeder_steer,500-600,130,421.12,390.00,437.00,1474,Medium and Large 1,false,head_weighted,2026-11-25T00:18:24Z
@@ -5480,3 +5493,27 @@ sale_date,state,slug,market,class,bracket,head,avg,low,high,receipts,grade_used,
 2026-11-24,WY,2104,Winter Livestock Auction,feeder_heifer,500-600,63,428.00,428.00,428.00,1224,Medium and Large 1,false,head_weighted,2026-11-25T00:18:24Z
 2026-11-24,WY,2104,Winter Livestock Auction,feeder_heifer,700-800,32,302.52,287.50,315.00,1224,Medium and Large 1,false,head_weighted,2026-11-25T00:18:24Z
 2026-11-24,WY,2104,Winter Livestock Auction,feeder_heifer,800-900,33,314.82,305.00,317.00,1224,Medium and Large 1,false,head_weighted,2026-11-25T00:18:24Z
+2026-11-25,IA,2018,Central Plains Stockyards Livestock Auction,feeder_steer,300-400,10,483.96,475.00,490.00,850,Medium and Large 1,false,head_weighted,2026-11-26T00:06:22Z
+2026-11-25,IA,2018,Central Plains Stockyards Livestock Auction,feeder_steer,400-500,13,475.00,475.00,475.00,850,Medium and Large 1,false,head_weighted,2026-11-26T00:06:22Z
+2026-11-25,IA,2018,Central Plains Stockyards Livestock Auction,feeder_steer,500-600,76,407.91,380.00,420.00,850,Medium and Large 1,false,head_weighted,2026-11-26T00:06:22Z
+2026-11-25,IA,2018,Central Plains Stockyards Livestock Auction,feeder_steer,600-700,67,386.87,370.00,403.00,850,Medium and Large 1,false,head_weighted,2026-11-26T00:06:22Z
+2026-11-25,IA,2018,Central Plains Stockyards Livestock Auction,feeder_steer,700-800,62,349.00,346.00,370.00,850,Medium and Large 1,false,head_weighted,2026-11-26T00:06:22Z
+2026-11-25,IA,2018,Central Plains Stockyards Livestock Auction,feeder_heifer,300-400,6,455.00,455.00,455.00,850,Medium and Large 1,false,head_weighted,2026-11-26T00:06:22Z
+2026-11-25,IA,2018,Central Plains Stockyards Livestock Auction,feeder_heifer,400-500,29,418.82,410.00,432.50,850,Medium and Large 1,false,head_weighted,2026-11-26T00:06:22Z
+2026-11-25,IA,2018,Central Plains Stockyards Livestock Auction,feeder_heifer,500-600,75,381.19,372.00,393.00,850,Medium and Large 1,false,head_weighted,2026-11-26T00:06:22Z
+2026-11-25,IA,2018,Central Plains Stockyards Livestock Auction,feeder_heifer,600-700,57,335.56,335.00,337.00,850,Medium and Large 1,false,head_weighted,2026-11-26T00:06:22Z
+2026-11-25,IA,2018,Central Plains Stockyards Livestock Auction,feeder_heifer,700-800,73,322.50,322.50,322.50,850,Medium and Large 1,false,head_weighted,2026-11-26T00:06:22Z
+2026-11-25,IA,2018,Central Plains Stockyards Livestock Auction,feeder_heifer,800-900,125,302.97,300.50,305.25,850,Medium and Large 1,false,head_weighted,2026-11-26T00:06:22Z
+2026-11-25,KY,2203,"United Producers, Inc.",feeder_steer,400-500,1,367.50,367.50,367.50,78,medium and large 1-2,true,head_weighted,2026-11-26T00:06:22Z
+2026-11-25,KY,2203,"United Producers, Inc.",feeder_steer,500-600,6,356.00,356.00,356.00,78,medium and large 1-2,true,head_weighted,2026-11-26T00:06:22Z
+2026-11-25,KY,2203,"United Producers, Inc.",feeder_steer,600-700,2,317.15,300.00,335.00,78,medium and large 1-2,true,head_weighted,2026-11-26T00:06:22Z
+2026-11-25,KY,2203,"United Producers, Inc.",feeder_steer,700-800,1,290.00,290.00,290.00,78,medium and large 1-2,true,head_weighted,2026-11-26T00:06:22Z
+2026-11-25,KY,2203,"United Producers, Inc.",feeder_steer,800-900,1,255.00,255.00,255.00,78,medium and large 1-2,true,head_weighted,2026-11-26T00:06:22Z
+2026-11-25,KY,2203,"United Producers, Inc.",feeder_heifer,300-400,6,380.86,355.00,405.00,78,medium and large 1-2,true,head_weighted,2026-11-26T00:06:22Z
+2026-11-25,KY,2203,"United Producers, Inc.",feeder_heifer,400-500,7,366.15,360.00,367.50,78,medium and large 1-2,true,head_weighted,2026-11-26T00:06:22Z
+2026-11-25,KY,2203,"United Producers, Inc.",feeder_heifer,500-600,3,308.70,290.00,335.00,78,medium and large 1-2,true,head_weighted,2026-11-26T00:06:22Z
+2026-11-25,KY,2203,"United Producers, Inc.",slaughter_cow,,37,116.46,,,78,,,head_weighted,2026-11-26T00:06:22Z
+2026-11-25,MO,1255,Springfield Livestock Marketing Center Feeder Cattle,feeder_steer,400-500,5,490.00,490.00,490.00,177,Medium and Large 1,false,head_weighted,2026-11-26T00:06:22Z
+2026-11-25,MO,1255,Springfield Livestock Marketing Center Feeder Cattle,feeder_heifer,300-400,2,460.00,460.00,460.00,177,Medium and Large 1,false,head_weighted,2026-11-26T00:06:22Z
+2026-11-25,MO,1255,Springfield Livestock Marketing Center Feeder Cattle,feeder_heifer,400-500,5,423.87,420.00,430.00,177,Medium and Large 1,false,head_weighted,2026-11-26T00:06:22Z
+2026-11-25,MO,1255,Springfield Livestock Marketing Center Feeder Cattle,feeder_heifer,500-600,18,348.61,335.00,370.00,177,Medium and Large 1,false,head_weighted,2026-11-26T00:06:22Z
