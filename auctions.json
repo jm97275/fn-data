@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-26T02:43:31Z",
+  "fetched_at": "2026-11-27T00:12:52Z",
   "markets": [
     {
       "slug": "1979",
@@ -586,81 +586,6 @@
       "grade_fallback": false
     },
     {
-      "slug": "2059",
-      "name": "Ash Flat Livestock Auction",
-      "city": "Ash Flat",
-      "state": "AR",
-      "lat": 36.2366,
-      "lon": -91.6065,
-      "sale_date": "2026-11-13",
-      "receipts": 520,
-      "feeder_steers": {
-        "4_5": {
-          "avg": 423.01,
-          "low": 400.0,
-          "high": 440.0,
-          "head": 8
-        },
-        "6_7": {
-          "avg": 349.68,
-          "low": 330.0,
-          "high": 365.0,
-          "head": 7
-        },
-        "7_8": {
-          "avg": 335.0,
-          "low": 325.0,
-          "high": 340.0,
-          "head": 3
-        },
-        "5_6": {
-          "avg": 369.08,
-          "low": 345.0,
-          "high": 385.0,
-          "head": 10
-        }
-      },
-      "feeder_heifers": {
-        "4_5": {
-          "avg": 358.08,
-          "low": 325.0,
-          "high": 385.0,
-          "head": 15
-        },
-        "5_6": {
-          "avg": 341.35,
-          "low": 312.5,
-          "high": 360.0,
-          "head": 29
-        },
-        "3_4": {
-          "avg": 401.67,
-          "low": 390.0,
-          "high": 420.0,
-          "head": 3
-        },
-        "7_8": {
-          "avg": 298.53,
-          "low": 285.0,
-          "high": 305.0,
-          "head": 3
-        },
-        "6_7": {
-          "avg": 323.94,
-          "low": 302.5,
-          "high": 330.0,
-          "head": 20
-        }
-      },
-      "slaughter_cows": {
-        "avg": 104.35,
-        "head": 34
-      },
-      "five_wt_steer_avg": 369.08,
-      "grade_used": "Medium and Large 1",
-      "grade_fallback": false
-    },
-    {
       "slug": "2050",
       "name": "North Arkansas Livestock",
       "city": "GreenForest",
@@ -1191,78 +1116,6 @@
         "head": 60
       },
       "five_wt_steer_avg": 436.84,
-      "grade_used": "Medium and Large 1",
-      "grade_fallback": false
-    },
-    {
-      "slug": "1906",
-      "name": "Livestock Exchange Feeder Cattle Auction (Friday)",
-      "city": "Brush",
-      "state": "CO",
-      "lat": 40.2593,
-      "lon": -103.6363,
-      "sale_date": "2026-11-13",
-      "receipts": 1358,
-      "feeder_steers": {
-        "5_6": {
-          "avg": 451.16,
-          "low": 440.0,
-          "high": 462.5,
-          "head": 50
-        },
-        "6_7": {
-          "avg": 374.17,
-          "low": 360.0,
-          "high": 412.5,
-          "head": 71
-        },
-        "4_5": {
-          "avg": 480.0,
-          "low": 480.0,
-          "high": 480.0,
-          "head": 5
-        },
-        "3_4": {
-          "avg": 547.5,
-          "low": 547.5,
-          "high": 547.5,
-          "head": 6
-        },
-        "7_8": {
-          "avg": 338.84,
-          "low": 326.0,
-          "high": 341.0,
-          "head": 25
-        }
-      },
-      "feeder_heifers": {
-        "4_5": {
-          "avg": 457.5,
-          "low": 457.5,
-          "high": 457.5,
-          "head": 6
-        },
-        "5_6": {
-          "avg": 379.24,
-          "low": 368.0,
-          "high": 384.0,
-          "head": 37
-        },
-        "7_8": {
-          "avg": 312.57,
-          "low": 308.0,
-          "high": 316.0,
-          "head": 7
-        },
-        "6_7": {
-          "avg": 353.48,
-          "low": 352.0,
-          "high": 359.0,
-          "head": 33
-        }
-      },
-      "slaughter_cows": null,
-      "five_wt_steer_avg": 451.16,
       "grade_used": "Medium and Large 1",
       "grade_fallback": false
     },
@@ -12102,96 +11955,6 @@
         "head": 58
       },
       "five_wt_steer_avg": 348.5,
-      "grade_used": "Medium and Large 1",
-      "grade_fallback": false
-    },
-    {
-      "slug": "2073",
-      "name": "East Tennessee Livestock Center Graded Feeder Cattle Sale",
-      "city": "Sweetwater",
-      "state": "TN",
-      "lat": 35.6026,
-      "lon": -84.4734,
-      "sale_date": "2026-11-13",
-      "receipts": 620,
-      "feeder_steers": {
-        "8_9": {
-          "avg": 310.65,
-          "low": 304.0,
-          "high": 313.0,
-          "head": 23
-        },
-        "5_6": {
-          "avg": 396.58,
-          "low": 362.0,
-          "high": 405.0,
-          "head": 63
-        },
-        "7_8": {
-          "avg": 320.66,
-          "low": 305.0,
-          "high": 324.0,
-          "head": 47
-        },
-        "6_7": {
-          "avg": 361.72,
-          "low": 335.0,
-          "high": 368.0,
-          "head": 77
-        },
-        "3_4": {
-          "avg": 485.0,
-          "low": 455.0,
-          "high": 495.0,
-          "head": 4
-        },
-        "4_5": {
-          "avg": 435.87,
-          "low": 415.0,
-          "high": 460.0,
-          "head": 17
-        }
-      },
-      "feeder_heifers": {
-        "4_5": {
-          "avg": 361.0,
-          "low": 357.0,
-          "high": 370.0,
-          "head": 13
-        },
-        "6_7": {
-          "avg": 316.03,
-          "low": 280.0,
-          "high": 322.0,
-          "head": 44
-        },
-        "5_6": {
-          "avg": 336.03,
-          "low": 307.0,
-          "high": 344.25,
-          "head": 86
-        },
-        "8_9": {
-          "avg": 237.5,
-          "low": 237.5,
-          "high": 237.5,
-          "head": 2
-        },
-        "7_8": {
-          "avg": 286.64,
-          "low": 265.0,
-          "high": 290.5,
-          "head": 33
-        },
-        "3_4": {
-          "avg": 370.0,
-          "low": 370.0,
-          "high": 370.0,
-          "head": 4
-        }
-      },
-      "slaughter_cows": null,
-      "five_wt_steer_avg": 396.58,
       "grade_used": "Medium and Large 1",
       "grade_fallback": false
     },
