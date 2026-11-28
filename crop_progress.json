@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T00:04:11.821731",
+  "updated": "2026-11-28T02:41:31.269296",
   "year": 2026,
   "pasture": {
     "UT": {
@@ -444,31 +444,7 @@
         "condition_week": "2026-11-22"
       }
     },
-    "VA": {
-      "wheat": {
-        "pct_planted": null,
-        "pct_good_excellent": 5,
-        "week_ending": "2026-11-22",
-        "condition_week": "2026-11-22"
-      }
-    },
-    "AL": {
-      "wheat": {
-        "pct_planted": null,
-        "pct_good_excellent": 22,
-        "week_ending": "2026-11-22",
-        "condition_week": "2026-11-22"
-      }
-    },
-    "DE": {
-      "wheat": {
-        "pct_planted": null,
-        "pct_good_excellent": 4,
-        "week_ending": "2026-11-22",
-        "condition_week": "2026-11-22"
-      }
-    },
-    "UT": {
+    "WY": {
       "wheat": {
         "pct_planted": null,
         "pct_good_excellent": 0,
@@ -476,34 +452,26 @@
         "condition_week": "2026-11-22"
       }
     },
-    "KS": {
+    "IL": {
       "wheat": {
         "pct_planted": null,
-        "pct_good_excellent": 14,
+        "pct_good_excellent": 10,
         "week_ending": "2026-11-22",
         "condition_week": "2026-11-22"
       }
     },
-    "NY": {
+    "ID": {
       "wheat": {
         "pct_planted": null,
-        "pct_good_excellent": 11,
+        "pct_good_excellent": 6,
         "week_ending": "2026-11-22",
         "condition_week": "2026-11-22"
       }
     },
-    "MS": {
+    "ND": {
       "wheat": {
         "pct_planted": null,
-        "pct_good_excellent": 12,
-        "week_ending": "2026-06-14",
-        "condition_week": "2026-06-14"
-      }
-    },
-    "AR": {
-      "wheat": {
-        "pct_planted": null,
-        "pct_good_excellent": 4,
+        "pct_good_excellent": 2,
         "week_ending": "2026-11-22",
         "condition_week": "2026-11-22"
       }
@@ -516,36 +484,60 @@
         "condition_week": "2026-05-31"
       }
     },
-    "OH": {
+    "DE": {
       "wheat": {
         "pct_planted": null,
-        "pct_good_excellent": 8,
+        "pct_good_excellent": 4,
         "week_ending": "2026-11-22",
         "condition_week": "2026-11-22"
       }
     },
-    "SD": {
-      "wheat": {
-        "pct_planted": null,
-        "pct_good_excellent": 8,
-        "week_ending": "2026-11-22",
-        "condition_week": "2026-11-22"
-      }
-    },
-    "WI": {
-      "wheat": {
-        "pct_planted": null,
-        "pct_good_excellent": 19,
-        "week_ending": "2026-11-22",
-        "condition_week": "2026-11-22"
-      }
-    },
-    "TX": {
+    "MO": {
       "wheat": {
         "pct_planted": null,
         "pct_good_excellent": 14,
         "week_ending": "2026-11-22",
         "condition_week": "2026-11-22"
+      }
+    },
+    "OK": {
+      "wheat": {
+        "pct_planted": null,
+        "pct_good_excellent": 5,
+        "week_ending": "2026-11-22",
+        "condition_week": "2026-11-22"
+      }
+    },
+    "VA": {
+      "wheat": {
+        "pct_planted": null,
+        "pct_good_excellent": 5,
+        "week_ending": "2026-11-22",
+        "condition_week": "2026-11-22"
+      }
+    },
+    "LA": {
+      "wheat": {
+        "pct_planted": null,
+        "pct_good_excellent": 0,
+        "week_ending": "2026-06-07",
+        "condition_week": "2026-06-07"
+      }
+    },
+    "UT": {
+      "wheat": {
+        "pct_planted": null,
+        "pct_good_excellent": 0,
+        "week_ending": "2026-11-22",
+        "condition_week": "2026-11-22"
+      }
+    },
+    "MS": {
+      "wheat": {
+        "pct_planted": null,
+        "pct_good_excellent": 12,
+        "week_ending": "2026-06-14",
+        "condition_week": "2026-06-14"
       }
     },
     "WV": {
@@ -556,39 +548,7 @@
         "condition_week": "2026-11-22"
       }
     },
-    "AZ": {
-      "wheat": {
-        "pct_planted": null,
-        "pct_good_excellent": 37,
-        "week_ending": "2026-06-07",
-        "condition_week": "2026-06-07"
-      }
-    },
-    "WY": {
-      "wheat": {
-        "pct_planted": null,
-        "pct_good_excellent": 0,
-        "week_ending": "2026-11-22",
-        "condition_week": "2026-11-22"
-      }
-    },
-    "CA": {
-      "wheat": {
-        "pct_planted": null,
-        "pct_good_excellent": 5,
-        "week_ending": "2026-11-22",
-        "condition_week": "2026-11-22"
-      }
-    },
-    "IN": {
-      "wheat": {
-        "pct_planted": null,
-        "pct_good_excellent": 11,
-        "week_ending": "2026-11-22",
-        "condition_week": "2026-11-22"
-      }
-    },
-    "KY": {
+    "AR": {
       "wheat": {
         "pct_planted": null,
         "pct_good_excellent": 4,
@@ -596,15 +556,7 @@
         "condition_week": "2026-11-22"
       }
     },
-    "NC": {
-      "wheat": {
-        "pct_planted": null,
-        "pct_good_excellent": 16,
-        "week_ending": "2026-11-22",
-        "condition_week": "2026-11-22"
-      }
-    },
-    "ID": {
+    "WA": {
       "wheat": {
         "pct_planted": null,
         "pct_good_excellent": 6,
@@ -620,95 +572,7 @@
         "condition_week": "2026-11-22"
       }
     },
-    "NE": {
-      "wheat": {
-        "pct_planted": null,
-        "pct_good_excellent": 7,
-        "week_ending": "2026-11-22",
-        "condition_week": "2026-11-22"
-      }
-    },
-    "SC": {
-      "wheat": {
-        "pct_planted": null,
-        "pct_good_excellent": 1,
-        "week_ending": "2026-06-14",
-        "condition_week": "2026-06-14"
-      }
-    },
-    "IL": {
-      "wheat": {
-        "pct_planted": null,
-        "pct_good_excellent": 10,
-        "week_ending": "2026-11-22",
-        "condition_week": "2026-11-22"
-      }
-    },
-    "CO": {
-      "wheat": {
-        "pct_planted": null,
-        "pct_good_excellent": 19,
-        "week_ending": "2026-11-22",
-        "condition_week": "2026-11-22"
-      }
-    },
-    "LA": {
-      "wheat": {
-        "pct_planted": null,
-        "pct_good_excellent": 0,
-        "week_ending": "2026-06-07",
-        "condition_week": "2026-06-07"
-      }
-    },
-    "MO": {
-      "wheat": {
-        "pct_planted": null,
-        "pct_good_excellent": 14,
-        "week_ending": "2026-11-22",
-        "condition_week": "2026-11-22"
-      }
-    },
     "NJ": {
-      "wheat": {
-        "pct_planted": null,
-        "pct_good_excellent": 2,
-        "week_ending": "2026-11-22",
-        "condition_week": "2026-11-22"
-      }
-    },
-    "OK": {
-      "wheat": {
-        "pct_planted": null,
-        "pct_good_excellent": 5,
-        "week_ending": "2026-11-22",
-        "condition_week": "2026-11-22"
-      }
-    },
-    "OR": {
-      "wheat": {
-        "pct_planted": null,
-        "pct_good_excellent": 14,
-        "week_ending": "2026-11-22",
-        "condition_week": "2026-11-22"
-      }
-    },
-    "PA": {
-      "wheat": {
-        "pct_planted": null,
-        "pct_good_excellent": 34,
-        "week_ending": "2026-11-22",
-        "condition_week": "2026-11-22"
-      }
-    },
-    "MT": {
-      "wheat": {
-        "pct_planted": null,
-        "pct_good_excellent": 1,
-        "week_ending": "2026-11-22",
-        "condition_week": "2026-11-22"
-      }
-    },
-    "ND": {
       "wheat": {
         "pct_planted": null,
         "pct_good_excellent": 2,
@@ -724,6 +588,102 @@
         "condition_week": "2026-08-23"
       }
     },
+    "IN": {
+      "wheat": {
+        "pct_planted": null,
+        "pct_good_excellent": 11,
+        "week_ending": "2026-11-22",
+        "condition_week": "2026-11-22"
+      }
+    },
+    "NC": {
+      "wheat": {
+        "pct_planted": null,
+        "pct_good_excellent": 16,
+        "week_ending": "2026-11-22",
+        "condition_week": "2026-11-22"
+      }
+    },
+    "TX": {
+      "wheat": {
+        "pct_planted": null,
+        "pct_good_excellent": 14,
+        "week_ending": "2026-11-22",
+        "condition_week": "2026-11-22"
+      }
+    },
+    "SC": {
+      "wheat": {
+        "pct_planted": null,
+        "pct_good_excellent": 1,
+        "week_ending": "2026-06-14",
+        "condition_week": "2026-06-14"
+      }
+    },
+    "CA": {
+      "wheat": {
+        "pct_planted": null,
+        "pct_good_excellent": 5,
+        "week_ending": "2026-11-22",
+        "condition_week": "2026-11-22"
+      }
+    },
+    "OH": {
+      "wheat": {
+        "pct_planted": null,
+        "pct_good_excellent": 8,
+        "week_ending": "2026-11-22",
+        "condition_week": "2026-11-22"
+      }
+    },
+    "NY": {
+      "wheat": {
+        "pct_planted": null,
+        "pct_good_excellent": 11,
+        "week_ending": "2026-11-22",
+        "condition_week": "2026-11-22"
+      }
+    },
+    "MT": {
+      "wheat": {
+        "pct_planted": null,
+        "pct_good_excellent": 1,
+        "week_ending": "2026-11-22",
+        "condition_week": "2026-11-22"
+      }
+    },
+    "NE": {
+      "wheat": {
+        "pct_planted": null,
+        "pct_good_excellent": 7,
+        "week_ending": "2026-11-22",
+        "condition_week": "2026-11-22"
+      }
+    },
+    "PA": {
+      "wheat": {
+        "pct_planted": null,
+        "pct_good_excellent": 34,
+        "week_ending": "2026-11-22",
+        "condition_week": "2026-11-22"
+      }
+    },
+    "KY": {
+      "wheat": {
+        "pct_planted": null,
+        "pct_good_excellent": 4,
+        "week_ending": "2026-11-22",
+        "condition_week": "2026-11-22"
+      }
+    },
+    "KS": {
+      "wheat": {
+        "pct_planted": null,
+        "pct_good_excellent": 14,
+        "week_ending": "2026-11-22",
+        "condition_week": "2026-11-22"
+      }
+    },
     "NM": {
       "wheat": {
         "pct_planted": null,
@@ -732,10 +692,26 @@
         "condition_week": "2026-11-22"
       }
     },
-    "WA": {
+    "AZ": {
       "wheat": {
         "pct_planted": null,
-        "pct_good_excellent": 6,
+        "pct_good_excellent": 37,
+        "week_ending": "2026-06-07",
+        "condition_week": "2026-06-07"
+      }
+    },
+    "SD": {
+      "wheat": {
+        "pct_planted": null,
+        "pct_good_excellent": 8,
+        "week_ending": "2026-11-22",
+        "condition_week": "2026-11-22"
+      }
+    },
+    "AL": {
+      "wheat": {
+        "pct_planted": null,
+        "pct_good_excellent": 22,
         "week_ending": "2026-11-22",
         "condition_week": "2026-11-22"
       }
@@ -744,6 +720,30 @@
       "wheat": {
         "pct_planted": null,
         "pct_good_excellent": 10,
+        "week_ending": "2026-11-22",
+        "condition_week": "2026-11-22"
+      }
+    },
+    "CO": {
+      "wheat": {
+        "pct_planted": null,
+        "pct_good_excellent": 19,
+        "week_ending": "2026-11-22",
+        "condition_week": "2026-11-22"
+      }
+    },
+    "OR": {
+      "wheat": {
+        "pct_planted": null,
+        "pct_good_excellent": 14,
+        "week_ending": "2026-11-22",
+        "condition_week": "2026-11-22"
+      }
+    },
+    "WI": {
+      "wheat": {
+        "pct_planted": null,
+        "pct_good_excellent": 19,
         "week_ending": "2026-11-22",
         "condition_week": "2026-11-22"
       }
